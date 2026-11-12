@@ -1,0 +1,9 @@
+{
+  "name": "awesome-ads-maintenance",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "verify": "bun scripts/verify.ts",
+    "build": "bun scripts/build-readme.ts"
+  }
+}

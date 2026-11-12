@@ -18,7 +18,7 @@ Die Sammlung erweitert eine frühere Google-Ads-Recherche vom 10.11.2026. Alle b
 
 ## Weitere Awesome-Listen
 
-Neun sind im [Awesome-Repo-Verzeichnis](AWESOME-REPOS.md) enthalten. Besonders relevant sind [Awesome AI Ads](https://github.com/hermoso-ai/awesome-ai-ads) für Anzeigenbibliotheken und Agent-Schnittstellen, [Awesome Ads](https://github.com/TMHSDigital/Awesome-Ads) für Kanal-Playbooks, [Awesome Marketing Science](https://github.com/shakostats/Awesome-Marketing-Science) für Messmethoden und [Awesome Advertising](https://github.com/cenoura/awesome-ads) für AdTech-Begriffe. Kleine Sammlungen bleiben als Discovery-Referenzen gekennzeichnet.
+Neun sind im [Awesome-Repo-Verzeichnis](awesome-repos.md) enthalten. Besonders relevant sind [Awesome AI Ads](https://github.com/hermoso-ai/awesome-ai-ads) für Anzeigenbibliotheken und Agent-Schnittstellen, [Awesome Ads](https://github.com/TMHSDigital/Awesome-Ads) für Kanal-Playbooks, [Awesome Marketing Science](https://github.com/shakostats/Awesome-Marketing-Science) für Messmethoden und [Awesome Advertising](https://github.com/cenoura/awesome-ads) für AdTech-Begriffe. Kleine Sammlungen bleiben als Discovery-Referenzen gekennzeichnet.
 
 Behauptungen der Listen werden nicht ungeprüft übernommen. Insbesondere lässt sich aus einer langen Anzeigenlaufzeit keine Profitabilität ableiten. Eine Community-Listung beweist weder Security noch aktuellen Produktsupport.
 

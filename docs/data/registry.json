@@ -3548,7 +3548,7 @@
       "commit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "latestCommit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "license": "MIT",
-      "localFile": "vendor/mardab96/google-ads-skills/conversion-tracking-audit-google-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/google-ads-skills/conversion-tracking-audit-google-ads/SKILL.md",
       "sha256": "e003907481bda2be679cd680039e2be008ec99e56fa4c09bdf2a18a50b9ba684",
       "legacyId": "S001"
     },
@@ -3576,7 +3576,7 @@
       "commit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "latestCommit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "license": "MIT",
-      "localFile": "vendor/mardab96/google-ads-skills/offline-conversion-import-audit-google-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/google-ads-skills/offline-conversion-import-audit-google-ads/SKILL.md",
       "sha256": "14061abcc0c76f7fd751827c18079ab2ca2b92708e9a25b615c057395f05ec21",
       "legacyId": "S002"
     },
@@ -3603,7 +3603,7 @@
       "commit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "latestCommit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "license": "MIT",
-      "localFile": "vendor/mardab96/google-ads-skills/account-triage-google-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/google-ads-skills/account-triage-google-ads/SKILL.md",
       "sha256": "c4cc2001c411a238fd51980a38269ae5559086120b02d32da28a4b8723594157",
       "legacyId": "S003"
     },
@@ -3630,7 +3630,7 @@
       "commit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "latestCommit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "license": "MIT",
-      "localFile": "vendor/mardab96/google-ads-skills/wasted-spend-finder-google-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/google-ads-skills/wasted-spend-finder-google-ads/SKILL.md",
       "sha256": "8554fe64652a8b3fe81963fa643bda2411b4bfa6fe117cb2de9e00bad90787c5",
       "legacyId": "S004"
     },
@@ -3657,7 +3657,7 @@
       "commit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "latestCommit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "license": "MIT",
-      "localFile": "vendor/mardab96/google-ads-skills/search-terms-hygiene-google-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/google-ads-skills/search-terms-hygiene-google-ads/SKILL.md",
       "sha256": "f409d56143ada1dd2ac899b25bdc0d3925879b1b5587b8add101fb39a5b453f4",
       "legacyId": "S005"
     },
@@ -3685,7 +3685,7 @@
       "commit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "latestCommit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "license": "MIT",
-      "localFile": "vendor/mardab96/google-ads-skills/bidding-strategy-sanity-check-google-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/google-ads-skills/bidding-strategy-sanity-check-google-ads/SKILL.md",
       "sha256": "0c881ab5aabe682a45476ea4afbee0d7ce97dfa1d855850d2e2b588dd075dfb7",
       "legacyId": "S006"
     },
@@ -3712,7 +3712,7 @@
       "commit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "latestCommit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "license": "MIT",
-      "localFile": "vendor/mardab96/google-ads-skills/shopping-feed-qa-google-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/google-ads-skills/shopping-feed-qa-google-ads/SKILL.md",
       "sha256": "097b3f4d1e24e49149d8f9b62533b1bfde9150c277ae73ea585ab037c6526f5e",
       "legacyId": "S007"
     },
@@ -3739,7 +3739,7 @@
       "commit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "latestCommit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "license": "MIT",
-      "localFile": "vendor/mardab96/google-ads-skills/pmax-performance-diagnosis-google-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/google-ads-skills/pmax-performance-diagnosis-google-ads/SKILL.md",
       "sha256": "6ddee3bbc7e1bad9696b86ce82947fb725265023d0a54cddae1ecb398f881419",
       "legacyId": "S008"
     },
@@ -3766,7 +3766,7 @@
       "commit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "latestCommit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "license": "MIT",
-      "localFile": "vendor/mardab96/google-ads-skills/cpa-spike-diagnosis-google-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/google-ads-skills/cpa-spike-diagnosis-google-ads/SKILL.md",
       "sha256": "aa45b951832e787c4d5927db89d648648ce9fd05c478555738bffb593cac04b2",
       "legacyId": "S009"
     },
@@ -3793,7 +3793,7 @@
       "commit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "latestCommit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "license": "MIT",
-      "localFile": "vendor/mardab96/google-ads-skills/impression-share-gap-finder-google-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/google-ads-skills/impression-share-gap-finder-google-ads/SKILL.md",
       "sha256": "c73f1e24f6026610ddd771c92d8775a870288080287acc2740a2209fe90d46c5",
       "legacyId": "S010"
     },
@@ -3820,7 +3820,7 @@
       "commit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "latestCommit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "license": "MIT",
-      "localFile": "vendor/mardab96/google-ads-skills/account-structure-audit-google-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/google-ads-skills/account-structure-audit-google-ads/SKILL.md",
       "sha256": "ac47043f2116c00a76fd3e8bfc65e3a32b9d456cdff61c3768b331f1cc75245e",
       "legacyId": "S011"
     },
@@ -3847,7 +3847,7 @@
       "commit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "latestCommit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "license": "MIT",
-      "localFile": "vendor/mardab96/google-ads-skills/quality-score-analysis-google-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/google-ads-skills/quality-score-analysis-google-ads/SKILL.md",
       "sha256": "09669854189f99354160946c7709dd6e3b6139aa1df01c79949516acf0cdd858",
       "legacyId": "S012"
     },
@@ -3874,7 +3874,7 @@
       "commit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "latestCommit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "license": "MIT",
-      "localFile": "vendor/mardab96/google-ads-skills/landing-page-match-scorer-google-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/google-ads-skills/landing-page-match-scorer-google-ads/SKILL.md",
       "sha256": "7def5546eaa20c7053f8b92aa17b09367c677899ca570a394a8902707a81f729",
       "legacyId": "S013"
     },
@@ -3902,7 +3902,7 @@
       "commit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "latestCommit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "license": "MIT",
-      "localFile": "vendor/mardab96/google-ads-skills/rsa-ad-copy-review-google-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/google-ads-skills/rsa-ad-copy-review-google-ads/SKILL.md",
       "sha256": "bbb9b64ffcad18e1871661133635fe3effe2b7cbcdf4876b82e1f74f72165a83",
       "legacyId": "S014"
     },
@@ -3929,7 +3929,7 @@
       "commit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "latestCommit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "license": "MIT",
-      "localFile": "vendor/mardab96/google-ads-skills/rsa-ad-copy-generator-google-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/google-ads-skills/rsa-ad-copy-generator-google-ads/SKILL.md",
       "sha256": "708ba35b10ad01509670d483477c508692adbec9edf69ff01d30464a79d5427d",
       "legacyId": "S015"
     },
@@ -3956,7 +3956,7 @@
       "commit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "latestCommit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "license": "MIT",
-      "localFile": "vendor/mardab96/google-ads-skills/scaling-planner-google-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/google-ads-skills/scaling-planner-google-ads/SKILL.md",
       "sha256": "9b995eafb6050e69637b71ee736be259bd616bad919439d4ea7b34b31ed54fbd",
       "legacyId": "S016"
     },
@@ -3983,7 +3983,7 @@
       "commit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "latestCommit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "license": "MIT",
-      "localFile": "vendor/mardab96/google-ads-skills/roas-forecast-scenarios-google-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/google-ads-skills/roas-forecast-scenarios-google-ads/SKILL.md",
       "sha256": "12762acc02f67503181ba2cd7d6dbb22e81867a7c755cbbfd685746ab2659606",
       "legacyId": "S017"
     },
@@ -4010,7 +4010,7 @@
       "commit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "latestCommit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "license": "MIT",
-      "localFile": "vendor/mardab96/google-ads-skills/competitor-benchmark-auction-insights-google-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/google-ads-skills/competitor-benchmark-auction-insights-google-ads/SKILL.md",
       "sha256": "f55f499efdbe6ab81175f3e1e122fba0f13cbe1975a2e453032295055db46fe3",
       "legacyId": "S018"
     },
@@ -4037,7 +4037,7 @@
       "commit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "latestCommit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "license": "MIT",
-      "localFile": "vendor/mardab96/google-ads-skills/anomaly-detection-google-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/google-ads-skills/anomaly-detection-google-ads/SKILL.md",
       "sha256": "ce0c45fe1a363228554fa70dd2e71fd6f2b9aef3d76697abee4e409e4db4a2da",
       "legacyId": "S019"
     },
@@ -4064,7 +4064,7 @@
       "commit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "latestCommit": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3",
       "license": "MIT",
-      "localFile": "vendor/mardab96/google-ads-skills/weekly-operator-digest-google-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/google-ads-skills/weekly-operator-digest-google-ads/SKILL.md",
       "sha256": "9321824b357a79680a0e22233a3d1b4832da9ff4597a70ccb351ab44dcf86860",
       "legacyId": "S020"
     },
@@ -4091,7 +4091,7 @@
       "commit": "819b16c76b34dd9e856221de6db569351d6627bb",
       "latestCommit": "42ed164bea1ae2fc05c8d65fda182a1851264008",
       "license": "Apache-2.0",
-      "localFile": "vendor/google/skills/skills/ads/data-manager-api-setup/SKILL.md",
+      "localFile": "docs/vendor/google/skills/skills/ads/data-manager-api-setup/SKILL.md",
       "sha256": "a60488c726b69c67eda74234c0e91b58706d77b6a58e3763ab83e13dbff3946c",
       "legacyId": "S021"
     },
@@ -4118,7 +4118,7 @@
       "commit": "819b16c76b34dd9e856221de6db569351d6627bb",
       "latestCommit": "42ed164bea1ae2fc05c8d65fda182a1851264008",
       "license": "Apache-2.0",
-      "localFile": "vendor/google/skills/skills/ads/data-manager-api-event-ingestion/SKILL.md",
+      "localFile": "docs/vendor/google/skills/skills/ads/data-manager-api-event-ingestion/SKILL.md",
       "sha256": "8dbf4a839934e2f6fb08403f124493388205131eec05856af11e6fe04733aaec",
       "legacyId": "S022"
     },
@@ -4145,7 +4145,7 @@
       "commit": "819b16c76b34dd9e856221de6db569351d6627bb",
       "latestCommit": "42ed164bea1ae2fc05c8d65fda182a1851264008",
       "license": "Apache-2.0",
-      "localFile": "vendor/google/skills/skills/ads/google-ads-api-mcp-setup/SKILL.md",
+      "localFile": "docs/vendor/google/skills/skills/ads/google-ads-api-mcp-setup/SKILL.md",
       "sha256": "1430b983516185125ffeca03874e9f518250f01c26b365afeed08782b5f29dd5",
       "legacyId": "S023"
     },
@@ -4172,7 +4172,7 @@
       "commit": "819b16c76b34dd9e856221de6db569351d6627bb",
       "latestCommit": "42ed164bea1ae2fc05c8d65fda182a1851264008",
       "license": "Apache-2.0",
-      "localFile": "vendor/google/skills/skills/ads/google-ads-api-quickstart/SKILL.md",
+      "localFile": "docs/vendor/google/skills/skills/ads/google-ads-api-quickstart/SKILL.md",
       "sha256": "b30a029d9fba9286be054cb6fe22f449d51865d252f79b508822a012a578f27a",
       "legacyId": "S024"
     },
@@ -4200,7 +4200,7 @@
       "commit": "819b16c76b34dd9e856221de6db569351d6627bb",
       "latestCommit": "42ed164bea1ae2fc05c8d65fda182a1851264008",
       "license": "Apache-2.0",
-      "localFile": "vendor/google/skills/skills/ads/google-ads-api-account-diagnostics/SKILL.md",
+      "localFile": "docs/vendor/google/skills/skills/ads/google-ads-api-account-diagnostics/SKILL.md",
       "sha256": "5845c59e9c90e17424f2451028fa83b9de0a985030e306bb54bac628facec5ed",
       "legacyId": "S025"
     },
@@ -4228,7 +4228,7 @@
       "commit": "819b16c76b34dd9e856221de6db569351d6627bb",
       "latestCommit": "42ed164bea1ae2fc05c8d65fda182a1851264008",
       "license": "Apache-2.0",
-      "localFile": "vendor/google/skills/skills/analytics/google-analytics-data-api-basics/SKILL.md",
+      "localFile": "docs/vendor/google/skills/skills/analytics/google-analytics-data-api-basics/SKILL.md",
       "sha256": "3ec2b0f892d1c640e0d8f6bff803b93a65492ec81a7d11526472b7c37d4f0025",
       "legacyId": "S026"
     },
@@ -4255,7 +4255,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-google/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-google/SKILL.md",
       "sha256": "82f0083ad202098e9814850b1031b0dce1650497fa6b37923b56f72b1c01a9a4",
       "legacyId": "S027"
     },
@@ -4282,7 +4282,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-budget/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-budget/SKILL.md",
       "sha256": "f5416bd786da49b4bee3a4eaf215fa8871e7eeafa8f5eebe1b5a811226dc2779",
       "legacyId": "S028"
     },
@@ -4309,7 +4309,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-attribution/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-attribution/SKILL.md",
       "sha256": "e121015d4c2e09278c94954e959d3683e3a06ad3ea3259f972a358cf327896b4",
       "legacyId": "S029"
     },
@@ -4336,7 +4336,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-server-side-tracking/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-server-side-tracking/SKILL.md",
       "sha256": "bfdd1c4bb95ddf49740b61a8c3d34e5a70fda98a58782434ec0b2aea8b812a2e",
       "legacyId": "S030"
     },
@@ -4363,7 +4363,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-audit/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-audit/SKILL.md",
       "sha256": "116af34f04c9f0ac92c09ecb9bcfad18ca68577e63a163d1ad833bfcae5401e6",
       "legacyId": "S031"
     },
@@ -4390,7 +4390,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-landing/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-landing/SKILL.md",
       "sha256": "d178024b94aba046f7eb67a4a1fd561590fd3a3f9855d829147df23820f62581",
       "legacyId": "S032"
     },
@@ -4417,7 +4417,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-creative/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-creative/SKILL.md",
       "sha256": "4cf88555061246505d007be0014f57a5c8df11593599f53aa3d908235c56bfd4",
       "legacyId": "S033"
     },
@@ -4445,7 +4445,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-competitor/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-competitor/SKILL.md",
       "sha256": "4e3bd1d01ce669cffb1a1fe74672ec320753ea3fcc194f5337976050ef75010b",
       "legacyId": "S034"
     },
@@ -4472,7 +4472,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-math/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-math/SKILL.md",
       "sha256": "b129b371f983c8f42e2ae8a22eb780b8248121dbf7128e00e9425a9947317fbf",
       "legacyId": "S035"
     },
@@ -4499,7 +4499,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-monitor/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-monitor/SKILL.md",
       "sha256": "f1420bbdc71bfc45d8216e3522cd926f5846701eda0a26e9442e532ad63fd2c2",
       "legacyId": "S036"
     },
@@ -4526,7 +4526,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-optimize/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-optimize/SKILL.md",
       "sha256": "0f8548e97be960827e14a06c6fff3fb3a40f84ec303ceb99c36706d3bda473d6",
       "legacyId": "S037"
     },
@@ -4553,7 +4553,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-plan/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-plan/SKILL.md",
       "sha256": "590f8062e556b28a66a57f34e0cf4fae57a9f02d774e5cc475e687ef7e822212",
       "legacyId": "S038"
     },
@@ -4580,7 +4580,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-report/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-report/SKILL.md",
       "sha256": "b9927d1b497fd2c883fee05383f15745c8a7d437300f534d85ba2e86208743e8",
       "legacyId": "S039"
     },
@@ -4607,7 +4607,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-research/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-research/SKILL.md",
       "sha256": "7be4b6009ff62a79a9a1dfa5885a24f75c850322643e80564ca2478810030883",
       "legacyId": "S040"
     },
@@ -4634,7 +4634,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-setup/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-setup/SKILL.md",
       "sha256": "67704bae892d5973063c3a782f9523abeb72158f39f5af8055f7b8a87d1865cf",
       "legacyId": "S041"
     },
@@ -4661,7 +4661,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-test/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-test/SKILL.md",
       "sha256": "5f1a0c5580f598927197b513540ef02570e2f14e5d045316ef10d779842ee0b4",
       "legacyId": "S042"
     },
@@ -4688,7 +4688,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-validate/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-validate/SKILL.md",
       "sha256": "a61da0abd3e6f95c25b4baa8f505b2685f33a113bd779445f83f2b9a7dec75ca",
       "legacyId": "S043"
     },
@@ -4715,7 +4715,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-youtube/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-youtube/SKILL.md",
       "sha256": "4b08d58d0b7fad343bf20ba958bdab660a997c3365210e2e9336bbacfac5ac5b",
       "legacyId": "S044"
     },
@@ -4742,7 +4742,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-create/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-create/SKILL.md",
       "sha256": "148da652ea7e495408d07d415227888bc8795e3573109f890225ce18bb520de0",
       "legacyId": "S045"
     },
@@ -4769,7 +4769,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-launch/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-launch/SKILL.md",
       "sha256": "b1614308347ac705982ebeb54bb5e753251db3e4a71d15042ac6e8ab01d4667b",
       "legacyId": "S046"
     },
@@ -4796,7 +4796,7 @@
       "commit": "9d6d7ce8d18eb155dc2f9762435f097e60cdad7c",
       "latestCommit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "license": "MIT",
-      "localFile": "vendor/coreyhaines31/marketingskills/skills/product-marketing/SKILL.md",
+      "localFile": "docs/vendor/coreyhaines31/marketingskills/skills/product-marketing/SKILL.md",
       "sha256": "8dbccc22998b3cac194c3509fa93d119163b82c9b0a1ce573e6737e5a5ccf555",
       "legacyId": "S047"
     },
@@ -4823,7 +4823,7 @@
       "commit": "9d6d7ce8d18eb155dc2f9762435f097e60cdad7c",
       "latestCommit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "license": "MIT",
-      "localFile": "vendor/coreyhaines31/marketingskills/skills/customer-research/SKILL.md",
+      "localFile": "docs/vendor/coreyhaines31/marketingskills/skills/customer-research/SKILL.md",
       "sha256": "d12b522641884acb385f7a919138b5bfbe4ad9b070bd13a470923eebaa682a4f",
       "legacyId": "S048"
     },
@@ -4850,7 +4850,7 @@
       "commit": "9d6d7ce8d18eb155dc2f9762435f097e60cdad7c",
       "latestCommit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "license": "MIT",
-      "localFile": "vendor/coreyhaines31/marketingskills/skills/offers/SKILL.md",
+      "localFile": "docs/vendor/coreyhaines31/marketingskills/skills/offers/SKILL.md",
       "sha256": "d5de835c90e65c9fc117508760ca6df5d8d0ab546ffe6933beab089c944ba71c",
       "legacyId": "S049"
     },
@@ -4877,7 +4877,7 @@
       "commit": "9d6d7ce8d18eb155dc2f9762435f097e60cdad7c",
       "latestCommit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "license": "MIT",
-      "localFile": "vendor/coreyhaines31/marketingskills/skills/pricing/SKILL.md",
+      "localFile": "docs/vendor/coreyhaines31/marketingskills/skills/pricing/SKILL.md",
       "sha256": "4f0a939631eca1b4bbee22bf6bc88b35ac06c33bfa8e4e837c8767a4bf6f5b54",
       "legacyId": "S050"
     },
@@ -4904,7 +4904,7 @@
       "commit": "9d6d7ce8d18eb155dc2f9762435f097e60cdad7c",
       "latestCommit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "license": "MIT",
-      "localFile": "vendor/coreyhaines31/marketingskills/skills/copywriting/SKILL.md",
+      "localFile": "docs/vendor/coreyhaines31/marketingskills/skills/copywriting/SKILL.md",
       "sha256": "1db2f6e51f0492f5efc646b74576721852720dec388e58d0facd2b790c01bb4e",
       "legacyId": "S051"
     },
@@ -4931,7 +4931,7 @@
       "commit": "9d6d7ce8d18eb155dc2f9762435f097e60cdad7c",
       "latestCommit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "license": "MIT",
-      "localFile": "vendor/coreyhaines31/marketingskills/skills/copy-editing/SKILL.md",
+      "localFile": "docs/vendor/coreyhaines31/marketingskills/skills/copy-editing/SKILL.md",
       "sha256": "ef6bf9e792edac9ff524576a7eea6980fd13e605e5561736b045136341cde63e",
       "legacyId": "S052"
     },
@@ -4958,7 +4958,7 @@
       "commit": "9d6d7ce8d18eb155dc2f9762435f097e60cdad7c",
       "latestCommit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "license": "MIT",
-      "localFile": "vendor/coreyhaines31/marketingskills/skills/cro/SKILL.md",
+      "localFile": "docs/vendor/coreyhaines31/marketingskills/skills/cro/SKILL.md",
       "sha256": "0f8588aba125de102498ca3bbaa0151c8ebffa0a7ad85c14d992ef16db02fb2d",
       "legacyId": "S053"
     },
@@ -4985,7 +4985,7 @@
       "commit": "9d6d7ce8d18eb155dc2f9762435f097e60cdad7c",
       "latestCommit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "license": "MIT",
-      "localFile": "vendor/coreyhaines31/marketingskills/skills/signup/SKILL.md",
+      "localFile": "docs/vendor/coreyhaines31/marketingskills/skills/signup/SKILL.md",
       "sha256": "5d54fb404a0eeb04043899230ad15a72b327a1075cc2c220838caf0cdf6ec3b7",
       "legacyId": "S054"
     },
@@ -5012,7 +5012,7 @@
       "commit": "9d6d7ce8d18eb155dc2f9762435f097e60cdad7c",
       "latestCommit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "license": "MIT",
-      "localFile": "vendor/coreyhaines31/marketingskills/skills/ab-testing/SKILL.md",
+      "localFile": "docs/vendor/coreyhaines31/marketingskills/skills/ab-testing/SKILL.md",
       "sha256": "938a9a9246c6b05657f509e7ab181f1c961dc14f9dcb5d452c574d3e44a39be2",
       "legacyId": "S055"
     },
@@ -5039,7 +5039,7 @@
       "commit": "9d6d7ce8d18eb155dc2f9762435f097e60cdad7c",
       "latestCommit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "license": "MIT",
-      "localFile": "vendor/coreyhaines31/marketingskills/skills/conversion-tracking/SKILL.md",
+      "localFile": "docs/vendor/coreyhaines31/marketingskills/skills/conversion-tracking/SKILL.md",
       "sha256": "84a702f8583d468e039c6b53201b4189e895dde30a40883bffdee37f65d704b9",
       "legacyId": "S056"
     },
@@ -5066,7 +5066,7 @@
       "commit": "9d6d7ce8d18eb155dc2f9762435f097e60cdad7c",
       "latestCommit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "license": "MIT",
-      "localFile": "vendor/coreyhaines31/marketingskills/skills/analytics/SKILL.md",
+      "localFile": "docs/vendor/coreyhaines31/marketingskills/skills/analytics/SKILL.md",
       "sha256": "65cc762098990ae6feb0fbbb2906ac2f03bba963f95f3bc8acf36a6f5413971b",
       "legacyId": "S057"
     },
@@ -5093,7 +5093,7 @@
       "commit": "9d6d7ce8d18eb155dc2f9762435f097e60cdad7c",
       "latestCommit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "license": "MIT",
-      "localFile": "vendor/coreyhaines31/marketingskills/skills/attribution/SKILL.md",
+      "localFile": "docs/vendor/coreyhaines31/marketingskills/skills/attribution/SKILL.md",
       "sha256": "f4157dc5310fcf01e9bf62c0863e3d9185037e60d8e2aa1a59399e56c1de7b72",
       "legacyId": "S058"
     },
@@ -5120,7 +5120,7 @@
       "commit": "9d6d7ce8d18eb155dc2f9762435f097e60cdad7c",
       "latestCommit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "license": "MIT",
-      "localFile": "vendor/coreyhaines31/marketingskills/skills/ad-creative/SKILL.md",
+      "localFile": "docs/vendor/coreyhaines31/marketingskills/skills/ad-creative/SKILL.md",
       "sha256": "d60adac8c77cd12dc6b856cc4cf379ceae20cf2d96459bd773b38d6965f2234d",
       "legacyId": "S059"
     },
@@ -5147,7 +5147,7 @@
       "commit": "9d6d7ce8d18eb155dc2f9762435f097e60cdad7c",
       "latestCommit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "license": "MIT",
-      "localFile": "vendor/coreyhaines31/marketingskills/skills/ads/SKILL.md",
+      "localFile": "docs/vendor/coreyhaines31/marketingskills/skills/ads/SKILL.md",
       "sha256": "a7794da11876242bc5ed7fdc7ffb92659999792a4c17eaf5724b51ebbb5da9b2",
       "legacyId": "S060"
     },
@@ -5174,7 +5174,7 @@
       "commit": "9d6d7ce8d18eb155dc2f9762435f097e60cdad7c",
       "latestCommit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "license": "MIT",
-      "localFile": "vendor/coreyhaines31/marketingskills/skills/competitors/SKILL.md",
+      "localFile": "docs/vendor/coreyhaines31/marketingskills/skills/competitors/SKILL.md",
       "sha256": "36d3f23aeb8358caff28ecff0cccf436d93afc88a0e2a05aff4353a77efee11b",
       "legacyId": "S061"
     },
@@ -5201,7 +5201,7 @@
       "commit": "9d6d7ce8d18eb155dc2f9762435f097e60cdad7c",
       "latestCommit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "license": "MIT",
-      "localFile": "vendor/coreyhaines31/marketingskills/skills/revops/SKILL.md",
+      "localFile": "docs/vendor/coreyhaines31/marketingskills/skills/revops/SKILL.md",
       "sha256": "443e7028b2cdff93e60d051fe528003e4b3569130a120ac649eaac2fd8013ac6",
       "legacyId": "S062"
     },
@@ -5228,7 +5228,7 @@
       "commit": "9d6d7ce8d18eb155dc2f9762435f097e60cdad7c",
       "latestCommit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "license": "MIT",
-      "localFile": "vendor/coreyhaines31/marketingskills/skills/sales-enablement/SKILL.md",
+      "localFile": "docs/vendor/coreyhaines31/marketingskills/skills/sales-enablement/SKILL.md",
       "sha256": "e7b6b323c57b788d1339c429342aa6dde83d78f6efcf45d8cfdd8c50eb46de83",
       "legacyId": "S063"
     },
@@ -5255,7 +5255,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/ga4-bigquery-export-and-sql/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ga4-bigquery-export-and-sql/SKILL.md",
       "sha256": "213cd67ff0219734265ae619622fa1835444e5d6d7466c0aac937aced4db11b7",
       "legacyId": "S064"
     },
@@ -5282,7 +5282,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/ga4-events-and-key-events/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ga4-events-and-key-events/SKILL.md",
       "sha256": "ad70034512bcf43bbd1947bdb9e0fdfd0b392e8fe81e2a16fb7f5608c3ddfb34",
       "legacyId": "S065"
     },
@@ -5309,7 +5309,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/ga4-conversions-and-audiences/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ga4-conversions-and-audiences/SKILL.md",
       "sha256": "bed30ce4243161d8d57e08f4c646abd437db9adfc655c864af4ad6e5d1b347d5",
       "legacyId": "S066"
     },
@@ -5337,7 +5337,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/ga4-apis-and-measurement-protocol/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ga4-apis-and-measurement-protocol/SKILL.md",
       "sha256": "9c6d6016f0e76ae43cd7b43ac9e80f68a27a6d3b1101f610561e6f2ed2d6b8f1",
       "legacyId": "S067"
     },
@@ -5364,7 +5364,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/gtm-server-conversion-enhancement/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/gtm-server-conversion-enhancement/SKILL.md",
       "sha256": "e02dc295db5de62bebe56be8e4c9d2f96171ef0cf2fcf1b0d66413b8d29086bf",
       "legacyId": "S068"
     },
@@ -5391,7 +5391,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/marketing-mix-modeling/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/marketing-mix-modeling/SKILL.md",
       "sha256": "1d0bfd147735fffdc55f656ee463d046dfbc9009696c942bb02e7a40e3d0092a",
       "legacyId": "S069"
     },
@@ -5418,7 +5418,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/incrementality-and-experimentation/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/incrementality-and-experimentation/SKILL.md",
       "sha256": "a4dbad0c9d2bb4684b94e9d6b2e2e1c1fbcb757a5c8fb24e8ddf222a01185e43",
       "legacyId": "S070"
     },
@@ -5445,7 +5445,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/path-to-conversion-analysis/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/path-to-conversion-analysis/SKILL.md",
       "sha256": "7c47d02ab9a37781fae67be8347faf41cbd3012ad216ad99631d2d046604c44e",
       "legacyId": "S071"
     },
@@ -5472,7 +5472,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/cross-platform-conversion-reconciliation/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/cross-platform-conversion-reconciliation/SKILL.md",
       "sha256": "0524a934b0201fb034417729820da011fd3973bb23980454ab1417d4737549aa",
       "legacyId": "S072"
     },
@@ -5499,7 +5499,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/google-ads-api-and-bulk-operations/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/google-ads-api-and-bulk-operations/SKILL.md",
       "sha256": "f0f4fbdacad253414df0ad2c7c4ccb22f3ad113e53645d044632bcb552e7a795",
       "legacyId": "S073"
     },
@@ -5526,7 +5526,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/google-ads-reporting/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/google-ads-reporting/SKILL.md",
       "sha256": "aac9940c4b6c856ca1b4ca19a3f29bff1a3cfa395571ee3e33caef195ad54238",
       "legacyId": "S074"
     },
@@ -5553,7 +5553,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/google-ads-shopping-and-feed/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/google-ads-shopping-and-feed/SKILL.md",
       "sha256": "042709d08cc517f71145a7f5243e35413a64fcbbf02e4136a288cd7933f84a55",
       "legacyId": "S075"
     },
@@ -5580,7 +5580,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/google-ads-audiences-and-targeting/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/google-ads-audiences-and-targeting/SKILL.md",
       "sha256": "1619f292b49fa0368ad53e0d9fd20c77922841a389227244ff3e472d2ca69af9",
       "legacyId": "S076"
     },
@@ -5607,7 +5607,7 @@
       "commit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "latestCommit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "license": "MIT",
-      "localFile": "vendor/mardab96/landing-pages-claude-skills/form-friction-finder/SKILL.md",
+      "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/form-friction-finder/SKILL.md",
       "sha256": "a4efcb427acb6ee4e704381f31d16263d6976ad7187b0a663562410371d561f1",
       "legacyId": "S077"
     },
@@ -5635,7 +5635,7 @@
       "commit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "latestCommit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "license": "MIT",
-      "localFile": "vendor/mardab96/landing-pages-claude-skills/mobile-conversion-review/SKILL.md",
+      "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/mobile-conversion-review/SKILL.md",
       "sha256": "2f75878d096d1870c211aa41b1e5bba1a0ae1d59bc7c1b0bf22b457b7a0c022a",
       "legacyId": "S078"
     },
@@ -5662,7 +5662,7 @@
       "commit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "latestCommit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "license": "MIT",
-      "localFile": "vendor/mardab96/landing-pages-claude-skills/paid-traffic-message-match-audit/SKILL.md",
+      "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/paid-traffic-message-match-audit/SKILL.md",
       "sha256": "9ecc6bdcc80c00bd2ad31d82e25aed010264195f8800ff12a52a76f1d5de0145",
       "legacyId": "S079"
     },
@@ -5689,7 +5689,7 @@
       "commit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "latestCommit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "license": "MIT",
-      "localFile": "vendor/mardab96/landing-pages-claude-skills/lead-form-sales-handoff-check/SKILL.md",
+      "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/lead-form-sales-handoff-check/SKILL.md",
       "sha256": "0db455645d5a8cbe9fea168c489701d35d48b889afa346940c85d95055a63e64",
       "legacyId": "S080"
     },
@@ -5716,7 +5716,7 @@
       "commit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "latestCommit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "license": "MIT",
-      "localFile": "vendor/mardab96/landing-pages-claude-skills/above-the-fold-clarity-review/SKILL.md",
+      "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/above-the-fold-clarity-review/SKILL.md",
       "sha256": "52746c5e412d1128690a08271853ce45df9bc8f7dfe17791dca30cdb2b72373c",
       "legacyId": "S081"
     },
@@ -5743,7 +5743,7 @@
       "commit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "latestCommit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "license": "MIT",
-      "localFile": "vendor/mardab96/landing-pages-claude-skills/offer-clarity-diagnosis/SKILL.md",
+      "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/offer-clarity-diagnosis/SKILL.md",
       "sha256": "1d84520a0c46a8bc6c32dfb40151712c0650089d475370f67455d7d03231944e",
       "legacyId": "S082"
     },
@@ -5770,7 +5770,7 @@
       "commit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "latestCommit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "license": "MIT",
-      "localFile": "vendor/mardab96/landing-pages-claude-skills/social-proof-strength-audit/SKILL.md",
+      "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/social-proof-strength-audit/SKILL.md",
       "sha256": "156aa8e4a51ae2c2a92edcefd0cee63b08a53b8837eebe7819f0760fdfac046e",
       "legacyId": "S083"
     },
@@ -5797,7 +5797,7 @@
       "commit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "latestCommit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "license": "MIT",
-      "localFile": "vendor/mardab96/landing-pages-claude-skills/landing-page-ab-test-readout/SKILL.md",
+      "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/landing-page-ab-test-readout/SKILL.md",
       "sha256": "c17e958b8e6b7ea8a92cc60eb8389c0a309a9e6c89e112b2f12c781c7df8fe61",
       "legacyId": "S084"
     },
@@ -5824,7 +5824,7 @@
       "commit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "latestCommit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "license": "MIT",
-      "localFile": "vendor/mardab96/landing-pages-claude-skills/landing-page-scale-readiness-check/SKILL.md",
+      "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/landing-page-scale-readiness-check/SKILL.md",
       "sha256": "b11f2110cde4f1d5a50e22cf9486a19bc7675ef6e205146b9b42b17c4462d5b2",
       "legacyId": "S085"
     },
@@ -5851,7 +5851,7 @@
       "commit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "latestCommit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "license": "MIT",
-      "localFile": "vendor/mardab96/landing-pages-claude-skills/google-ads-landing-page-experience-review/SKILL.md",
+      "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/google-ads-landing-page-experience-review/SKILL.md",
       "sha256": "58ddcd1bb3b35beb15a183d23fa106336e4e199c381997bb79ce723c6a5fdf9b",
       "legacyId": "S086"
     },
@@ -5878,7 +5878,7 @@
       "commit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "latestCommit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "license": "MIT",
-      "localFile": "vendor/TheMattBerman/google-ads-copilot/skills/google-ads-intent-map/SKILL.md",
+      "localFile": "docs/vendor/TheMattBerman/google-ads-copilot/skills/google-ads-intent-map/SKILL.md",
       "sha256": "967d6e01370588a3ade5f9d8d16accc77f9b10de80f687c14ca44efc35122b1b",
       "legacyId": "S087"
     },
@@ -5905,7 +5905,7 @@
       "commit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "latestCommit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "license": "MIT",
-      "localFile": "vendor/TheMattBerman/google-ads-copilot/skills/google-ads-search-terms/SKILL.md",
+      "localFile": "docs/vendor/TheMattBerman/google-ads-copilot/skills/google-ads-search-terms/SKILL.md",
       "sha256": "30c96e30897f3ddbc5f55bdb79564ec951ae0d47d5033cf6ed2a50ac1fcd2b7a",
       "legacyId": "S088"
     },
@@ -5932,7 +5932,7 @@
       "commit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "latestCommit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "license": "MIT",
-      "localFile": "vendor/TheMattBerman/google-ads-copilot/skills/google-ads-negatives/SKILL.md",
+      "localFile": "docs/vendor/TheMattBerman/google-ads-copilot/skills/google-ads-negatives/SKILL.md",
       "sha256": "7d072fba7470cd44fc43c2e05fd10d46e2d91c7eb6a1edde700478e735b287f6",
       "legacyId": "S089"
     },
@@ -5959,7 +5959,7 @@
       "commit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "latestCommit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "license": "MIT",
-      "localFile": "vendor/TheMattBerman/google-ads-copilot/skills/google-ads-rsas/SKILL.md",
+      "localFile": "docs/vendor/TheMattBerman/google-ads-copilot/skills/google-ads-rsas/SKILL.md",
       "sha256": "a6eea23419910e6d32123dbdc019bef372af19fceb606acb9ad00aa1d165499f",
       "legacyId": "S090"
     },
@@ -5986,7 +5986,7 @@
       "commit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "latestCommit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "license": "MIT",
-      "localFile": "vendor/TheMattBerman/google-ads-copilot/skills/google-ads-pmax/SKILL.md",
+      "localFile": "docs/vendor/TheMattBerman/google-ads-copilot/skills/google-ads-pmax/SKILL.md",
       "sha256": "bb017b65e1e5b53d613f84bf6c8ac2482b6e0f06b2639943cc90324f4bc1723f",
       "legacyId": "S091"
     },
@@ -6013,7 +6013,7 @@
       "commit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "latestCommit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "license": "MIT",
-      "localFile": "vendor/TheMattBerman/google-ads-copilot/skills/google-ads-budget/SKILL.md",
+      "localFile": "docs/vendor/TheMattBerman/google-ads-copilot/skills/google-ads-budget/SKILL.md",
       "sha256": "63e4fa3e874e9367020a8256494cd379d13f2e881802833d8ba9ecdb37c0dca7",
       "legacyId": "S092"
     },
@@ -6040,7 +6040,7 @@
       "commit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "latestCommit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "license": "MIT",
-      "localFile": "vendor/TheMattBerman/google-ads-copilot/skills/google-ads-structure/SKILL.md",
+      "localFile": "docs/vendor/TheMattBerman/google-ads-copilot/skills/google-ads-structure/SKILL.md",
       "sha256": "a790d7ca1924ab63ff34caea155dc7f4aec08e2ec3e48d9e4d27d8f72ed8df50",
       "legacyId": "S093"
     },
@@ -6067,7 +6067,7 @@
       "commit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "latestCommit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "license": "MIT",
-      "localFile": "vendor/TheMattBerman/google-ads-copilot/skills/google-ads-draft-summary/SKILL.md",
+      "localFile": "docs/vendor/TheMattBerman/google-ads-copilot/skills/google-ads-draft-summary/SKILL.md",
       "sha256": "2aa4a62c77d30f4828c8b14027f246a3d257f642cd9a54571dd366db99f58d14",
       "legacyId": "S094"
     },
@@ -6094,7 +6094,7 @@
       "commit": "c474229d4f28f80e603c78635e88e114cfacdcd3",
       "latestCommit": "3764d7f4712a79828176e75962dc704e80e0da5e",
       "license": "Apache-2.0",
-      "localFile": "vendor/aaron-he-zhu/aaron-marketing-skills/ad/activate/conversion-value-mapper/SKILL.md",
+      "localFile": "docs/vendor/aaron-he-zhu/aaron-marketing-skills/ad/activate/conversion-value-mapper/SKILL.md",
       "sha256": "3770149263e3c81e12134df3b5e55eeb6705853044d50d140ab868d7fbc2e6c9",
       "legacyId": "S095"
     },
@@ -6121,7 +6121,7 @@
       "commit": "c474229d4f28f80e603c78635e88e114cfacdcd3",
       "latestCommit": "3764d7f4712a79828176e75962dc704e80e0da5e",
       "license": "Apache-2.0",
-      "localFile": "vendor/aaron-he-zhu/aaron-marketing-skills/ad/activate/placement-exclusion-manager/SKILL.md",
+      "localFile": "docs/vendor/aaron-he-zhu/aaron-marketing-skills/ad/activate/placement-exclusion-manager/SKILL.md",
       "sha256": "2e55d2b060a5c31eeea1d8efbf9175cbcd309ce8fd3d9636acfccca0a107aa92",
       "legacyId": "S096"
     },
@@ -6148,7 +6148,7 @@
       "commit": "c474229d4f28f80e603c78635e88e114cfacdcd3",
       "latestCommit": "3764d7f4712a79828176e75962dc704e80e0da5e",
       "license": "Apache-2.0",
-      "localFile": "vendor/aaron-he-zhu/aaron-marketing-skills/ad/research/product-feed-optimizer/SKILL.md",
+      "localFile": "docs/vendor/aaron-he-zhu/aaron-marketing-skills/ad/research/product-feed-optimizer/SKILL.md",
       "sha256": "d6757d274626c1c192a76297db364226179b007a76bab0821919b78b0c0dfd6f",
       "legacyId": "S097"
     },
@@ -6175,7 +6175,7 @@
       "commit": "c474229d4f28f80e603c78635e88e114cfacdcd3",
       "latestCommit": "3764d7f4712a79828176e75962dc704e80e0da5e",
       "license": "Apache-2.0",
-      "localFile": "vendor/aaron-he-zhu/aaron-marketing-skills/ad/scale/budget-pacing-monitor/SKILL.md",
+      "localFile": "docs/vendor/aaron-he-zhu/aaron-marketing-skills/ad/scale/budget-pacing-monitor/SKILL.md",
       "sha256": "d2f7e43ec88b6d5746d1b11a71288f64246e58df19e329a9ab6b60b37e231642",
       "legacyId": "S098"
     },
@@ -6203,7 +6203,7 @@
       "commit": "c474229d4f28f80e603c78635e88e114cfacdcd3",
       "latestCommit": "3764d7f4712a79828176e75962dc704e80e0da5e",
       "license": "Apache-2.0",
-      "localFile": "vendor/aaron-he-zhu/aaron-marketing-skills/ad/scale/fatigue-frequency-manager/SKILL.md",
+      "localFile": "docs/vendor/aaron-he-zhu/aaron-marketing-skills/ad/scale/fatigue-frequency-manager/SKILL.md",
       "sha256": "43e1a9d1170b7a1e9539a77011f8d3aa048a31ea872343e1ea4d4ff2fe49cfc6",
       "legacyId": "S099"
     },
@@ -6232,7 +6232,7 @@
       "commit": "c474229d4f28f80e603c78635e88e114cfacdcd3",
       "latestCommit": "3764d7f4712a79828176e75962dc704e80e0da5e",
       "license": "Apache-2.0",
-      "localFile": "vendor/aaron-he-zhu/aaron-marketing-skills/ad/scale/paid-measurement-loop/SKILL.md",
+      "localFile": "docs/vendor/aaron-he-zhu/aaron-marketing-skills/ad/scale/paid-measurement-loop/SKILL.md",
       "sha256": "57720e412d7c037779a964f139bdc531787e44b38694c54c2050e90361eab38b",
       "legacyId": "S100"
     },
@@ -6258,7 +6258,7 @@
       "commit": "42ed164bea1ae2fc05c8d65fda182a1851264008",
       "latestCommit": "42ed164bea1ae2fc05c8d65fda182a1851264008",
       "license": "Apache-2.0",
-      "localFile": "vendor/google/skills/skills/ads/data-manager-api-audience-ingestion/SKILL.md",
+      "localFile": "docs/vendor/google/skills/skills/ads/data-manager-api-audience-ingestion/SKILL.md",
       "sha256": "a6f820026dfc991de7917d8906b9a52bbf1f55b7af663976903d8e5a722b234a"
     },
     {
@@ -6283,7 +6283,7 @@
       "commit": "42ed164bea1ae2fc05c8d65fda182a1851264008",
       "latestCommit": "42ed164bea1ae2fc05c8d65fda182a1851264008",
       "license": "Apache-2.0",
-      "localFile": "vendor/google/skills/skills/ads/google-mobile-ads-android-migrate-to-next-gen/SKILL.md",
+      "localFile": "docs/vendor/google/skills/skills/ads/google-mobile-ads-android-migrate-to-next-gen/SKILL.md",
       "sha256": "fe9cd5ae56ead163f8b36066c4f179632b9f6296068bbf439f6ff06ad95820bd"
     },
     {
@@ -6308,7 +6308,7 @@
       "commit": "42ed164bea1ae2fc05c8d65fda182a1851264008",
       "latestCommit": "42ed164bea1ae2fc05c8d65fda182a1851264008",
       "license": "Apache-2.0",
-      "localFile": "vendor/google/skills/skills/ads/google-mobile-ads-banner/SKILL.md",
+      "localFile": "docs/vendor/google/skills/skills/ads/google-mobile-ads-banner/SKILL.md",
       "sha256": "75dcfb5350c3feb1af57480f01518f4385d5c646593c194229888d37a7e45acb"
     },
     {
@@ -6333,7 +6333,7 @@
       "commit": "42ed164bea1ae2fc05c8d65fda182a1851264008",
       "latestCommit": "42ed164bea1ae2fc05c8d65fda182a1851264008",
       "license": "Apache-2.0",
-      "localFile": "vendor/google/skills/skills/ads/google-mobile-ads-get-started/SKILL.md",
+      "localFile": "docs/vendor/google/skills/skills/ads/google-mobile-ads-get-started/SKILL.md",
       "sha256": "f78293f37128fbabaf986ebcc1e2faa8bb8f341c7443af356ed2812035c536d4"
     },
     {
@@ -6358,7 +6358,7 @@
       "commit": "42ed164bea1ae2fc05c8d65fda182a1851264008",
       "latestCommit": "42ed164bea1ae2fc05c8d65fda182a1851264008",
       "license": "Apache-2.0",
-      "localFile": "vendor/google/skills/skills/ads/google-mobile-ads-interstitial/SKILL.md",
+      "localFile": "docs/vendor/google/skills/skills/ads/google-mobile-ads-interstitial/SKILL.md",
       "sha256": "35d1686cd69024b7cb132c7b30da5454aca80761cdc3ab7b7494f40e7ee9bbdc"
     },
     {
@@ -6383,7 +6383,7 @@
       "commit": "42ed164bea1ae2fc05c8d65fda182a1851264008",
       "latestCommit": "42ed164bea1ae2fc05c8d65fda182a1851264008",
       "license": "Apache-2.0",
-      "localFile": "vendor/google/skills/skills/ads/google-mobile-ads-rewarded/SKILL.md",
+      "localFile": "docs/vendor/google/skills/skills/ads/google-mobile-ads-rewarded/SKILL.md",
       "sha256": "11d6117b4545acba7dd0dcdf0bbe02dc86fc029032eefaa4c85971e77b0ea5f5"
     },
     {
@@ -6408,7 +6408,7 @@
       "commit": "42ed164bea1ae2fc05c8d65fda182a1851264008",
       "latestCommit": "42ed164bea1ae2fc05c8d65fda182a1851264008",
       "license": "Apache-2.0",
-      "localFile": "vendor/google/skills/skills/ads/google-mobile-ads-validate/SKILL.md",
+      "localFile": "docs/vendor/google/skills/skills/ads/google-mobile-ads-validate/SKILL.md",
       "sha256": "050a4431c19f91dbf5df01bd0dff2d5828867d9edfb2a64df79b2a15f4ce27ef"
     },
     {
@@ -6433,7 +6433,7 @@
       "commit": "42ed164bea1ae2fc05c8d65fda182a1851264008",
       "latestCommit": "42ed164bea1ae2fc05c8d65fda182a1851264008",
       "license": "Apache-2.0",
-      "localFile": "vendor/google/skills/skills/ads/ima-dai-sdk/SKILL.md",
+      "localFile": "docs/vendor/google/skills/skills/ads/ima-dai-sdk/SKILL.md",
       "sha256": "be916bf1758c7b0fd68c742831ccaa45d274bb7c1458e59f52ab2f0bba0e55d6"
     },
     {
@@ -6458,7 +6458,7 @@
       "commit": "42ed164bea1ae2fc05c8d65fda182a1851264008",
       "latestCommit": "42ed164bea1ae2fc05c8d65fda182a1851264008",
       "license": "Apache-2.0",
-      "localFile": "vendor/google/skills/skills/ads/ima-sdk-client-side/SKILL.md",
+      "localFile": "docs/vendor/google/skills/skills/ads/ima-sdk-client-side/SKILL.md",
       "sha256": "ff6523c5b4cab60367b48be183198a29e1e00862310045896f8d30ae037ef9af"
     },
     {
@@ -6484,7 +6484,7 @@
       "commit": "42ed164bea1ae2fc05c8d65fda182a1851264008",
       "latestCommit": "42ed164bea1ae2fc05c8d65fda182a1851264008",
       "license": "Apache-2.0",
-      "localFile": "vendor/google/skills/skills/analytics/google-analytics-admin-api-basics/SKILL.md",
+      "localFile": "docs/vendor/google/skills/skills/analytics/google-analytics-admin-api-basics/SKILL.md",
       "sha256": "e925587b9be8c40e449a3236de0f296719fda77c72b7b01dd8b336147a6ee33f"
     },
     {
@@ -6509,7 +6509,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/ads/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/ads/SKILL.md",
       "sha256": "72fecd78dbe7610d943fc29fbf55c11f951d67f61a9bd53efa30ab6a72d99b40"
     },
     {
@@ -6534,7 +6534,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-amazon/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-amazon/SKILL.md",
       "sha256": "e1890c0cb3938472a426bb9e50e1740457d094ab5257d591a4804f0a5980bfc5"
     },
     {
@@ -6559,7 +6559,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-apple/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-apple/SKILL.md",
       "sha256": "fbd3a496ccd0e1a58a0e84c741d328e6c5aad51e7b0f19dda4637bdc558f0393"
     },
     {
@@ -6584,7 +6584,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-dna/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-dna/SKILL.md",
       "sha256": "99d62bffb751501af4b1ed58d58fb605e8778e9e493515a86f809eb72800d805"
     },
     {
@@ -6609,7 +6609,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-generate/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-generate/SKILL.md",
       "sha256": "c7bf32613cd6a3f161115d9330785a005ebcb46939c711c261e6b05f9cd93849"
     },
     {
@@ -6634,7 +6634,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-linkedin/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-linkedin/SKILL.md",
       "sha256": "45cd90060dbd0470a6624d687bc4b4b661cef13b50045a3302bdc9f37679b1df"
     },
     {
@@ -6659,7 +6659,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-meta/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-meta/SKILL.md",
       "sha256": "1e06b50f7d0a16cfd76371b752d9ad0ede7c6b59a0da7da66f8b48425c015ecf"
     },
     {
@@ -6684,7 +6684,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-microsoft/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-microsoft/SKILL.md",
       "sha256": "ffa46fc0720d97cf55b447928ae6d61b5867965190f7812e6324707ba8d60798"
     },
     {
@@ -6709,7 +6709,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-photoshoot/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-photoshoot/SKILL.md",
       "sha256": "ac42a9c63510e3ba734b0e162736535b3f6143f98375606793752438f4bf9ef0"
     },
     {
@@ -6734,7 +6734,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-pinterest/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-pinterest/SKILL.md",
       "sha256": "ab8be1dc5a6d10cd9f5de71fd595fa705d1cf47a925f1acb83638f59a445a792"
     },
     {
@@ -6759,7 +6759,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-reddit/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-reddit/SKILL.md",
       "sha256": "5eaf0e578137c6daceb2fb8e2b2a8ba32d9591f669615e0edbf5c981e321a79e"
     },
     {
@@ -6784,7 +6784,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-snapchat/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-snapchat/SKILL.md",
       "sha256": "189aff1955477c6b173963ae2a3f711b7a73a1d7590a02a8db9d93216b44dfe7"
     },
     {
@@ -6809,7 +6809,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-tiktok/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-tiktok/SKILL.md",
       "sha256": "6f50b45e98deb81e6ab897ed6b64fef2b774a93b23d1e465692697b209918d75"
     },
     {
@@ -6834,7 +6834,7 @@
       "commit": "fc3908e786c318776df89a3a098333da377364be",
       "latestCommit": "fc3908e786c318776df89a3a098333da377364be",
       "license": "MIT",
-      "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-x/SKILL.md",
+      "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-x/SKILL.md",
       "sha256": "10b342e81a76cbc08184029b3795735b065a1d09c33a977a1a3bf3dc1ed31245"
     },
     {
@@ -6859,7 +6859,7 @@
       "commit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "latestCommit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "license": "MIT",
-      "localFile": "vendor/coreyhaines31/marketingskills/skills/competitor-profiling/SKILL.md",
+      "localFile": "docs/vendor/coreyhaines31/marketingskills/skills/competitor-profiling/SKILL.md",
       "sha256": "b043f61ce62b1202352d69e19e8561a0b65faa6ded4750ffc037eb6bfbae0cb0"
     },
     {
@@ -6884,7 +6884,7 @@
       "commit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "latestCommit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "license": "MIT",
-      "localFile": "vendor/coreyhaines31/marketingskills/skills/marketing-council/SKILL.md",
+      "localFile": "docs/vendor/coreyhaines31/marketingskills/skills/marketing-council/SKILL.md",
       "sha256": "527ae7ff801abc03b7dec7ab70132a1a70909988271f6deb3938b27d113484e1"
     },
     {
@@ -6909,7 +6909,7 @@
       "commit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "latestCommit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "license": "MIT",
-      "localFile": "vendor/coreyhaines31/marketingskills/skills/marketing-ideas/SKILL.md",
+      "localFile": "docs/vendor/coreyhaines31/marketingskills/skills/marketing-ideas/SKILL.md",
       "sha256": "b64d0d8125d272cc87ac25f5df4f0ea3c5dd5a58c3496007cb1ce3924f14cc7d"
     },
     {
@@ -6934,7 +6934,7 @@
       "commit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "latestCommit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "license": "MIT",
-      "localFile": "vendor/coreyhaines31/marketingskills/skills/marketing-loops/SKILL.md",
+      "localFile": "docs/vendor/coreyhaines31/marketingskills/skills/marketing-loops/SKILL.md",
       "sha256": "24053cb714b16849937a3f0f94299d3ce97f01ae06efc3d765ae2544f43cc0cb"
     },
     {
@@ -6959,7 +6959,7 @@
       "commit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "latestCommit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "license": "MIT",
-      "localFile": "vendor/coreyhaines31/marketingskills/skills/marketing-plan/SKILL.md",
+      "localFile": "docs/vendor/coreyhaines31/marketingskills/skills/marketing-plan/SKILL.md",
       "sha256": "76d879a32f2dd24e0c6236125f15e2b1e29808b6424242affcf790bdd294c44f"
     },
     {
@@ -6984,7 +6984,7 @@
       "commit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "latestCommit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "license": "MIT",
-      "localFile": "vendor/coreyhaines31/marketingskills/skills/marketing-psychology/SKILL.md",
+      "localFile": "docs/vendor/coreyhaines31/marketingskills/skills/marketing-psychology/SKILL.md",
       "sha256": "755efd52954ecbbddc6fd0fe07cfa4999b63544bf716f2b5587a50c6f26228c0"
     },
     {
@@ -7009,7 +7009,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/amazon-ads-agentic-and-mcp/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/amazon-ads-agentic-and-mcp/SKILL.md",
       "sha256": "f9c9d99b39db3fb0952cb5ab92ce3deef4d4c92ed1d579036b9269e1eb67aba6"
     },
     {
@@ -7034,7 +7034,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/amazon-dsp-account-structure/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/amazon-dsp-account-structure/SKILL.md",
       "sha256": "b3aeafa5572a2b32651ae5c9338934268c34cd14bc53442a1fb01c6a68317cad"
     },
     {
@@ -7059,7 +7059,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/amazon-dsp-api-and-automation/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/amazon-dsp-api-and-automation/SKILL.md",
       "sha256": "f18cb6f2da24ac10b426dbc08438c19e88827fb84bda0f17974ed68c0b6a306d"
     },
     {
@@ -7084,7 +7084,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/amazon-dsp-audiences/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/amazon-dsp-audiences/SKILL.md",
       "sha256": "736b48da61ddc78e1c02af4657f27b63e869a25546be051ca11222e4e5d331c6"
     },
     {
@@ -7109,7 +7109,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/amazon-dsp-bidding-and-optimization/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/amazon-dsp-bidding-and-optimization/SKILL.md",
       "sha256": "ca074a6e3172be5c0734cb66aea667566fb2daf32b7141eb3eb55754b88aa091"
     },
     {
@@ -7134,7 +7134,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/amazon-dsp-campaign-setup/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/amazon-dsp-campaign-setup/SKILL.md",
       "sha256": "7e3a25626825cc9eae7d9d029cdd0579ed40813ac483b48f4dbaae70047cf681"
     },
     {
@@ -7159,7 +7159,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/amazon-dsp-creative-and-formats/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/amazon-dsp-creative-and-formats/SKILL.md",
       "sha256": "87ba78eff8702efaacc48bc278ab30b7a8b4fd9bd5b4e7aa67580cb4dbe96a42"
     },
     {
@@ -7184,7 +7184,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/amazon-dsp-inventory-and-supply/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/amazon-dsp-inventory-and-supply/SKILL.md",
       "sha256": "78561dde5c2a868ce6e1d647a2d8df62c5ac2a7da2cc2876ecd746e0428bc3fa"
     },
     {
@@ -7209,7 +7209,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/amazon-dsp-measurement-and-reporting/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/amazon-dsp-measurement-and-reporting/SKILL.md",
       "sha256": "9c9119d2fc9f2afd27f9b6678fc81e3612fc3b8a3ca85c9379da161222063302"
     },
     {
@@ -7234,7 +7234,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/amazon-marketing-cloud/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/amazon-marketing-cloud/SKILL.md",
       "sha256": "a89d3413052a3b757923535b74eec869b7133929ed5667fcd027783c3514a44d"
     },
     {
@@ -7259,7 +7259,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/approval-and-escalation-governance/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/approval-and-escalation-governance/SKILL.md",
       "sha256": "bb2a9d64045ac6f1267f393417bcc9f023fdd96a479d88f0039c4e505cafe9c8"
     },
     {
@@ -7284,7 +7284,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/bid-landscape-and-win-rate/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/bid-landscape-and-win-rate/SKILL.md",
       "sha256": "824687728127449c7ec696d71da84f2639cda4430557511b133a6dd326825e69"
     },
     {
@@ -7309,7 +7309,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/brand-safety-and-suitability/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/brand-safety-and-suitability/SKILL.md",
       "sha256": "41198bc542b68a7168ddeb54b5b8eb919e4fca6f9f50e4300b6fba70c7470433"
     },
     {
@@ -7334,7 +7334,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/bulk-change-governance-and-rollback/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/bulk-change-governance-and-rollback/SKILL.md",
       "sha256": "62aa6ea650e3eadeb1233e747fe573c764284250f570a0ba371e4480362225f3"
     },
     {
@@ -7359,7 +7359,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/change-management-and-incident-response/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/change-management-and-incident-response/SKILL.md",
       "sha256": "9e0f00d06938a48be3c9c7b0da13f96b44760242453217305fb54c47a4752f44"
     },
     {
@@ -7384,7 +7384,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/client-deliverable-templates/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/client-deliverable-templates/SKILL.md",
       "sha256": "50b89d9dbc77bde028bba97a473fbacafbfc3cbe9191cf8a5f45f03a6faf0e8e"
     },
     {
@@ -7409,7 +7409,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/cm360-data-transfer-and-attribution/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/cm360-data-transfer-and-attribution/SKILL.md",
       "sha256": "a68bd034ee1cacaefdafe0fb3dc7fc2eb29eb2857a2e9bd8a8c1518426a75d9f"
     },
     {
@@ -7434,7 +7434,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/cm360-floodlight-and-conversions/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/cm360-floodlight-and-conversions/SKILL.md",
       "sha256": "ee1390cbc2392c3548e6aa6912be418574e44a50060e84ea2fb55a76dcc0ddd7"
     },
     {
@@ -7459,7 +7459,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/cm360-reporting-and-trafficking-api/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/cm360-reporting-and-trafficking-api/SKILL.md",
       "sha256": "43a67ee3b85b4423c726050683df3982ac8170a5cf68c22c0c3e0ba8865051ea"
     },
     {
@@ -7484,7 +7484,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/cm360-trafficking-and-ad-tags/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/cm360-trafficking-and-ad-tags/SKILL.md",
       "sha256": "3e31e95d2d30fbd835887ef65dae0209406415bc4ba3153c600213ec3e204a7b"
     },
     {
@@ -7509,7 +7509,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/cm360-verification-and-active-view/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/cm360-verification-and-active-view/SKILL.md",
       "sha256": "a044ac8820f23c58892a07a1f9a95d864a5269fa0add67ce20c78cbeeb4ff189"
     },
     {
@@ -7534,7 +7534,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/consent-signal-verification-and-decode/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/consent-signal-verification-and-decode/SKILL.md",
       "sha256": "57d628d5c2ef12d3758e6487fb6dad447fdaa1a1bf382c7980e494f89dc1e0ea"
     },
     {
@@ -7560,7 +7560,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/creative-review-and-approval-queue/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/creative-review-and-approval-queue/SKILL.md",
       "sha256": "ce64619208d7104ff184ee27dc03f6c42c456cd1658e2fe21922a02a164c2375"
     },
     {
@@ -7585,7 +7585,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/cross-platform-launch-qa/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/cross-platform-launch-qa/SKILL.md",
       "sha256": "a34d737db64b92cbb023a1f01e658d4f3c8547f70265c5785c768b09d442bd28"
     },
     {
@@ -7610,7 +7610,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/cross-platform-taxonomy-governance/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/cross-platform-taxonomy-governance/SKILL.md",
       "sha256": "598ed7afccbf704fb87e5a7addbbaf7d4ed44bfa84eecc6742ae5997a78d09b8"
     },
     {
@@ -7635,7 +7635,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/ctv-measurement-currencies/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ctv-measurement-currencies/SKILL.md",
       "sha256": "f6d1038383abd92b1db9cbb3680556973e5742f97535c69014556c7a9e2cab85"
     },
     {
@@ -7660,7 +7660,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/ctv-supply-and-ad-pods/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ctv-supply-and-ad-pods/SKILL.md",
       "sha256": "b925947e10378b389a2dc9a442a7bb1753530be465fb1b6bfa90c8a40416348b"
     },
     {
@@ -7685,7 +7685,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/curation-and-curated-marketplaces/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/curation-and-curated-marketplaces/SKILL.md",
       "sha256": "0420766e77b7999d96351b53706f4b723616c7f2a84525bd30df58a8d79edc51"
     },
     {
@@ -7710,7 +7710,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/curation-and-supply-path-optimization/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/curation-and-supply-path-optimization/SKILL.md",
       "sha256": "9fa6b9dd68b95739c3bb95b673ae0ecb64fbfca2fa4c74f3422aa9f512f64237"
     },
     {
@@ -7735,7 +7735,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/data-quality-and-reconciliation/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/data-quality-and-reconciliation/SKILL.md",
       "sha256": "00b2106400f61d78885e01c2313fbac79fee6cc6b4634ffbd204521aaedb6319"
     },
     {
@@ -7760,7 +7760,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/data-subject-rights-and-subprocessor-governance/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/data-subject-rights-and-subprocessor-governance/SKILL.md",
       "sha256": "e57d96aba9789d3426802f13bdd912daf5bd5b091b0287b58c8c979c11e6169d"
     },
     {
@@ -7785,7 +7785,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/direct-response-creative-testing/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/direct-response-creative-testing/SKILL.md",
       "sha256": "1d1f2e702b69079e330f836ccb3583d264e035cc83ad8aef6e7335400b433350"
     },
     {
@@ -7810,7 +7810,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/discrepancy-and-reconciliation/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/discrepancy-and-reconciliation/SKILL.md",
       "sha256": "9f3229ab83ff7b8a5755a22884906b36484171c10f0ab67d17802d2c2b35c8b0"
     },
     {
@@ -7835,7 +7835,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/dsp-selection/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dsp-selection/SKILL.md",
       "sha256": "163e5c8a973590038f84117a5d01f065e9edb65fd51ea64bdc0445e45f3d5971"
     },
     {
@@ -7860,7 +7860,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-account-setup-and-taxonomy/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-account-setup-and-taxonomy/SKILL.md",
       "sha256": "d5efcfc8637ed20b67ec76c77dbcdb9a27f91e16eb8adcfdac75cb47f2504412"
     },
     {
@@ -7885,7 +7885,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-advanced-analytics-adh/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-advanced-analytics-adh/SKILL.md",
       "sha256": "2e8239e260cd291647f85f5396cc14f22462c890162e32702ec4c3f00e2d0ddc"
     },
     {
@@ -7910,7 +7910,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-api-and-sdf-automation/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-api-and-sdf-automation/SKILL.md",
       "sha256": "f1463ea92ca4bdaad5a4038aff7ce7d5514e35bc28bb8f81e98b2bcc5090d245"
     },
     {
@@ -7935,7 +7935,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-bid-strategy/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-bid-strategy/SKILL.md",
       "sha256": "9dd2be4cecd08c321b316d585d52811895a9eefc8f1543ac86aed68fc31954fc"
     },
     {
@@ -7960,7 +7960,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-campaign-architecture/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-campaign-architecture/SKILL.md",
       "sha256": "3d7f66e4608ac7965ec6a5ef778f943a4054b6f88f75f976cebd29f30eef7e1d"
     },
     {
@@ -7985,7 +7985,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-creative-trafficking/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-creative-trafficking/SKILL.md",
       "sha256": "f7de2bbb604dde26c17b72909c0d81d7c097a0f29d8b5bbd9700873e38ba854d"
     },
     {
@@ -8010,7 +8010,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-custom-bidding/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-custom-bidding/SKILL.md",
       "sha256": "e26193e798da51d97dd48ff7de36b93174be63d30448157311c94e3c8f52409d"
     },
     {
@@ -8035,7 +8035,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-deals-and-inventory/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-deals-and-inventory/SKILL.md",
       "sha256": "c1be3d388235dff85772dcb03c8e58c646ceea98a0dc707eee8c3ba8e29a7fc9"
     },
     {
@@ -8060,7 +8060,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-frequency-and-brand-safety/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-frequency-and-brand-safety/SKILL.md",
       "sha256": "686ddcba3a9e946d0ede553eaf01c182f010b8cbb7679fda293db64dbd456311"
     },
     {
@@ -8085,7 +8085,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-launch-qa/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-launch-qa/SKILL.md",
       "sha256": "e098927cb522de62c55b8f594552606c279ec67af311fae8b0f5e10b0a6b732b"
     },
     {
@@ -8110,7 +8110,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-measurement-and-attribution/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-measurement-and-attribution/SKILL.md",
       "sha256": "969ca0ef7bf4aac3c36dae4b9311c1a853650e02b656356645c5ba2231e7d5b8"
     },
     {
@@ -8135,7 +8135,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-pacing-and-optimization/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-pacing-and-optimization/SKILL.md",
       "sha256": "c0aeeace2b9199e9016dea110c3c7fa62fdf4e808f4d19b4d9e3c4c0de9ab058"
     },
     {
@@ -8160,7 +8160,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-reporting/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-reporting/SKILL.md",
       "sha256": "4da84f2a67c7e9e347dd231a2e31a4653aa784886bbadfa0771d70d0c9caf677"
     },
     {
@@ -8185,7 +8185,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-targeting-and-audiences/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-targeting-and-audiences/SKILL.md",
       "sha256": "665eea5c2ca2f5df722928df4e9b36e2bd8ab2e108a0e44ce8a42792f40fbc9f"
     },
     {
@@ -8210,7 +8210,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-troubleshooting/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-troubleshooting/SKILL.md",
       "sha256": "d95c5f1018ef9aeb5a671053b6d05c9aef09b3c4caace256ebec58b115dacf15"
     },
     {
@@ -8235,7 +8235,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-video-creative-specs/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-video-creative-specs/SKILL.md",
       "sha256": "1a07235217338a2a45612981326cb9f03b2f21b3ebaa871eaa33713813b2f67d"
     },
     {
@@ -8261,7 +8261,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-youtube-and-video/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-youtube-and-video/SKILL.md",
       "sha256": "0051ce67043d831cce7899daba18f77b5dec4072d50c132d3f0f06569944ac4b"
     },
     {
@@ -8286,7 +8286,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/ga4-explorations-and-reporting/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ga4-explorations-and-reporting/SKILL.md",
       "sha256": "4b268eb57a86b4ff463b5da8973e5a24d73dd95782efe026d3f4341ae9e348d5"
     },
     {
@@ -8311,7 +8311,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/ga4-property-and-data-stream-setup/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ga4-property-and-data-stream-setup/SKILL.md",
       "sha256": "9597141b272774d3863b3a4ffc47e6d894943c286e8d92479e9db49ab905275b"
     },
     {
@@ -8336,7 +8336,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/gmp-integration-floodlight-ga4-linking/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/gmp-integration-floodlight-ga4-linking/SKILL.md",
       "sha256": "25d54c79e5b705b477c2747774f9bed9eccf659fa8e9a428f1e9abfb0e6f3aac"
     },
     {
@@ -8361,7 +8361,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/google-ads-account-structure/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/google-ads-account-structure/SKILL.md",
       "sha256": "5795e74f0bfebff4a2910df5f080b16be0dae323ae630fc8266ce2a00ffb056c"
     },
     {
@@ -8386,7 +8386,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/google-ads-bidding/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/google-ads-bidding/SKILL.md",
       "sha256": "1fcf25f35f54a89df6864013729ef2ac70f81ef15dda42fc200b05e3319a963c"
     },
     {
@@ -8411,7 +8411,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/google-ads-budgets-and-pacing/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/google-ads-budgets-and-pacing/SKILL.md",
       "sha256": "67dc03dc26630a9f5b7bf81b54043695ea64819a114ea446bb45dcce333ebccb"
     },
     {
@@ -8436,7 +8436,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/google-ads-campaign-types/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/google-ads-campaign-types/SKILL.md",
       "sha256": "5b900df4bb8f968ee7f45d29f826c6018be937fc44f2f14781f30157d256d783"
     },
     {
@@ -8461,7 +8461,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/google-ads-conversion-tracking-and-attribution/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/google-ads-conversion-tracking-and-attribution/SKILL.md",
       "sha256": "9b969f49749358d169b04ab3437160116307d22aad8526abef79ca43fa34f92a"
     },
     {
@@ -8486,7 +8486,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/google-ads-keywords-and-match-types/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/google-ads-keywords-and-match-types/SKILL.md",
       "sha256": "0d71cccd03c4edbb22da77b777ad8f591f1971f0866a5279171748d45c4a4f46"
     },
     {
@@ -8511,7 +8511,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/google-ads-optimization-and-troubleshooting/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/google-ads-optimization-and-troubleshooting/SKILL.md",
       "sha256": "a6b97c754b0f3ed92b57439e9f3c9cec2d0b0a9401347a40a8ae03795b89e175"
     },
     {
@@ -8536,7 +8536,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/google-ads-performance-max/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/google-ads-performance-max/SKILL.md",
       "sha256": "315e8252b1225454b8509fe672ae575f04e7db81883c65dd3378ffcd5dfe0512"
     },
     {
@@ -8561,7 +8561,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/gtm-consent-mode-v2/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/gtm-consent-mode-v2/SKILL.md",
       "sha256": "1dce75758a19117f2ee03362927f3e4edc04ce8ef22364801abac9ed5e57b14e"
     },
     {
@@ -8586,7 +8586,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/gtm-qa-versioning-and-api/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/gtm-qa-versioning-and-api/SKILL.md",
       "sha256": "0cc58fe09abad057118255b3911040b1e29b6b25158476b92ddcd8d3c254ce78"
     },
     {
@@ -8611,7 +8611,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/gtm-server-side-tagging/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/gtm-server-side-tagging/SKILL.md",
       "sha256": "35cb9c2e04bbc424eb45ca1eccfc976c83fb424177cf24668626916d21115a74"
     },
     {
@@ -8636,7 +8636,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/gtm-tags-triggers-variables/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/gtm-tags-triggers-variables/SKILL.md",
       "sha256": "e23ad320a8618c0b2e13d410b136748e9f99ff805d0d4ccdf4868424f3f72605"
     },
     {
@@ -8661,7 +8661,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/gtm-web-container-and-datalayer/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/gtm-web-container-and-datalayer/SKILL.md",
       "sha256": "1b0f17f11dec961ea85e0c77aee59e828d03a42dc77286f10fed2362a4bc4e06"
     },
     {
@@ -8686,7 +8686,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/marketing-analytics-warehouse-and-dashboards/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/marketing-analytics-warehouse-and-dashboards/SKILL.md",
       "sha256": "1c473145887130311e858fe713fff96c397b7a024dbeb29cea801428693b2a2c"
     },
     {
@@ -8711,7 +8711,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/meta-advantage-plus-campaigns/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/meta-advantage-plus-campaigns/SKILL.md",
       "sha256": "98bc7ea7fbe3862285ad9a0374f67df7bbc985a5acccd28607df775149e49bff"
     },
     {
@@ -8736,7 +8736,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/meta-campaign-setup-and-optimization/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/meta-campaign-setup-and-optimization/SKILL.md",
       "sha256": "4c8030680cd246de6ec372bec706427adafc07b2ef3f21fd588a0cda30f9f4b5"
     },
     {
@@ -8762,7 +8762,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/meta-conversions-api-and-datasets/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/meta-conversions-api-and-datasets/SKILL.md",
       "sha256": "780828b0c0ed74f239f59c7a5d13945aa1840770822f117b51cfbd307228eee2"
     },
     {
@@ -8787,7 +8787,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/microsoft-campaign-setup-and-optimization/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/microsoft-campaign-setup-and-optimization/SKILL.md",
       "sha256": "f83652676dd130619a0c639d7da6015baf699fb9c3029163ec0dcd50f3ffcfe8"
     },
     {
@@ -8813,7 +8813,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/microsoft-performance-max-and-shopping/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/microsoft-performance-max-and-shopping/SKILL.md",
       "sha256": "464d51d022c6f3ecc559a6f075df8787b161bf1924e33fc39b2446064dbdce04"
     },
     {
@@ -8839,7 +8839,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/microsoft-uet-and-conversions-api/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/microsoft-uet-and-conversions-api/SKILL.md",
       "sha256": "3911746cbb99b2d73e7c051dff51abfc1e41b0a8ee66a812a36ecd565987d08d"
     },
     {
@@ -8864,7 +8864,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/ops-ticket-intake-and-triage/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ops-ticket-intake-and-triage/SKILL.md",
       "sha256": "5814282e422877f3aa129d7ed26ba62467d46cd034464992ead2eb3a7f725686"
     },
     {
@@ -8889,7 +8889,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/partner-and-advertiser-onboarding/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/partner-and-advertiser-onboarding/SKILL.md",
       "sha256": "44e8064040a9843833958fd60838b3e1805d54671a2a53414573660b19fc71a2"
     },
     {
@@ -8914,7 +8914,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/pipeline-orchestration-and-data-quality/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/pipeline-orchestration-and-data-quality/SKILL.md",
       "sha256": "4be9a8a41723b7b99cb15a91b91179041d4c1354529fd63184deb96a3ae38e95"
     },
     {
@@ -8939,7 +8939,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/platform-access-and-permissions-governance/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/platform-access-and-permissions-governance/SKILL.md",
       "sha256": "6541cc7a405d2dc1dd251bb41b4ed103e6c4172bd6118f77f9b5e2946a8458e1"
     },
     {
@@ -8964,7 +8964,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/platform-support-escalation/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/platform-support-escalation/SKILL.md",
       "sha256": "141b2466f56f88e2c8eeb5d0c42faff81af66c884f883a7d001cee51e07567f8"
     },
     {
@@ -8989,7 +8989,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/privacy-and-consent/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/privacy-and-consent/SKILL.md",
       "sha256": "512685f6dbfcf75589e8e3c704d7d6d16bc234adcea647f4f0b3f18069fef664"
     },
     {
@@ -9014,7 +9014,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/privacy-sandbox-and-signal-loss-2026/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/privacy-sandbox-and-signal-loss-2026/SKILL.md",
       "sha256": "4e0d1e7087e8b44e1237b2baaaa3e6f9e7a033b1a6e92dfe79e0bcf0ef862473"
     },
     {
@@ -9039,7 +9039,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/programmatic-foundations/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/programmatic-foundations/SKILL.md",
       "sha256": "dbea0bc9db02d39c061c476f51804e8d6d061b6ebb109911e4f6a912539840c5"
     },
     {
@@ -9064,7 +9064,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/programmatic-month-end-close/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/programmatic-month-end-close/SKILL.md",
       "sha256": "897de5d29373224041f29547c13c85f03dd5210ba9151c65b4f9a8c0f637af71"
     },
     {
@@ -9089,7 +9089,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/programmatic-ops-control-center/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/programmatic-ops-control-center/SKILL.md",
       "sha256": "bc857572617c42031fabd05d6aced2d49f42c662e51d08003d700a07b039c760"
     },
     {
@@ -9114,7 +9114,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/reach-and-frequency-planning/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/reach-and-frequency-planning/SKILL.md",
       "sha256": "8da4fa52f64f56dfadac412432fadac4f9e8789f878c4458cc87465caf9cc205"
     },
     {
@@ -9139,7 +9139,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/reporting-by-campaign-goal/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/reporting-by-campaign-goal/SKILL.md",
       "sha256": "db7605bae65ab646bd0825690673e147c770acc88e3d0026685aacd36cef41b8"
     },
     {
@@ -9164,7 +9164,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/retailmedia-foundations-and-networks/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/retailmedia-foundations-and-networks/SKILL.md",
       "sha256": "2b25db5a49e6cc3ac7c07ed61fc91c8018dec8519611fb50d60308ffbe7b6855"
     },
     {
@@ -9189,7 +9189,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/retailmedia-onsite-sponsored-products/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/retailmedia-onsite-sponsored-products/SKILL.md",
       "sha256": "8339f12799774f5f374664bd921ad7b99e4f00639ff8e3d4f90b7d830249b149"
     },
     {
@@ -9214,7 +9214,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/sa360-account-structure-and-engines/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/sa360-account-structure-and-engines/SKILL.md",
       "sha256": "667c2446448b3d7ccb6e0464737dbf406f089d8ec23c1a3df3b4481e6d8d388a"
     },
     {
@@ -9239,7 +9239,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/sa360-bidding-and-budget-management/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/sa360-bidding-and-budget-management/SKILL.md",
       "sha256": "693344187860a4d6ee2357b173b0e9a1901c74140ab3487ae5dc90224ec82c13"
     },
     {
@@ -9265,7 +9265,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/sa360-conversions-and-reporting-api/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/sa360-conversions-and-reporting-api/SKILL.md",
       "sha256": "10f2dc465f50d96b5d751ec5296c68a89f66ebb449bf7c2cd85ae76afd4c9691"
     },
     {
@@ -9290,7 +9290,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/stackadapt-account-structure/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/stackadapt-account-structure/SKILL.md",
       "sha256": "d2e7e4363285172c35b2fedc03844e44c81d33fef2bb87392a8e5c03557e4202"
     },
     {
@@ -9315,7 +9315,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/stackadapt-api-and-automation/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/stackadapt-api-and-automation/SKILL.md",
       "sha256": "c3e4ed61967002453ae58a64d05251fb7c51ba0df97287e103bed756cde624a8"
     },
     {
@@ -9340,7 +9340,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/stackadapt-bidding-and-budgets/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/stackadapt-bidding-and-budgets/SKILL.md",
       "sha256": "b5cc463edf22142a29a5396bba82dcb67d191a29dc27ee4fa8125c6964a56a0d"
     },
     {
@@ -9365,7 +9365,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/stackadapt-campaign-setup/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/stackadapt-campaign-setup/SKILL.md",
       "sha256": "25eaa1442bbd971f7db0e08ce1dffad11951c854a42621718702fb032b2414a8"
     },
     {
@@ -9390,7 +9390,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/stackadapt-creative-and-formats/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/stackadapt-creative-and-formats/SKILL.md",
       "sha256": "fb966c0b31c9bc2470ae5b8ce25c78c55743a86ed1e09abd955fac553145cec7"
     },
     {
@@ -9415,7 +9415,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/stackadapt-inventory-and-brand-safety/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/stackadapt-inventory-and-brand-safety/SKILL.md",
       "sha256": "6ef29612a9d3eb30cb1bf6a85b6a7fb5a66ff4980595a39e4580446e2f666455"
     },
     {
@@ -9440,7 +9440,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/stackadapt-optimization-and-troubleshooting/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/stackadapt-optimization-and-troubleshooting/SKILL.md",
       "sha256": "deb45bec26f5ec4c8c94689943bc3f066b27deb4f0dbaab63253636feaf5fd09"
     },
     {
@@ -9465,7 +9465,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/stackadapt-reporting-and-attribution/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/stackadapt-reporting-and-attribution/SKILL.md",
       "sha256": "229c342ecdf9ea02d75992bc395943357a35f60184a61b40febf5158a23ed2e9"
     },
     {
@@ -9490,7 +9490,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/stackadapt-targeting-and-audiences/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/stackadapt-targeting-and-audiences/SKILL.md",
       "sha256": "f2e41f31cd76eeee20b8d6db3f346bf1326550a3328d3727dae2af512a6b178c"
     },
     {
@@ -9515,7 +9515,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/supply-chain-transparency-adstxt-sellersjson/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/supply-chain-transparency-adstxt-sellersjson/SKILL.md",
       "sha256": "8a9d40a882710a8f4ad0ff644e2d0f9db014d89bd11f78f0ba09861460ab022c"
     },
     {
@@ -9540,7 +9540,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/tag-and-pixel-governance/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/tag-and-pixel-governance/SKILL.md",
       "sha256": "68382bae7ce5893bbeee34b729c548d3be48f6b7f59276bcc32d315491171a2a"
     },
     {
@@ -9565,7 +9565,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/tiktok-creative-and-catalog-optimization/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/tiktok-creative-and-catalog-optimization/SKILL.md",
       "sha256": "2d353a89db886496e2687c06130f8f96cff58601fd861652138b4f1972eb8e38"
     },
     {
@@ -9590,7 +9590,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/tiktok-events-api-server-side/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/tiktok-events-api-server-side/SKILL.md",
       "sha256": "dab4cb1cbbf0d30277fb7cf54d7135eb34145dc2b73a192165a610493c7d6fdd"
     },
     {
@@ -9615,7 +9615,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/tiktok-smart-plus-and-campaigns/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/tiktok-smart-plus-and-campaigns/SKILL.md",
       "sha256": "6378af2c40198e1b2136c897e76a0b2f609ab1808e0e00329b3da1b4d9995e61"
     },
     {
@@ -9640,7 +9640,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/trader-onboarding/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/trader-onboarding/SKILL.md",
       "sha256": "7e205b9911ed01de9c53f178e600a3574193c7c0d1593438a031d6594fdbd211"
     },
     {
@@ -9665,7 +9665,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/ttd-api-and-automation/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ttd-api-and-automation/SKILL.md",
       "sha256": "e3fc8da4e6fef8a216eade562d81713c891f0ca3670bdbcb869e196c7f51ddf0"
     },
     {
@@ -9690,7 +9690,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/ttd-bidding-and-optimization/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ttd-bidding-and-optimization/SKILL.md",
       "sha256": "140f5db154e5b9fcc17f19904860cca648d6d05fe4012a373aa65e24ccdc446d"
     },
     {
@@ -9715,7 +9715,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/ttd-campaign-structure/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ttd-campaign-structure/SKILL.md",
       "sha256": "5c4482598e3fe44c18b5d45bcbe7a0e6c93cf77d1dc3612046503377207066e1"
     },
     {
@@ -9740,7 +9740,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/ttd-creative-and-formats/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ttd-creative-and-formats/SKILL.md",
       "sha256": "24922dd0bb4b71e48bd6645d1aa59c589c79e6dc1a11fdb4a502718a2138e465"
     },
     {
@@ -9765,7 +9765,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/ttd-ctv-and-video-buying/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ttd-ctv-and-video-buying/SKILL.md",
       "sha256": "f873d959722aeacb6794aa1dc15d5aa15b7f8cd323f377ecce6e15b23e180255"
     },
     {
@@ -9790,7 +9790,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/ttd-identity-and-uid2/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ttd-identity-and-uid2/SKILL.md",
       "sha256": "94aadfc4b16b57bf7685569180153a740ace3d37bc2f64ad99d4c2a9660ed8d5"
     },
     {
@@ -9815,7 +9815,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/ttd-inventory-and-deals/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ttd-inventory-and-deals/SKILL.md",
       "sha256": "cd0988c47c1091c6f8f6c37820c7baafec02b0a718f78cafafab9c97a34e93f4"
     },
     {
@@ -9840,7 +9840,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/ttd-measurement-and-reporting/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ttd-measurement-and-reporting/SKILL.md",
       "sha256": "1bb861104efa4f2387970515de246694f65f03976d3b759284cc57501ac0e7b7"
     },
     {
@@ -9865,7 +9865,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/ttd-platform-overview/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ttd-platform-overview/SKILL.md",
       "sha256": "ba88e9e419d616420f0e4d454b08e0e7552b86de0a2e29c8605d40e437dade6e"
     },
     {
@@ -9890,7 +9890,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/ttd-targeting-and-audiences/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ttd-targeting-and-audiences/SKILL.md",
       "sha256": "3fd6abb98bb2165c3a04ac02cce4926b5a4e86be0c63ac2c51c977a6b3031f16"
     },
     {
@@ -9915,7 +9915,7 @@
       "commit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "latestCommit": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9",
       "license": "MIT",
-      "localFile": "vendor/scumunna/programmatic-skills/skills/value-based-bidding/SKILL.md",
+      "localFile": "docs/vendor/scumunna/programmatic-skills/skills/value-based-bidding/SKILL.md",
       "sha256": "158b8f8d5461b9d7492b97f063c04131b65d100670c5c01200dde17dfa120e92"
     },
     {
@@ -9940,7 +9940,7 @@
       "commit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "latestCommit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "license": "MIT",
-      "localFile": "vendor/mardab96/landing-pages-claude-skills/accessibility-conversion-blocker-check/SKILL.md",
+      "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/accessibility-conversion-blocker-check/SKILL.md",
       "sha256": "cb4e63b828d18b4d033a3203b007ed3b6d5e95ac454db06491fb217984334424"
     },
     {
@@ -9965,7 +9965,7 @@
       "commit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "latestCommit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "license": "MIT",
-      "localFile": "vendor/mardab96/landing-pages-claude-skills/comparison-page-positioning-review/SKILL.md",
+      "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/comparison-page-positioning-review/SKILL.md",
       "sha256": "8ae964b3ce95a972bd88b956dc8cc1746d8331e8e5a4391e52521ee36cc8bde9"
     },
     {
@@ -9990,7 +9990,7 @@
       "commit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "latestCommit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "license": "MIT",
-      "localFile": "vendor/mardab96/landing-pages-claude-skills/conversion-leak-finder/SKILL.md",
+      "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/conversion-leak-finder/SKILL.md",
       "sha256": "2fc89e49539769b4f3ff1368b82142b53337ae0e337f82b2bdcc09e51f2291c0"
     },
     {
@@ -10015,7 +10015,7 @@
       "commit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "latestCommit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "license": "MIT",
-      "localFile": "vendor/mardab96/landing-pages-claude-skills/cta-clarity-check/SKILL.md",
+      "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/cta-clarity-check/SKILL.md",
       "sha256": "a9afd1542fcccd28f67d41eb350eae0fab49cac11c8d8f7bc440e340f3d17e5a"
     },
     {
@@ -10040,7 +10040,7 @@
       "commit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "latestCommit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "license": "MIT",
-      "localFile": "vendor/mardab96/landing-pages-claude-skills/hero-section-diagnosis/SKILL.md",
+      "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/hero-section-diagnosis/SKILL.md",
       "sha256": "855f2de86febe410078a341480021242ac6a0a8610803a4e797820591359a354"
     },
     {
@@ -10065,7 +10065,7 @@
       "commit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "latestCommit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "license": "MIT",
-      "localFile": "vendor/mardab96/landing-pages-claude-skills/landing-page-copy-readability-pass/SKILL.md",
+      "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/landing-page-copy-readability-pass/SKILL.md",
       "sha256": "760bbe215f72a07692c40fd3aea538ea975fb79d36a95e6cdef728db0d5723a5"
     },
     {
@@ -10090,7 +10090,7 @@
       "commit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "latestCommit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "license": "MIT",
-      "localFile": "vendor/mardab96/landing-pages-claude-skills/landing-page-triage/SKILL.md",
+      "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/landing-page-triage/SKILL.md",
       "sha256": "673b460a209ca312a9c4a77c809a104bb392a3f9fd06027093ec6e169ffcdd30"
     },
     {
@@ -10115,7 +10115,7 @@
       "commit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "latestCommit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "license": "MIT",
-      "localFile": "vendor/mardab96/landing-pages-claude-skills/objection-map-builder/SKILL.md",
+      "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/objection-map-builder/SKILL.md",
       "sha256": "78b5cbcf45e59900d2ca2627afd63a65165b14929243996ea9afdb1376bf365d"
     },
     {
@@ -10140,7 +10140,7 @@
       "commit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "latestCommit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "license": "MIT",
-      "localFile": "vendor/mardab96/landing-pages-claude-skills/page-length-fit-check/SKILL.md",
+      "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/page-length-fit-check/SKILL.md",
       "sha256": "1d11750302ee63b498985d490af2557e1392d445696ec895ce9271c0bc9eb8b6"
     },
     {
@@ -10165,7 +10165,7 @@
       "commit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "latestCommit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "license": "MIT",
-      "localFile": "vendor/mardab96/landing-pages-claude-skills/page-speed-impact-review/SKILL.md",
+      "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/page-speed-impact-review/SKILL.md",
       "sha256": "a905102ac1dbd06dd4991128314b8cc7fe9d400d1230c6031718b0e3eebe147a"
     },
     {
@@ -10190,7 +10190,7 @@
       "commit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "latestCommit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "license": "MIT",
-      "localFile": "vendor/mardab96/landing-pages-claude-skills/popup-and-overlay-timing-review/SKILL.md",
+      "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/popup-and-overlay-timing-review/SKILL.md",
       "sha256": "49da27d2786abd8307d590238dc00d10f9b5dcaeec498ffb972debbcf2b882c7"
     },
     {
@@ -10215,7 +10215,7 @@
       "commit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "latestCommit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "license": "MIT",
-      "localFile": "vendor/mardab96/landing-pages-claude-skills/pricing-page-clarity-review/SKILL.md",
+      "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/pricing-page-clarity-review/SKILL.md",
       "sha256": "1f707d60a5dcc5120c51a6e916b370a1c29a557240c556367467513659b529ee"
     },
     {
@@ -10240,7 +10240,7 @@
       "commit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "latestCommit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "license": "MIT",
-      "localFile": "vendor/mardab96/landing-pages-claude-skills/thank-you-page-opportunity-audit/SKILL.md",
+      "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/thank-you-page-opportunity-audit/SKILL.md",
       "sha256": "9a3dcae4a3ba6f7e1996804ee8731e2027ab6aad3061732ee6e0faebeb0846f6"
     },
     {
@@ -10265,7 +10265,7 @@
       "commit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "latestCommit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "license": "MIT",
-      "localFile": "vendor/mardab96/landing-pages-claude-skills/traffic-temperature-match-review/SKILL.md",
+      "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/traffic-temperature-match-review/SKILL.md",
       "sha256": "e5b46c3ffce3cad2ae101d0a1e6d0a180ed512384e08c71aebc33d4424630d27"
     },
     {
@@ -10290,7 +10290,7 @@
       "commit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "latestCommit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "license": "MIT",
-      "localFile": "vendor/mardab96/landing-pages-claude-skills/trial-vs-demo-path-decision/SKILL.md",
+      "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/trial-vs-demo-path-decision/SKILL.md",
       "sha256": "752cfc333fdaf575150b9d213503a5f82344270981e6c6e1162bc39d6eb0990a"
     },
     {
@@ -10316,7 +10316,7 @@
       "commit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "latestCommit": "1b763333b3d29bc1b0e696546b129b239781f1ce",
       "license": "MIT",
-      "localFile": "vendor/mardab96/landing-pages-claude-skills/trust-signal-audit/SKILL.md",
+      "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/trust-signal-audit/SKILL.md",
       "sha256": "6b5379f4608c47c75c8f78e44706630bf3b0af7240692f44a6ae1bbb5bcfc36f"
     },
     {
@@ -10341,7 +10341,7 @@
       "commit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "latestCommit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "license": "MIT",
-      "localFile": "vendor/TheMattBerman/google-ads-copilot/google-ads/SKILL.md",
+      "localFile": "docs/vendor/TheMattBerman/google-ads-copilot/google-ads/SKILL.md",
       "sha256": "900aa156e0a49a23bf267ecbef1c0478f49b0b652f2d6b8028f4213d86ae75d6"
     },
     {
@@ -10366,7 +10366,7 @@
       "commit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "latestCommit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "license": "MIT",
-      "localFile": "vendor/TheMattBerman/google-ads-copilot/skills/google-ads-apply/SKILL.md",
+      "localFile": "docs/vendor/TheMattBerman/google-ads-copilot/skills/google-ads-apply/SKILL.md",
       "sha256": "85a7f347291ddd492aa93819c99bddd57d0964a857c11cd1ff8cf00f62efbd91"
     },
     {
@@ -10391,7 +10391,7 @@
       "commit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "latestCommit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "license": "MIT",
-      "localFile": "vendor/TheMattBerman/google-ads-copilot/skills/google-ads-audit/SKILL.md",
+      "localFile": "docs/vendor/TheMattBerman/google-ads-copilot/skills/google-ads-audit/SKILL.md",
       "sha256": "1094ba7f54d57592fb46930d582163fc2f7f07d9ffc7373f945e7fb2895ceff4"
     },
     {
@@ -10416,7 +10416,7 @@
       "commit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "latestCommit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "license": "MIT",
-      "localFile": "vendor/TheMattBerman/google-ads-copilot/skills/google-ads-connect/SKILL.md",
+      "localFile": "docs/vendor/TheMattBerman/google-ads-copilot/skills/google-ads-connect/SKILL.md",
       "sha256": "4097641a78a94844d54017e206dce3ef9504a03d2631ba302e0df6e0402ca3f6"
     },
     {
@@ -10441,7 +10441,7 @@
       "commit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "latestCommit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "license": "MIT",
-      "localFile": "vendor/TheMattBerman/google-ads-copilot/skills/google-ads-daily/SKILL.md",
+      "localFile": "docs/vendor/TheMattBerman/google-ads-copilot/skills/google-ads-daily/SKILL.md",
       "sha256": "65053e521cee6f6ace21ccb030ef6b1d457af0d264b390d62c777882ad2206bf"
     },
     {
@@ -10466,7 +10466,7 @@
       "commit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "latestCommit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "license": "MIT",
-      "localFile": "vendor/TheMattBerman/google-ads-copilot/skills/google-ads-landing-review/SKILL.md",
+      "localFile": "docs/vendor/TheMattBerman/google-ads-copilot/skills/google-ads-landing-review/SKILL.md",
       "sha256": "6e4b8866f6d23200d4e9aeda07505bb5f100572153c6a6cf0a3e036e24264265"
     },
     {
@@ -10491,7 +10491,7 @@
       "commit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "latestCommit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "license": "MIT",
-      "localFile": "vendor/TheMattBerman/google-ads-copilot/skills/google-ads-plan/SKILL.md",
+      "localFile": "docs/vendor/TheMattBerman/google-ads-copilot/skills/google-ads-plan/SKILL.md",
       "sha256": "fa20b40c88f55ca19aa0816d0eced61881d1a2adfad31b404a0ef8b3e5c143f7"
     },
     {
@@ -10516,7 +10516,7 @@
       "commit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "latestCommit": "2c253ee988b5540465317cde0cd4d6915dc2b382",
       "license": "MIT",
-      "localFile": "vendor/TheMattBerman/google-ads-copilot/skills/google-ads-tracking/SKILL.md",
+      "localFile": "docs/vendor/TheMattBerman/google-ads-copilot/skills/google-ads-tracking/SKILL.md",
       "sha256": "93b5cbf1efafd5ec3a86bc5332326992564c5fdda94fc3e07dd1091e0d5ce4ec"
     },
     {
@@ -10541,7 +10541,7 @@
       "commit": "3764d7f4712a79828176e75962dc704e80e0da5e",
       "latestCommit": "3764d7f4712a79828176e75962dc704e80e0da5e",
       "license": "Apache-2.0",
-      "localFile": "vendor/aaron-he-zhu/aaron-marketing-skills/ad/activate/ad-account-auditor/SKILL.md",
+      "localFile": "docs/vendor/aaron-he-zhu/aaron-marketing-skills/ad/activate/ad-account-auditor/SKILL.md",
       "sha256": "5d88c328f84739b220cd3afd500c27ab2c3e831ccc99870d6d0690bb5656a484"
     },
     {
@@ -10566,7 +10566,7 @@
       "commit": "3764d7f4712a79828176e75962dc704e80e0da5e",
       "latestCommit": "3764d7f4712a79828176e75962dc704e80e0da5e",
       "license": "Apache-2.0",
-      "localFile": "vendor/aaron-he-zhu/aaron-marketing-skills/ad/activate/conversion-signal-qa/SKILL.md",
+      "localFile": "docs/vendor/aaron-he-zhu/aaron-marketing-skills/ad/activate/conversion-signal-qa/SKILL.md",
       "sha256": "c4fea20f8984e9203ceddf397e2cd7070d2a64a215e48e694616908fec6d3615"
     },
     {
@@ -10591,7 +10591,7 @@
       "commit": "3764d7f4712a79828176e75962dc704e80e0da5e",
       "latestCommit": "3764d7f4712a79828176e75962dc704e80e0da5e",
       "license": "Apache-2.0",
-      "localFile": "vendor/aaron-he-zhu/aaron-marketing-skills/ad/orchestrate/ad-creative-builder/SKILL.md",
+      "localFile": "docs/vendor/aaron-he-zhu/aaron-marketing-skills/ad/orchestrate/ad-creative-builder/SKILL.md",
       "sha256": "1dbb3c3d7fa9cf2fd21e4d65d02ab562f94af6cba422b7790ad34c9ffcab5beb"
     },
     {
@@ -10616,7 +10616,7 @@
       "commit": "3764d7f4712a79828176e75962dc704e80e0da5e",
       "latestCommit": "3764d7f4712a79828176e75962dc704e80e0da5e",
       "license": "Apache-2.0",
-      "localFile": "vendor/aaron-he-zhu/aaron-marketing-skills/ad/orchestrate/ad-test-designer/SKILL.md",
+      "localFile": "docs/vendor/aaron-he-zhu/aaron-marketing-skills/ad/orchestrate/ad-test-designer/SKILL.md",
       "sha256": "89059a07dfc0bbf067f3fea0d3d35dee59dd455124f595448cb83c23e62573ab"
     },
     {
@@ -10641,7 +10641,7 @@
       "commit": "3764d7f4712a79828176e75962dc704e80e0da5e",
       "latestCommit": "3764d7f4712a79828176e75962dc704e80e0da5e",
       "license": "Apache-2.0",
-      "localFile": "vendor/aaron-he-zhu/aaron-marketing-skills/ad/orchestrate/bid-strategy-planner/SKILL.md",
+      "localFile": "docs/vendor/aaron-he-zhu/aaron-marketing-skills/ad/orchestrate/bid-strategy-planner/SKILL.md",
       "sha256": "a0af16eb0d6e192da14b980ff1dc80e1c22d3430175b139f981269ef2a55b7d4"
     },
     {
@@ -10666,7 +10666,7 @@
       "commit": "3764d7f4712a79828176e75962dc704e80e0da5e",
       "latestCommit": "3764d7f4712a79828176e75962dc704e80e0da5e",
       "license": "Apache-2.0",
-      "localFile": "vendor/aaron-he-zhu/aaron-marketing-skills/ad/orchestrate/landing-experience-checker/SKILL.md",
+      "localFile": "docs/vendor/aaron-he-zhu/aaron-marketing-skills/ad/orchestrate/landing-experience-checker/SKILL.md",
       "sha256": "46a1d782f89649a90cf88eda27011badf0d2097330eb426a133b5b9774fc6fc7"
     },
     {
@@ -10691,7 +10691,7 @@
       "commit": "3764d7f4712a79828176e75962dc704e80e0da5e",
       "latestCommit": "3764d7f4712a79828176e75962dc704e80e0da5e",
       "license": "Apache-2.0",
-      "localFile": "vendor/aaron-he-zhu/aaron-marketing-skills/ad/research/audience-segment-builder/SKILL.md",
+      "localFile": "docs/vendor/aaron-he-zhu/aaron-marketing-skills/ad/research/audience-segment-builder/SKILL.md",
       "sha256": "57f7899439cfa2790993a02e843d155fae508ef867402bc7ccca1dfad1fbdbe9"
     },
     {
@@ -10716,7 +10716,7 @@
       "commit": "3764d7f4712a79828176e75962dc704e80e0da5e",
       "latestCommit": "3764d7f4712a79828176e75962dc704e80e0da5e",
       "license": "Apache-2.0",
-      "localFile": "vendor/aaron-he-zhu/aaron-marketing-skills/ad/research/campaign-architect/SKILL.md",
+      "localFile": "docs/vendor/aaron-he-zhu/aaron-marketing-skills/ad/research/campaign-architect/SKILL.md",
       "sha256": "b8823b556caa2222f2c849984fd5463ca684950e6bedd856cc64064d7e42ed05"
     },
     {
@@ -10741,7 +10741,7 @@
       "commit": "3764d7f4712a79828176e75962dc704e80e0da5e",
       "latestCommit": "3764d7f4712a79828176e75962dc704e80e0da5e",
       "license": "Apache-2.0",
-      "localFile": "vendor/aaron-he-zhu/aaron-marketing-skills/ad/research/search-term-miner/SKILL.md",
+      "localFile": "docs/vendor/aaron-he-zhu/aaron-marketing-skills/ad/research/search-term-miner/SKILL.md",
       "sha256": "395d670374c69654b85c44ff3a8172c1a2da5cad93cbd8f0f6810b6a0cabe95b"
     },
     {
@@ -10767,7 +10767,7 @@
       "commit": "3764d7f4712a79828176e75962dc704e80e0da5e",
       "latestCommit": "3764d7f4712a79828176e75962dc704e80e0da5e",
       "license": "Apache-2.0",
-      "localFile": "vendor/aaron-he-zhu/aaron-marketing-skills/ad/scale/attribution-reconciler/SKILL.md",
+      "localFile": "docs/vendor/aaron-he-zhu/aaron-marketing-skills/ad/scale/attribution-reconciler/SKILL.md",
       "sha256": "eca7a8dc56a1ac8f7d5ddf72144babb6629402d982b7efd51791e43672e6ac96"
     },
     {
@@ -10792,7 +10792,7 @@
       "commit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "latestCommit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "license": "MIT",
-      "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/ad-copy-performance/SKILL.md",
+      "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/ad-copy-performance/SKILL.md",
       "sha256": "5e8af48b66d67d7e7fb0e5f8fdc8b31506415fb3934fd0bc14b5ba666e1acb2d"
     },
     {
@@ -10817,7 +10817,7 @@
       "commit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "latestCommit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "license": "MIT",
-      "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/campaign-monitor/SKILL.md",
+      "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/campaign-monitor/SKILL.md",
       "sha256": "ddaa93985511efadb5b60961344905925383868c9453d695ecf8a16975d81e73"
     },
     {
@@ -10842,7 +10842,7 @@
       "commit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "latestCommit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "license": "MIT",
-      "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/competitive-intelligence/SKILL.md",
+      "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/competitive-intelligence/SKILL.md",
       "sha256": "6d4c0ba19965ae803b8bacf2c62a6e1f3d18e0f217b020b9d04e94f2f60ae90d"
     },
     {
@@ -10867,7 +10867,7 @@
       "commit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "latestCommit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "license": "MIT",
-      "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/geo-device-schedule/SKILL.md",
+      "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/geo-device-schedule/SKILL.md",
       "sha256": "6c281770bdc1a6586271e12fc0af6c521c5eaa73324b7e72762e694bfe93202d"
     },
     {
@@ -10893,7 +10893,7 @@
       "commit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "latestCommit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "license": "MIT",
-      "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/google-ads-command-center/SKILL.md",
+      "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/google-ads-command-center/SKILL.md",
       "sha256": "21b0022579475ce6bdbc9a707a1f3f36d76eba65e4b0472c8f4203e61288cc23"
     },
     {
@@ -10918,7 +10918,7 @@
       "commit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "latestCommit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "license": "MIT",
-      "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/keyword-health/SKILL.md",
+      "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/keyword-health/SKILL.md",
       "sha256": "126afb09d131d23436c79e9cd37b82acc0af380561623a1560c167cd9624f317"
     },
     {
@@ -10943,7 +10943,7 @@
       "commit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "latestCommit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "license": "MIT",
-      "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/meta-account-audit/SKILL.md",
+      "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/meta-account-audit/SKILL.md",
       "sha256": "1b8c5d2491c8ae3bb5dda794c07bf24156ddb0139102530183693531b15bd184"
     },
     {
@@ -10968,7 +10968,7 @@
       "commit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "latestCommit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "license": "MIT",
-      "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/meta-ads-command-center/SKILL.md",
+      "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/meta-ads-command-center/SKILL.md",
       "sha256": "a6380eb90853a746af8a7cc3a766a93314327d63bcb3d908755f5f0a271368f1"
     },
     {
@@ -10993,7 +10993,7 @@
       "commit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "latestCommit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "license": "MIT",
-      "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/meta-audience-delivery/SKILL.md",
+      "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/meta-audience-delivery/SKILL.md",
       "sha256": "e60f85c97ee499561d38a660d06c7d1c52569117ae666460d6d4194e2744a5de"
     },
     {
@@ -11018,7 +11018,7 @@
       "commit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "latestCommit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "license": "MIT",
-      "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/meta-budget-scaling/SKILL.md",
+      "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/meta-budget-scaling/SKILL.md",
       "sha256": "a0adf2ab517c09ccb9bd0b0023a7c410e02ea3425b424c521318fd3b5528efcf"
     },
     {
@@ -11043,7 +11043,7 @@
       "commit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "latestCommit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "license": "MIT",
-      "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/meta-creative-fatigue/SKILL.md",
+      "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/meta-creative-fatigue/SKILL.md",
       "sha256": "b44d4d0bbf25ebab9bce8cfbba5132b7959717d7df5a647777377ac1302911b0"
     },
     {
@@ -11068,7 +11068,7 @@
       "commit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "latestCommit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "license": "MIT",
-      "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/meta-performance-monitor/SKILL.md",
+      "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/meta-performance-monitor/SKILL.md",
       "sha256": "672c6394f67cc55213239dc51a83b76779bdc6abecf9544b71615a6ccac6a485"
     },
     {
@@ -11093,7 +11093,7 @@
       "commit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "latestCommit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "license": "MIT",
-      "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/meta-revenue-attribution/SKILL.md",
+      "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/meta-revenue-attribution/SKILL.md",
       "sha256": "1a3cf66d0049bdd5b03faec4a3fc903548b5b9c477dd2dd283f012834dbd5f9e"
     },
     {
@@ -11118,7 +11118,7 @@
       "commit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "latestCommit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "license": "MIT",
-      "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/monthly-executive-summary/SKILL.md",
+      "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/monthly-executive-summary/SKILL.md",
       "sha256": "bce595a66a642ff7ee6108292fe16f49b6f356001d06257d14b8bedd5ac96ac8"
     },
     {
@@ -11143,7 +11143,7 @@
       "commit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "latestCommit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "license": "MIT",
-      "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/pipeline-report/SKILL.md",
+      "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/pipeline-report/SKILL.md",
       "sha256": "a605ca54c7f6b1fe80c724b5b42af2f3a3f1d1b34940506fe0af244cf06c00d2"
     },
     {
@@ -11169,7 +11169,7 @@
       "commit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "latestCommit": "8644aa74229312535017cfc2b505a4ba1652f14d",
       "license": "MIT",
-      "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/search-term-intelligence/SKILL.md",
+      "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/search-term-intelligence/SKILL.md",
       "sha256": "3c6747002801aae1e01135cd2a0cda656ef2cd25e829cde17a0af0eaca0a6d6f"
     },
     {
@@ -11194,7 +11194,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/account-audit-by-cadence/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/account-audit-by-cadence/SKILL.md",
       "sha256": "737d9514f9edfd8ef8a75b31e4df9fa031aec5392ffa54f610bbbce797eb3b0d"
     },
     {
@@ -11219,7 +11219,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/account-engagement/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/account-engagement/SKILL.md",
       "sha256": "cf93472b2775040926985479404878d8f0e7bfe2ff353b81b26e0f51d84c3f32"
     },
     {
@@ -11244,7 +11244,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/account-health-check/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/account-health-check/SKILL.md",
       "sha256": "8ab94cd0d7e074ca862c773145651f03a2cfd344c17bb3475eebf57d6b738d6e"
     },
     {
@@ -11269,7 +11269,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/ad-hoc-query/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/ad-hoc-query/SKILL.md",
       "sha256": "7492f339f58f461b5aa676dc1709f62d027adfc5d69730c134dedb5c22d8b5af"
     },
     {
@@ -11294,7 +11294,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/audience-fit-check/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/audience-fit-check/SKILL.md",
       "sha256": "5d11c02a220d274ed518b203ae7479a15b451b05d938a2936e721ea4e32c5767"
     },
     {
@@ -11319,7 +11319,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/benchmark-comparison/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/benchmark-comparison/SKILL.md",
       "sha256": "1f568b1e4b8372954c357d89cd1da3226519b5890136fa88ee06edbffb027c8d"
     },
     {
@@ -11344,7 +11344,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/budget-re-allocation/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/budget-re-allocation/SKILL.md",
       "sha256": "d39da99804b3fb4d98ff4f0a921874230c96bb52a04d595b6c649a5c26a1d8fc"
     },
     {
@@ -11369,7 +11369,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/campaign-group-scoreboard/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/campaign-group-scoreboard/SKILL.md",
       "sha256": "8506658354d0abf44ed1c89ab0268144eba89c250ebdf59b667ea530b025fc1b"
     },
     {
@@ -11394,7 +11394,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/capping-recommendation/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/capping-recommendation/SKILL.md",
       "sha256": "4ef42a5f7d3a838ec538117ce3ec4bbc13c0a77b8bafc833c28aadbe220af333"
     },
     {
@@ -11419,7 +11419,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/company-account-routing/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/company-account-routing/SKILL.md",
       "sha256": "78e402812f2a2b6159f571f2ef6b6bdfec9cdd52b55643367e37aa24edc6ea2b"
     },
     {
@@ -11444,7 +11444,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/conversion-ad-weekly-check/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/conversion-ad-weekly-check/SKILL.md",
       "sha256": "4c2e6cb7757b29ee105eba32f4ec5cd8d3cd2644b72f1efb4d50a095af8ff8bf"
     },
     {
@@ -11469,7 +11469,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/cost-per-retargetable-member/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/cost-per-retargetable-member/SKILL.md",
       "sha256": "87c93296c7d5a390e286e98f8ce55fc25e1a80cec6d4e446cee909642ec0c52e"
     },
     {
@@ -11494,7 +11494,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/creative-decay-watchlist/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/creative-decay-watchlist/SKILL.md",
       "sha256": "3e7a382087f1f09eb74d19772278cd364214b66d29bcf51d68bcadcc190680ea"
     },
     {
@@ -11519,7 +11519,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/crm-data-health-check/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/crm-data-health-check/SKILL.md",
       "sha256": "e206ed0f1c9013bed90c4e8b9835ab9270087a1460536eefa87168f2860e57ef"
     },
     {
@@ -11544,7 +11544,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/landing-page-cpc-report/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/landing-page-cpc-report/SKILL.md",
       "sha256": "c686082f3a9329c85b8e967b3239751babab2d8b0d1560174be0667f767e3874"
     },
     {
@@ -11569,7 +11569,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/linkedin-abm-account-penetration/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/linkedin-abm-account-penetration/SKILL.md",
       "sha256": "016ae2147fd21118560e5e2f584e6885e6545b707b10926775829a48add9b6fc"
     },
     {
@@ -11594,7 +11594,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/linkedin-audience-demographics/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/linkedin-audience-demographics/SKILL.md",
       "sha256": "35e312f7775a3a6e4239b9649c9ed9dd1e5b72cc08ce00dda14ce121175d6ed4"
     },
     {
@@ -11619,7 +11619,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/linkedin-benchmark-context/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/linkedin-benchmark-context/SKILL.md",
       "sha256": "f8dbdc4f907d2d9797d38c2a73b0b9914d162ff053b7380c019cd5391512c7ed"
     },
     {
@@ -11644,7 +11644,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/linkedin-campaign-early-read/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/linkedin-campaign-early-read/SKILL.md",
       "sha256": "c5a8ce75cee04a1484c29982f2efac8d8906ce4e567c84c62de3245d3c5ac0be"
     },
     {
@@ -11669,7 +11669,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/linkedin-creative-fatigue-report/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/linkedin-creative-fatigue-report/SKILL.md",
       "sha256": "4ef053f537f0e3c130dc8b4a4d60aa14499f98eaa37226770372810f7285b11e"
     },
     {
@@ -11694,7 +11694,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/linkedin-creative-performance/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/linkedin-creative-performance/SKILL.md",
       "sha256": "b5fa69100a362ace99ba4e9cbe11ed8e5c468b647a080f40549bdc34cee035bc"
     },
     {
@@ -11719,7 +11719,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/linkedin-performance-kpis/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/linkedin-performance-kpis/SKILL.md",
       "sha256": "0084807f3a5a4db513bc1eeb257989dc92a3559d9df6be9a3e99e39b4d2d70c5"
     },
     {
@@ -11744,7 +11744,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/manager-monthly-report/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/manager-monthly-report/SKILL.md",
       "sha256": "cb7ba842721334d8dec7a3f38f920d32074f65b97cc9290df66fab3ff20c77f9"
     },
     {
@@ -11769,7 +11769,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/market-benchmark-comparison/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/market-benchmark-comparison/SKILL.md",
       "sha256": "e0173ceab1ebffe6c5d6ce8523daacf130255fb6b020cd6376d4bff455ec4396"
     },
     {
@@ -11794,7 +11794,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/monthly-targeting-review/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/monthly-targeting-review/SKILL.md",
       "sha256": "a965f8add7e86d0be7d482ff28b1bbd640f6d6adc13e074114bfc0f492a955fe"
     },
     {
@@ -11819,7 +11819,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/multichannel-performance-rollup/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/multichannel-performance-rollup/SKILL.md",
       "sha256": "4621b77cb3967e1db3762f6d5fcb715acf40d8006afec430ad453dca0595f309"
     },
     {
@@ -11844,7 +11844,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/no-deal-warm-leads-finder/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/no-deal-warm-leads-finder/SKILL.md",
       "sha256": "ddb2b76e60799af8af25718bd16ebff6a5716ac758bb974b2deefbf53d98a03b"
     },
     {
@@ -11869,7 +11869,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/pacing-check-against-schedule/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/pacing-check-against-schedule/SKILL.md",
       "sha256": "527b55374461b6baf0a56633002cb27bea5ce47cc12cfff4d71f91202ad6ac6f"
     },
     {
@@ -11894,7 +11894,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/pausing-low-performing-ads/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/pausing-low-performing-ads/SKILL.md",
       "sha256": "97e5d5406e1c8e2d2f0904c3aa38a90161031037c81a2c02e4c77c11f32117a5"
     },
     {
@@ -11919,7 +11919,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/signal-list-routine/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/signal-list-routine/SKILL.md",
       "sha256": "382c4a2f0e9af49735a6be5c04b346b6e5459704e9403fe60eb2ab121e2c0bca"
     },
     {
@@ -11944,7 +11944,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/silent-watchers-finder/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/silent-watchers-finder/SKILL.md",
       "sha256": "306c27722f16d738f87f914061c9f28b4f4fafd433b8bd7980ecc490d778b874"
     },
     {
@@ -11970,7 +11970,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/social-signals-to-pipeline/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/social-signals-to-pipeline/SKILL.md",
       "sha256": "7673376b791691e40399e9c20a861f570b4442032f531325642f3b9ff863702b"
     },
     {
@@ -11995,7 +11995,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/traffic-analysis/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/traffic-analysis/SKILL.md",
       "sha256": "86a1fc90157753acd2886884b5334712de1e32fff74d5a4f6a8126d6bbb94102"
     },
     {
@@ -12020,7 +12020,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/video-quality-check/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/video-quality-check/SKILL.md",
       "sha256": "80fc185d3aaafdc8f9960d547bdb94cf5bf81192a1ee32bbf1db49be75c21967"
     },
     {
@@ -12045,7 +12045,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/warm-lead-handoff/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/warm-lead-handoff/SKILL.md",
       "sha256": "0580b93a3f3875ea1f719b3d7d37b37772d4599c4b6cb93727d314f239ef28e2"
     },
     {
@@ -12070,7 +12070,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/waste-budget-detection/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/waste-budget-detection/SKILL.md",
       "sha256": "93e5f9ac0dd121024a827883bc4601991cb5284751bcf346698cff83e5594ebf"
     },
     {
@@ -12095,7 +12095,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/weekly-reporting/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/weekly-reporting/SKILL.md",
       "sha256": "6bfe462dc4688c51e6872aeb6d77673532d0f0bf9a7eb0ce6a93d760345ec99c"
     },
     {
@@ -12120,7 +12120,7 @@
       "commit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "latestCommit": "27f21d373c5a0477ff76f9835bca1aa1255d83ff",
       "license": "CC-BY-4.0",
-      "localFile": "vendor/demandsense-labs/linkedin-ads-skills/whos-looking-at-your-buying-pages/SKILL.md",
+      "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/whos-looking-at-your-buying-pages/SKILL.md",
       "sha256": "4b6a88dbab69d6a7546c61de9c21ede671ac9b4bdceb9223a066094bbe8b86a7"
     },
     {
@@ -12214,7 +12214,7 @@
       "commit": "240838b7149e550abbd982ac99271412fa4010ea",
       "latestCommit": "240838b7149e550abbd982ac99271412fa4010ea",
       "license": "MIT",
-      "localFile": "vendor/adaptyteam/apple-ads-cli/skills/adapty-cli-setup/SKILL.md",
+      "localFile": "docs/vendor/adaptyteam/apple-ads-cli/skills/adapty-cli-setup/SKILL.md",
       "sha256": "37429c5eb82e6cd59d6186da95ae0bdbe4d1f701c6bcaf68820fb75294a7f86f"
     },
     {
@@ -12239,7 +12239,7 @@
       "commit": "240838b7149e550abbd982ac99271412fa4010ea",
       "latestCommit": "240838b7149e550abbd982ac99271412fa4010ea",
       "license": "MIT",
-      "localFile": "vendor/adaptyteam/apple-ads-cli/skills/apple-ads-audit/SKILL.md",
+      "localFile": "docs/vendor/adaptyteam/apple-ads-cli/skills/apple-ads-audit/SKILL.md",
       "sha256": "4cd6d8a90b4f6afa2aa5bf96c3f7b2e507f29c497f3bb9d2b1bb780d48cbe5dd"
     },
     {
@@ -12264,7 +12264,7 @@
       "commit": "240838b7149e550abbd982ac99271412fa4010ea",
       "latestCommit": "240838b7149e550abbd982ac99271412fa4010ea",
       "license": "MIT",
-      "localFile": "vendor/adaptyteam/apple-ads-cli/skills/apple-ads-strategy/SKILL.md",
+      "localFile": "docs/vendor/adaptyteam/apple-ads-cli/skills/apple-ads-strategy/SKILL.md",
       "sha256": "bc8f1fc1ebdf12cbbb93e5a0a3e6b2063ecebd19691d3a66572c9a7a329cca55"
     },
     {
@@ -12289,7 +12289,7 @@
       "commit": "240838b7149e550abbd982ac99271412fa4010ea",
       "latestCommit": "240838b7149e550abbd982ac99271412fa4010ea",
       "license": "MIT",
-      "localFile": "vendor/adaptyteam/apple-ads-cli/skills/apple-ads/SKILL.md",
+      "localFile": "docs/vendor/adaptyteam/apple-ads-cli/skills/apple-ads/SKILL.md",
       "sha256": "addd7c15116cb4f1208feb68c1f0ed9bfaf61d5d47769bc57f5a703fc0db2fa8"
     },
     {
@@ -12314,7 +12314,7 @@
       "commit": "4d9c83264cf9403d47511d604142d474bb760c58",
       "latestCommit": "4d9c83264cf9403d47511d604142d474bb760c58",
       "license": "MIT",
-      "localFile": "vendor/popjam-io/skills/skills/ad-platform-safe-zones/SKILL.md",
+      "localFile": "docs/vendor/popjam-io/skills/skills/ad-platform-safe-zones/SKILL.md",
       "sha256": "c68a97e309644d3becd5fdf75fc337db395b94cfe3b5cfab165189932ced756a"
     },
     {
@@ -12339,7 +12339,7 @@
       "commit": "4d9c83264cf9403d47511d604142d474bb760c58",
       "latestCommit": "4d9c83264cf9403d47511d604142d474bb760c58",
       "license": "MIT",
-      "localFile": "vendor/popjam-io/skills/skills/art-motion/SKILL.md",
+      "localFile": "docs/vendor/popjam-io/skills/skills/art-motion/SKILL.md",
       "sha256": "f9509fe99f760375a74eef21c70cdc71e8476581f3e950042a2598c2f872cd70"
     },
     {
@@ -12364,7 +12364,7 @@
       "commit": "4d9c83264cf9403d47511d604142d474bb760c58",
       "latestCommit": "4d9c83264cf9403d47511d604142d474bb760c58",
       "license": "MIT",
-      "localFile": "vendor/popjam-io/skills/skills/award-landing-page/SKILL.md",
+      "localFile": "docs/vendor/popjam-io/skills/skills/award-landing-page/SKILL.md",
       "sha256": "6e820b49f210a53c29d53c515ffa0b62669df764e3aaf0746ed4e9cf7eb8c31e"
     },
     {
@@ -12389,7 +12389,7 @@
       "commit": "4d9c83264cf9403d47511d604142d474bb760c58",
       "latestCommit": "4d9c83264cf9403d47511d604142d474bb760c58",
       "license": "MIT",
-      "localFile": "vendor/popjam-io/skills/skills/brand-guideline-extraction/SKILL.md",
+      "localFile": "docs/vendor/popjam-io/skills/skills/brand-guideline-extraction/SKILL.md",
       "sha256": "c68babca2771aa3ab51ff895e9365bf7749ebbaf488d46b6d1cd01dfcfd2963a"
     },
     {
@@ -12414,7 +12414,7 @@
       "commit": "4d9c83264cf9403d47511d604142d474bb760c58",
       "latestCommit": "4d9c83264cf9403d47511d604142d474bb760c58",
       "license": "MIT",
-      "localFile": "vendor/popjam-io/skills/skills/popjam-growth-engine/SKILL.md",
+      "localFile": "docs/vendor/popjam-io/skills/skills/popjam-growth-engine/SKILL.md",
       "sha256": "7ad18c022e28c8978b82268b0d90c9724b458b1564a9d13181d8d7473ed830a7"
     },
     {
@@ -12439,7 +12439,7 @@
       "commit": "4d9c83264cf9403d47511d604142d474bb760c58",
       "latestCommit": "4d9c83264cf9403d47511d604142d474bb760c58",
       "license": "MIT",
-      "localFile": "vendor/popjam-io/skills/skills/remotion-render-pitfalls/SKILL.md",
+      "localFile": "docs/vendor/popjam-io/skills/skills/remotion-render-pitfalls/SKILL.md",
       "sha256": "eaeae6e5d01c29f3c425255ee942c4a14f261fd9aae9609f36e8535e06f55496"
     },
     {
@@ -12464,7 +12464,7 @@
       "commit": "4d9c83264cf9403d47511d604142d474bb760c58",
       "latestCommit": "4d9c83264cf9403d47511d604142d474bb760c58",
       "license": "MIT",
-      "localFile": "vendor/popjam-io/skills/skills/writing-style-extraction/SKILL.md",
+      "localFile": "docs/vendor/popjam-io/skills/skills/writing-style-extraction/SKILL.md",
       "sha256": "55ecae0a91f7351057783225003d36a3b4c2d8a71b5b2c3e774311c3ad6d3087"
     },
     {
@@ -12489,7 +12489,7 @@
       "commit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "latestCommit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "license": "MIT",
-      "localFile": "vendor/mardab96/paid-ads-claude-skills/advantage-plus-control-review-paid-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/advantage-plus-control-review-paid-ads/SKILL.md",
       "sha256": "edee01faf9862765fd13ee47ce795e8f60669f19e395c6c4cb4b18da1d25bd7a"
     },
     {
@@ -12515,7 +12515,7 @@
       "commit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "latestCommit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "license": "MIT",
-      "localFile": "vendor/mardab96/paid-ads-claude-skills/bidding-learning-sanity-check-paid-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/bidding-learning-sanity-check-paid-ads/SKILL.md",
       "sha256": "c523c564daf0732b4614b40810f53cc5321cdd22a78542bd51f6e021555d8f20"
     },
     {
@@ -12540,7 +12540,7 @@
       "commit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "latestCommit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "license": "MIT",
-      "localFile": "vendor/mardab96/paid-ads-claude-skills/campaign-structure-debt-audit-paid-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/campaign-structure-debt-audit-paid-ads/SKILL.md",
       "sha256": "551714934f022ac4f7d1c20c60960318751d4ba98a9af4f629859de4b01478c1"
     },
     {
@@ -12565,7 +12565,7 @@
       "commit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "latestCommit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "license": "MIT",
-      "localFile": "vendor/mardab96/paid-ads-claude-skills/comment-objection-miner-paid-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/comment-objection-miner-paid-ads/SKILL.md",
       "sha256": "8eb90857221636eb28c5e1aba99bac21fef12b1a46074af4e226b81152e81dec"
     },
     {
@@ -12591,7 +12591,7 @@
       "commit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "latestCommit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "license": "MIT",
-      "localFile": "vendor/mardab96/paid-ads-claude-skills/competitor-auction-pressure-review-paid-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/competitor-auction-pressure-review-paid-ads/SKILL.md",
       "sha256": "c366374d6d608217e5f5ffa7b9c33372af0eff6f47a3964ce5650b7ca6dc3221"
     },
     {
@@ -12617,7 +12617,7 @@
       "commit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "latestCommit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "license": "MIT",
-      "localFile": "vendor/mardab96/paid-ads-claude-skills/creative-fatigue-angle-review-paid-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/creative-fatigue-angle-review-paid-ads/SKILL.md",
       "sha256": "3bfcea5dc730298c05bfbacf1b7909c144c43545eecddc64ca9dd647967c801a"
     },
     {
@@ -12642,7 +12642,7 @@
       "commit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "latestCommit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "license": "MIT",
-      "localFile": "vendor/mardab96/paid-ads-claude-skills/cross-channel-budget-reallocation-paid-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/cross-channel-budget-reallocation-paid-ads/SKILL.md",
       "sha256": "8eaf5544b06c4f70f9135c770cf59da4a202a870986b36b2cdcb5c47dd4d39d2"
     },
     {
@@ -12667,7 +12667,7 @@
       "commit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "latestCommit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "license": "MIT",
-      "localFile": "vendor/mardab96/paid-ads-claude-skills/experiment-readout-paid-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/experiment-readout-paid-ads/SKILL.md",
       "sha256": "1ba1b555c1301f076d50bd87b86037a066fb446bb6bc7d9006448d66ae4c142e"
     },
     {
@@ -12693,7 +12693,7 @@
       "commit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "latestCommit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "license": "MIT",
-      "localFile": "vendor/mardab96/paid-ads-claude-skills/landing-page-conversion-review-paid-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/landing-page-conversion-review-paid-ads/SKILL.md",
       "sha256": "057f0327746541568878ef0e2f23d8dcaeca7f298eece062fcd461cbc9bfdbc5"
     },
     {
@@ -12718,7 +12718,7 @@
       "commit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "latestCommit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "license": "MIT",
-      "localFile": "vendor/mardab96/paid-ads-claude-skills/lead-quality-feedback-loop-paid-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/lead-quality-feedback-loop-paid-ads/SKILL.md",
       "sha256": "8716995c5ef39f33d9383479525fe4e1267623bff0ae0d7a4fcf8aee005a501d"
     },
     {
@@ -12743,7 +12743,7 @@
       "commit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "latestCommit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "license": "MIT",
-      "localFile": "vendor/mardab96/paid-ads-claude-skills/offer-message-match-audit-paid-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/offer-message-match-audit-paid-ads/SKILL.md",
       "sha256": "89d0f7d13ddbf610d09f262979ba69164f74cb1c4d0ecbe2a7ff62c1679c280a"
     },
     {
@@ -12768,7 +12768,7 @@
       "commit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "latestCommit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "license": "MIT",
-      "localFile": "vendor/mardab96/paid-ads-claude-skills/paid-ads-account-triage/SKILL.md",
+      "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/paid-ads-account-triage/SKILL.md",
       "sha256": "72ec7aa792c5fccf8db09577fa6cc39db3d76a54d1a1aaa360fd4823e5286419"
     },
     {
@@ -12793,7 +12793,7 @@
       "commit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "latestCommit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "license": "MIT",
-      "localFile": "vendor/mardab96/paid-ads-claude-skills/performance-anomaly-explainer-paid-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/performance-anomaly-explainer-paid-ads/SKILL.md",
       "sha256": "2a99a20c4a6126c6e335ded758b61b1fea61e1474da0bf5c2b9c386ea1026273"
     },
     {
@@ -12818,7 +12818,7 @@
       "commit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "latestCommit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "license": "MIT",
-      "localFile": "vendor/mardab96/paid-ads-claude-skills/performance-max-control-review-paid-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/performance-max-control-review-paid-ads/SKILL.md",
       "sha256": "2a35feceabdcf1a14e318527bcaa68797646f8ca6f64b5991c4a09777991751a"
     },
     {
@@ -12843,7 +12843,7 @@
       "commit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "latestCommit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "license": "MIT",
-      "localFile": "vendor/mardab96/paid-ads-claude-skills/product-feed-catalog-qa-paid-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/product-feed-catalog-qa-paid-ads/SKILL.md",
       "sha256": "0d2d0bcac239a41ae9d5ad8acd16886f9c9ad2c85afda4656ae3cee1d8c45471"
     },
     {
@@ -12868,7 +12868,7 @@
       "commit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "latestCommit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "license": "MIT",
-      "localFile": "vendor/mardab96/paid-ads-claude-skills/scale-readiness-check-paid-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/scale-readiness-check-paid-ads/SKILL.md",
       "sha256": "bccb67ed2777d03414cd89ec97f25db7a57c7879f963d6b33a91cf206e396266"
     },
     {
@@ -12893,7 +12893,7 @@
       "commit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "latestCommit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "license": "MIT",
-      "localFile": "vendor/mardab96/paid-ads-claude-skills/search-terms-intent-hygiene-paid-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/search-terms-intent-hygiene-paid-ads/SKILL.md",
       "sha256": "5fc4b0e2d5ac73953d1e43364b8cee4a6d96e4a5694922efc3523422dcaa7000"
     },
     {
@@ -12919,7 +12919,7 @@
       "commit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "latestCommit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "license": "MIT",
-      "localFile": "vendor/mardab96/paid-ads-claude-skills/tracking-signal-quality-audit-paid-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/tracking-signal-quality-audit-paid-ads/SKILL.md",
       "sha256": "96c65379cd16748e385faf680bc506ad0dabbbe97721ddbdc18b0128e63a3bee"
     },
     {
@@ -12944,7 +12944,7 @@
       "commit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "latestCommit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "license": "MIT",
-      "localFile": "vendor/mardab96/paid-ads-claude-skills/wasted-spend-finder-paid-ads/SKILL.md",
+      "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/wasted-spend-finder-paid-ads/SKILL.md",
       "sha256": "40263f23366a27201f29bdcccaef767b121396ea8bc40e3fd79f5a204cb4e372"
     },
     {
@@ -12969,7 +12969,7 @@
       "commit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "latestCommit": "3f1b3ade8aa22032db2c67326b74d7763e9b4563",
       "license": "MIT",
-      "localFile": "vendor/mardab96/paid-ads-claude-skills/weekly-paid-ads-operator-readout/SKILL.md",
+      "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/weekly-paid-ads-operator-readout/SKILL.md",
       "sha256": "c71b48f5abbaa9991803277b4a16e82ee758d2080a7157e8e127fc1c2b733cd5"
     },
     {
@@ -13942,7 +13942,7 @@
       "why": "Recherchekanal für öffentliche Quellen; kein Werbekonto-Optimizer.",
       "how": "superweb search / batch / research; Resultate deduplizieren und mit Originalquellen prüfen. Details und echte Befunde in RESEARCH.md.",
       "limits": "Lokal aufgerufen. Suchabdeckung und Fehlertreffer sind dokumentiert; keine automatischen Installationen oder Kontoaktionen.",
-      "sourceUrl": "evidence/research-manifest.json#superweb",
+      "sourceUrl": "docs/evidence/research-manifest.json#superweb",
       "checkedAt": "2026-11-12T16:53:12.495Z",
       "integration": "external_reference",
       "inspection": "implemented"
@@ -13961,7 +13961,7 @@
       "why": "Recherchekanal für öffentliche Quellen; kein Werbekonto-Optimizer.",
       "how": "superweb mega; Resultate deduplizieren und mit Originalquellen prüfen. Details und echte Befunde in RESEARCH.md.",
       "limits": "Lokal aufgerufen. Suchabdeckung und Fehlertreffer sind dokumentiert; keine automatischen Installationen oder Kontoaktionen.",
-      "sourceUrl": "evidence/research-manifest.json#superweb",
+      "sourceUrl": "docs/evidence/research-manifest.json#superweb",
       "checkedAt": "2026-11-12T16:53:12.495Z",
       "integration": "external_reference",
       "inspection": "implemented"
@@ -13980,7 +13980,7 @@
       "why": "Recherchekanal für öffentliche Quellen; kein Werbekonto-Optimizer.",
       "how": "ghmax --repos; Resultate deduplizieren und mit Originalquellen prüfen. Details und echte Befunde in RESEARCH.md.",
       "limits": "Lokal aufgerufen. Suchabdeckung und Fehlertreffer sind dokumentiert; keine automatischen Installationen oder Kontoaktionen.",
-      "sourceUrl": "evidence/research-manifest.json#ghmax",
+      "sourceUrl": "docs/evidence/research-manifest.json#ghmax",
       "checkedAt": "2026-11-12T16:53:12.495Z",
       "integration": "external_reference",
       "inspection": "implemented"
@@ -14018,7 +14018,7 @@
       "why": "Recherchekanal für öffentliche Quellen; kein Werbekonto-Optimizer.",
       "how": "metacode live gh-search; Resultate deduplizieren und mit Originalquellen prüfen. Details und echte Befunde in RESEARCH.md.",
       "limits": "Lokal aufgerufen. Suchabdeckung und Fehlertreffer sind dokumentiert; keine automatischen Installationen oder Kontoaktionen.",
-      "sourceUrl": "evidence/research-manifest.json#metacode",
+      "sourceUrl": "docs/evidence/research-manifest.json#metacode",
       "checkedAt": "2026-11-12T16:53:12.495Z",
       "integration": "external_reference",
       "inspection": "implemented"
