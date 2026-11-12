@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ghmax-awesome",
+    "name": "GHMax · Awesome-Repos",
+    "command": "ghmax --repos \"awesome advertising marketing\"",
+    "checkedAt": "2026-11-12T16:53:12.495Z",
+    "status": "ok",
+    "count": 13,
+    "limitations": "Unpassende Werbetexte/Spam nicht aufgenommen.",
+    "sha256": "a5980dddf3405fdcd1029ec09d536cbf3d0eedba6200f1fe982ae3fc9b163131"
+  },
+  {
+    "id": "ghmax-skills",
+    "name": "GHMax · Ads-Skills",
+    "command": "ghmax --repos \"ads skills\"",
+    "checkedAt": "2026-11-12T16:53:12.495Z",
+    "status": "ok",
+    "count": 50,
+    "limitations": "Jobanzeigen, NASA ADS und allgemeine Toolwrapper nicht als Ads-Optimierung übernommen.",
+    "sha256": "49354f6f031c6d68de33ea52d78952daeabb5bdf26242a6801e399c5f0d9ee05"
+  },
+  {
+    "id": "superweb-mega",
+    "name": "Superweb Mega",
+    "command": "superweb mega \"awesome advertising marketing agent skills meta tiktok linkedin microsoft amazon ads github\"",
+    "checkedAt": "2026-11-12T16:53:12.495Z",
+    "status": "ok",
+    "count": 17,
+    "limitations": "Suchresultate sind Discovery; Originalquellen separat geprüft.",
+    "sha256": "b4726689ff3b4eb1db1e61f3cf488e652b1b6576e6dcc224ee0936625d8774a1"
+  },
+  {
+    "id": "gitstars",
+    "name": "Gitstars",
+    "command": "superweb gitstars --explore advertising --limit 20",
+    "checkedAt": "2026-11-12T16:53:12.495Z",
+    "status": "ok",
+    "count": 4,
+    "limitations": "Wenige passende Treffer; alte Amazon Product Advertising APIs sind keine Amazon Ads API und wurden verworfen.",
+    "sha256": "a1c28b2a4b00bd9e48d2cf49c4ac5251b492438a266d37071a953afb3745aa2d"
+  },
+  {
+    "id": "metacode",
+    "name": "Metacode",
+    "command": "metacode live gh-search \"ads skills marketing\"",
+    "checkedAt": "2026-11-12T16:53:12.495Z",
+    "status": "ok",
+    "count": 12,
+    "limitations": "Live-Repo-Discovery, keine automatische Architekturplanung.",
+    "sha256": "6b66eafb60e658da55b5ceaf9c3b74c7380b9c5929e9334415df6f376cab8d82"
+  },
+  {
+    "id": "youtube-discovery",
+    "name": "YouTube",
+    "command": "yt-dlp --flat-playlist ytsearch3:<vier Ads-Themen>",
+    "checkedAt": "2026-11-12T16:53:12.495Z",
+    "status": "ok",
+    "count": 12,
+    "limitations": "Nur Suchmetadaten; keine aktuelle Transkription, Zeitreihe oder universelle Trendaussage.",
+    "sha256": "9d75147660e75cdf62ff77cd72ecb983f1278a8c2b46d9bfa3571b016f6b554f"
+  }
+]

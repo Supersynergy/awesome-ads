@@ -1,0 +1,25 @@
+{
+  "createdAt": "2026-11-12T17:45:03.152Z",
+  "generatedWith": "image_gen",
+  "sha256": "352fcb2775376680d95ad43c10c691a017994ae565e58e19378722b310f5cf36",
+  "artworkTitle": "Awesome Ads",
+  "style": "Aktuelle helle Supersynergy-Awesome-Serie: Weiß, Violett, Türkis, Pink; flache Symbole und fette Typografie.",
+  "references": [
+    {
+      "repo": "Supersynergy/awesome-awesome-best-of-repo-lists",
+      "path": "assets/hero.png",
+      "blob": "37cc73962470d43a6b1a089ec34de4141e2077fc"
+    },
+    {
+      "repo": "Supersynergy/awesome-skills",
+      "path": "assets/hero.png",
+      "blob": "c179eda444daff25416100f36e445fc00ffad542"
+    },
+    {
+      "repo": "Supersynergy/awesome-ai-agents-2026",
+      "path": "docs/assets/friendly-agent-centered.png",
+      "blob": "840713c6331b835bae534bf99d5a94dba8f2795e"
+    }
+  ],
+  "modifications": "Neu erzeugtes Motiv; unveränderte PNG-Datei kopiert. Vorlage nicht überschrieben."
+}

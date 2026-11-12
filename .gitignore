@@ -1,0 +1,9 @@
+node_modules/
+.private/
+.sis/
+.apu/
+artifacts/
+.env
+.env.*
+.DS_Store
+*.log

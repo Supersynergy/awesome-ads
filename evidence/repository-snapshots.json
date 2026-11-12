@@ -1,0 +1,2576 @@
+[
+  {
+    "requestedRepo": "googleads/google-ads-mcp",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "googleads/google-ads-mcp",
+    "url": "https://github.com/googleads/google-ads-mcp",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 1166,
+    "pushedAt": "2026-11-10T22:03:34Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "cda852701fb5787dc4d79281f37da795ac09b97d"
+      }
+    }
+  },
+  {
+    "requestedRepo": "mardab96/google-ads-skills",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "mardab96/google-ads-skills",
+    "url": "https://github.com/mardab96/google-ads-skills",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 9,
+    "pushedAt": "2026-08-04T06:02:39Z",
+    "licenseInfo": {
+      "spdxId": "MIT",
+      "name": "MIT License"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "b5228cb525065ead2c3e07ee2bf44ea8a95358e3"
+      }
+    }
+  },
+  {
+    "requestedRepo": "AgriciDaniel/claude-ads",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "AgriciDaniel/claude-ads",
+    "url": "https://github.com/AgriciDaniel/claude-ads",
+    "description": "Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, X): source-grounded audits, deterministic findings and evidence coverage, versioned JSON reports, and capability-gated account changes.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 10987,
+    "pushedAt": "2026-11-01T21:08:14Z",
+    "licenseInfo": {
+      "spdxId": "MIT",
+      "name": "MIT License"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "fc3908e786c318776df89a3a098333da377364be"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google/skills",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google/skills",
+    "url": "https://github.com/google/skills",
+    "description": "Agent Skills for Google products and technologies",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 24029,
+    "pushedAt": "2026-11-12T16:22:28Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "42ed164bea1ae2fc05c8d65fda182a1851264008"
+      }
+    }
+  },
+  {
+    "requestedRepo": "googleads/data-manager-node",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "googleads/data-manager-node",
+    "url": "https://github.com/googleads/data-manager-node",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 3,
+    "pushedAt": "2026-11-12T14:34:06Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "b57f3b8486978d1364f7689da6934fa94062362c"
+      }
+    }
+  },
+  {
+    "requestedRepo": "googleads/data-manager-python",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "googleads/data-manager-python",
+    "url": "https://github.com/googleads/data-manager-python",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 4,
+    "pushedAt": "2026-11-05T22:01:06Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "6c4f8bfc449e2d2a24e58fd483b84073e71bcdbf"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google/ads-api-report-fetcher",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google/ads-api-report-fetcher",
+    "url": "https://github.com/google/ads-api-report-fetcher",
+    "description": "Google Ads API Report Fetcher (gaarf)",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 64,
+    "pushedAt": "2026-10-29T09:26:54Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "5dd7022cb45d8d2542c048c93ea6cb9ac6b73989"
+      }
+    }
+  },
+  {
+    "requestedRepo": "googleanalytics/google-analytics-mcp",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "googleanalytics/google-analytics-mcp",
+    "url": "https://github.com/googleanalytics/google-analytics-mcp",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 3764,
+    "pushedAt": "2026-11-09T14:35:05Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "7df9ffe45ded970ed5d3950cc035b6556ad31a9f"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/demand-led-growth",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/demand-led-growth",
+    "url": "https://github.com/google-marketing-solutions/demand-led-growth",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 4,
+    "pushedAt": "2026-08-19T10:30:47Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "1c46ef0db1a13803cb0c2239c1c46a71aeaf2e9a"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/feedx",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/feedx",
+    "url": "https://github.com/google-marketing-solutions/feedx",
+    "description": "Transparent, robust and trustworthy A/B experimentation for Shopping feeds.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 66,
+    "pushedAt": "2026-10-21T13:56:24Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "c25bf680ebc4a7792f7a98a2af30793b0ec80719"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/feedgen",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/feedgen",
+    "url": "https://github.com/google-marketing-solutions/feedgen",
+    "description": "Optimise Shopping feeds with Generative AI",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 269,
+    "pushedAt": "2026-11-04T15:24:33Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "545be8a7b217246b30bce928ac51bd32918657b3"
+      }
+    }
+  },
+  {
+    "requestedRepo": "Brainlabs-Digital/Google-Ads-Scripts",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "Brainlabs-Digital/Google-Ads-Scripts",
+    "url": "https://github.com/Brainlabs-Digital/Google-Ads-Scripts",
+    "description": "We're open-sourcing our award winning Google Ads Scripts!",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 165,
+    "pushedAt": "2024-09-18T10:54:43Z",
+    "licenseInfo": {
+      "spdxId": "GPL-2.0",
+      "name": "GNU General Public License v2.0"
+    },
+    "defaultBranchRef": {
+      "name": "master",
+      "target": {
+        "oid": "46398b0498bb95b10ffcc6ab544fb5bc11cc3836"
+      }
+    }
+  },
+  {
+    "requestedRepo": "Omnicliq-Digital-Agency/google-ads-scripts",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "Omnicliq-Digital-Agency/google-ads-scripts",
+    "url": "https://github.com/Omnicliq-Digital-Agency/google-ads-scripts",
+    "description": "Free, production-grade Google Ads scripts by Omnicliq",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 0,
+    "pushedAt": "2026-10-28T21:45:20Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "ea41d537be35bf071ebe046b3844bfeae8f3b463"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/ads-monitor",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/ads-monitor",
+    "url": "https://github.com/google-marketing-solutions/ads-monitor",
+    "description": "Comprehensive system for monitoring changes and fluctuations  in Google Ads",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 26,
+    "pushedAt": "2026-06-19T17:25:32Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "5e483028f3d3873f308825646b68999d8a8fe47e"
+      }
+    }
+  },
+  {
+    "requestedRepo": "coreyhaines31/marketingskills",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "coreyhaines31/marketingskills",
+    "url": "https://github.com/coreyhaines31/marketingskills",
+    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 59927,
+    "pushedAt": "2026-11-11T17:49:23Z",
+    "licenseInfo": {
+      "spdxId": "MIT",
+      "name": "MIT License"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "1f837447b20bb6f0e72d87b80ece1c221c362c7d"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/negative_keyword_cleaner",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/negative_keyword_cleaner",
+    "url": "https://github.com/google-marketing-solutions/negative_keyword_cleaner",
+    "description": "Identify irrelevant negative keywords from your Google Ads account",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 36,
+    "pushedAt": "2026-10-21T12:41:26Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "9b12527b3e025b81dc03248730695e6b14b30283"
+      }
+    }
+  },
+  {
+    "requestedRepo": "itallstartedwithaidea/unblock-coverted-keywords-script",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "itallstartedwithaidea/unblock-coverted-keywords-script",
+    "url": "https://github.com/itallstartedwithaidea/unblock-coverted-keywords-script",
+    "description": "Google Ads Scripts: unblock converting search terms blocked by negative keywords + automated placement exclusions for Display, YouTube & PMax. By AHMEEGO / It All Started With A Idea.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 1,
+    "pushedAt": "2026-07-20T00:31:39Z",
+    "licenseInfo": {
+      "spdxId": "MIT",
+      "name": "MIT License"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "1df300f856e7112fe19091bbf49ca9e23053ad49"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/pmax_best_practices_dashboard",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/pmax_best_practices_dashboard",
+    "url": "https://github.com/google-marketing-solutions/pmax_best_practices_dashboard",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 64,
+    "pushedAt": "2026-11-05T12:11:34Z",
+    "licenseInfo": {
+      "spdxId": "NOASSERTION",
+      "name": "Other"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "b7d1d72a1f74058bbdc8f235ec5296ea0151bb3a"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/google-analytics-utilities",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/google-analytics-utilities",
+    "url": "https://github.com/google-marketing-solutions/google-analytics-utilities",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 252,
+    "pushedAt": "2026-11-04T11:41:12Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "2d480a344c4f90b6882e06d8c25bcb5e81194635"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/ga4-gtm-utilities",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/ga4-gtm-utilities",
+    "url": "https://github.com/google-marketing-solutions/ga4-gtm-utilities",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 92,
+    "pushedAt": "2026-10-23T16:08:09Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "9a4d06d2edbcf677ee178a58cae77069e9b34a07"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/gps-sgtm-pantheon",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/gps-sgtm-pantheon",
+    "url": "https://github.com/google-marketing-solutions/gps-sgtm-pantheon",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 137,
+    "pushedAt": "2026-11-11T09:39:54Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "c6841c62abbc8c6cb37590bfc914309c33d834c6"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/ga4_dataform",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/ga4_dataform",
+    "url": "https://github.com/google-marketing-solutions/ga4_dataform",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 162,
+    "pushedAt": "2025-01-03T21:52:09Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "6ee375a58005c390468b03e8a47b9699783b3f60"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/dlg-tool",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/dlg-tool",
+    "url": "https://github.com/google-marketing-solutions/dlg-tool",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 5,
+    "pushedAt": "2026-07-24T15:10:58Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "a09eb9d7e4710b95073fc7165f7eadf307f91a43"
+      }
+    }
+  },
+  {
+    "requestedRepo": "Opteo/google-ads-api",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "Opteo/google-ads-api",
+    "url": "https://github.com/Opteo/google-ads-api",
+    "description": "Google Ads API client library for Node.js",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 342,
+    "pushedAt": "2026-11-09T10:46:05Z",
+    "licenseInfo": {
+      "spdxId": "MIT",
+      "name": "MIT License"
+    },
+    "defaultBranchRef": {
+      "name": "master",
+      "target": {
+        "oid": "e2ad5a949edf7856d454a9eae8dff1ac93e61b82"
+      }
+    }
+  },
+  {
+    "requestedRepo": "googleads/google-ads-python",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "googleads/google-ads-python",
+    "url": "https://github.com/googleads/google-ads-python",
+    "description": "Google Ads API Client Library for Python",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 761,
+    "pushedAt": "2026-11-11T23:18:08Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "f253b400dc5924b731fcb42dbcd99e485200581e"
+      }
+    }
+  },
+  {
+    "requestedRepo": "googleads/google-ads-api-developer-assistant",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "googleads/google-ads-api-developer-assistant",
+    "url": "https://github.com/googleads/google-ads-api-developer-assistant",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 105,
+    "pushedAt": "2026-11-10T20:10:45Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "dbb730a199f6b319bb3de3c5a4f676e5f1ed3c73"
+      }
+    }
+  },
+  {
+    "requestedRepo": "TheMattBerman/google-ads-copilot",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "TheMattBerman/google-ads-copilot",
+    "url": "https://github.com/TheMattBerman/google-ads-copilot",
+    "description": "Google Ads Copilot: operator kit for audits, MCP-connected reads, export-mode analysis, and draft/apply workflows.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 241,
+    "pushedAt": "2026-06-10T15:58:40Z",
+    "licenseInfo": {
+      "spdxId": "MIT",
+      "name": "MIT License"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "2c253ee988b5540465317cde0cd4d6915dc2b382"
+      }
+    }
+  },
+  {
+    "requestedRepo": "cohnen/mcp-google-ads",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "cohnen/mcp-google-ads",
+    "url": "https://github.com/cohnen/mcp-google-ads",
+    "description": "An MCP tool that connects Google Ads with Claude AI/Cursor and others, allowing you to analyze your advertising data through natural language conversations. This integration gives you access to campaign information, performance metrics, keyword analytics, and ad management—all through simple chat with Claude, Cursor or Windsurf.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 721,
+    "pushedAt": "2025-10-16T20:20:14Z",
+    "licenseInfo": {
+      "spdxId": "MIT",
+      "name": "MIT License"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "461a1d673cf1c369e8b95fc9b5b1d9cb7f3ebb4a"
+      }
+    }
+  },
+  {
+    "requestedRepo": "gomarble-ai/google-ads-mcp-server",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "gomarble-ai/google-ads-mcp-server",
+    "url": "https://github.com/gomarble-ai/google-ads-mcp-server",
+    "description": "This repo helps us to analyze googla ads performance data",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 147,
+    "pushedAt": "2026-08-05T09:45:27Z",
+    "licenseInfo": {
+      "spdxId": "MIT",
+      "name": "MIT License"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "4f922abc8f9932a5080052a222a5edb86d7a3697"
+      }
+    }
+  },
+  {
+    "requestedRepo": "mathiaschu/google-ads-analyzer",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "mathiaschu/google-ads-analyzer",
+    "url": "https://github.com/mathiaschu/google-ads-analyzer",
+    "description": "A Claude Code skill + MCP server setup for expert-level Google Ads campaign analysis",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 73,
+    "pushedAt": "2026-03-10T14:55:09Z",
+    "licenseInfo": {
+      "spdxId": "MIT",
+      "name": "MIT License"
+    },
+    "defaultBranchRef": {
+      "name": "master",
+      "target": {
+        "oid": "9ae39c23bc73ac6fca1c7fbb3d75002e0d97aaca"
+      }
+    }
+  },
+  {
+    "requestedRepo": "scumunna/programmatic-skills",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "scumunna/programmatic-skills",
+    "url": "https://github.com/scumunna/programmatic-skills",
+    "description": "Agent skills for programmatic trading, analytics, and account operations. DV360 first, multi-DSP and multi-runtime (Claude Code and Codex).",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 2,
+    "pushedAt": "2026-07-03T21:43:31Z",
+    "licenseInfo": {
+      "spdxId": "MIT",
+      "name": "MIT License"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "cfb339dd4c9692a380b3d8b99f971ac7b59157e9"
+      }
+    }
+  },
+  {
+    "requestedRepo": "mardab96/landing-pages-claude-skills",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "mardab96/landing-pages-claude-skills",
+    "url": "https://github.com/mardab96/landing-pages-claude-skills",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 8,
+    "pushedAt": "2026-07-30T10:12:48Z",
+    "licenseInfo": {
+      "spdxId": "MIT",
+      "name": "MIT License"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "1b763333b3d29bc1b0e696546b129b239781f1ce"
+      }
+    }
+  },
+  {
+    "requestedRepo": "mardab96/paid-ads-claude-skills",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "mardab96/paid-ads-claude-skills",
+    "url": "https://github.com/mardab96/paid-ads-claude-skills",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 3,
+    "pushedAt": "2026-10-30T07:58:22Z",
+    "licenseInfo": {
+      "spdxId": "MIT",
+      "name": "MIT License"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "3f1b3ade8aa22032db2c67326b74d7763e9b4563"
+      }
+    }
+  },
+  {
+    "requestedRepo": "gomarble-ai/marketing-agent",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "gomarble-ai/marketing-agent",
+    "url": "https://github.com/gomarble-ai/marketing-agent",
+    "description": "A senior performance marketer in your terminal. AI-powered audits, creative-fatigue detection, and campaign, launches across 9 ad platforms — via OAuth-secured MCP. For Claude Code & Codex CLI.                                                                                                       ",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 16,
+    "pushedAt": "2026-10-14T07:59:46Z",
+    "licenseInfo": {
+      "spdxId": "MIT",
+      "name": "MIT License"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "3e58349a6d29076c474a3c3b32b5afe2a3b8cdcd"
+      }
+    }
+  },
+  {
+    "requestedRepo": "aaron-he-zhu/aaron-marketing-skills",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "aaron-he-zhu/aaron-marketing-skills",
+    "url": "https://github.com/aaron-he-zhu/aaron-marketing-skills",
+    "description": "120 marketing skills as an AI marketing staff — plugin, portable skills, or an 8-bot team across 7 disciplines (narrative, SEO/GEO, social, email, paid, influencer, launch) on one contract, with 8 auditor gates: TALE · CORE-EEAT · CITE · ECHO · SEND · ROAS · STAR · RAMP.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 3135,
+    "pushedAt": "2026-11-12T06:06:34Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "3764d7f4712a79828176e75962dc704e80e0da5e"
+      }
+    }
+  },
+  {
+    "requestedRepo": "nowork-studio/notfair-plugin",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "nowork-studio/notfair-plugin",
+    "url": "https://github.com/nowork-studio/notfair-plugin",
+    "description": "Open-source SEO, GEO, and marketing skills for AI agents.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 4141,
+    "pushedAt": "2026-11-11T09:09:17Z",
+    "licenseInfo": {
+      "spdxId": "MIT",
+      "name": "MIT License"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "8035315b959379d0a0df0c8f7d30c0defc5be576"
+      }
+    }
+  },
+  {
+    "requestedRepo": "ivangfalco/ads-skills",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "ivangfalco/ads-skills",
+    "url": "https://github.com/ivangfalco/ads-skills",
+    "description": "Ivan Falco's Ads Skills for Claude Code - LinkedIn, Meta, and Google Ads. 40+ strategy files, 39 API scripts. Built by the Head of Growth at ColdIQ.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 293,
+    "pushedAt": "2026-07-15T14:02:37Z",
+    "licenseInfo": {
+      "spdxId": "NOASSERTION",
+      "name": "Other"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "558c4dbed4cabd37cec204f24f5c026743c11009"
+      }
+    }
+  },
+  {
+    "requestedRepo": "zubair-trabzada/ai-ads-claude",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "zubair-trabzada/ai-ads-claude",
+    "url": "https://github.com/zubair-trabzada/ai-ads-claude",
+    "description": "AI-powered advertising strategy engine for Claude Code. Build complete ad strategies, generate platform-specific copy (Google, Meta, LinkedIn, TikTok, YouTube, Pinterest), design campaign funnels, allocate budgets, and produce professional PDF reports. 15 skills, 5 parallel agents.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 287,
+    "pushedAt": "2026-04-08T01:54:01Z",
+    "licenseInfo": {
+      "spdxId": "MIT",
+      "name": "MIT License"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "d1df3f544249191cbc600c8301e2b9d5ddd121c8"
+      }
+    }
+  },
+  {
+    "requestedRepo": "narayan-metaflow/metaflow-marketing-skills",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "narayan-metaflow/metaflow-marketing-skills",
+    "url": "https://github.com/narayan-metaflow/metaflow-marketing-skills",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 19,
+    "pushedAt": "2026-09-16T05:41:44Z",
+    "licenseInfo": {
+      "spdxId": "MIT",
+      "name": "MIT License"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "c137446804eb85b2cc0ba009c62068253a7c47be"
+      }
+    }
+  },
+  {
+    "requestedRepo": "henkisdabro/wookstar-claude-plugins",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "henkisdabro/wookstar-claude-plugins",
+    "url": "https://github.com/henkisdabro/wookstar-claude-plugins",
+    "description": "An opinionated Claude Code Plugin Pack. Skills, Agents, Hooks, MCPs. Examples: Email draft preview assistance & humanisation. Agents for Codex and Gemini \"outsourcing\". Skills for Google Analytics & Google Tag Manager, Shopify and much more",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 93,
+    "pushedAt": "2026-11-11T07:20:48Z",
+    "licenseInfo": {
+      "spdxId": "NOASSERTION",
+      "name": "Other"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "d7643af3069cb15b398b4cbdf45dc1509a62c1fc"
+      }
+    }
+  },
+  {
+    "requestedRepo": "langchain-ai/paid-media-agent",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "langchain-ai/paid-media-agent",
+    "url": "https://github.com/langchain-ai/paid-media-agent",
+    "description": "Open-source paid media agent for Google Ads, Meta Ads, Reddit, LinkedIn, X, and OpenAI Ads: analysis, reports, and reviewed changes, built on Deep Agents.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 126,
+    "pushedAt": "2026-11-11T04:17:01Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "2daf3f80f31a16f40c74fbd7fc603a5def24cb61"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/keyword_platform",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/keyword_platform",
+    "url": "https://github.com/google-marketing-solutions/keyword_platform",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 11,
+    "pushedAt": "2026-08-05T02:23:23Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "08a940d8193d3e836aad10912454b9ed390a050d"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/search_term_amp",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/search_term_amp",
+    "url": "https://github.com/google-marketing-solutions/search_term_amp",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 3,
+    "pushedAt": "2026-08-19T20:46:39Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "84d878b4f765c1fc89eea6727029705365be12c3"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/arba",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/arba",
+    "url": "https://github.com/google-marketing-solutions/arba",
+    "description": "ARBA identifies every reason your ads lose Impression Share, with a deep-dive focus on mastering your Quality Score",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 11,
+    "pushedAt": "2026-07-09T12:51:31Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "72c5661a6e6633d6fcb20428369253bc42ca1d83"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/bid2x",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/bid2x",
+    "url": "https://github.com/google-marketing-solutions/bid2x",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 10,
+    "pushedAt": "2026-09-23T13:12:58Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "7c1a41227f9df4f6c7ce30e6d5d205400cb93d1b"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/if-this-then-ad",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/if-this-then-ad",
+    "url": "https://github.com/google-marketing-solutions/if-this-then-ad",
+    "description": "☀️ A game changer in rule-based marketing. Run marketing campaigns based on real world events.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 119,
+    "pushedAt": "2026-09-25T09:04:46Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "71c1fe8ffbb412e1444973a8423896c2b52c3603"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/ads-policy-monitor",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/ads-policy-monitor",
+    "url": "https://github.com/google-marketing-solutions/ads-policy-monitor",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 22,
+    "pushedAt": "2026-05-28T09:21:51Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "7d313aead8aa49f2bdfe459cf112a9dfc8e12cf7"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/margin-protection",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/margin-protection",
+    "url": "https://github.com/google-marketing-solutions/margin-protection",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 11,
+    "pushedAt": "2026-06-24T04:03:16Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "9a31fa129d93ff6b6358df196a4f56a7127c3637"
+      }
+    }
+  },
+  {
+    "requestedRepo": "Hassanelsisi/google-ads-audit-script",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "Hassanelsisi/google-ads-audit-script",
+    "url": "https://github.com/Hassanelsisi/google-ads-audit-script",
+    "description": "A Google Ads Script using GAQL to help agencies and advertisers automate comprehensive account audits, outputting detailed reports to Google Sheets.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 4,
+    "pushedAt": "2025-05-23T12:06:18Z",
+    "licenseInfo": null,
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "85a5a6c4b6ae3fc43c1311846f8c7a0eefe99159"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/ads_placement_guardian",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/ads_placement_guardian",
+    "url": "https://github.com/google-marketing-solutions/ads_placement_guardian",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 6,
+    "pushedAt": "2026-07-10T16:46:37Z",
+    "licenseInfo": null,
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "294c4c37e1383af9ec639e3c2ccf79b7b25abba2"
+      }
+    }
+  },
+  {
+    "requestedRepo": "woocommerce/google-listings-and-ads",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "woocommerce/google-listings-and-ads",
+    "url": "https://github.com/woocommerce/google-listings-and-ads",
+    "description": "Sync your store with Google to list products for free, run paid ads, and track performance straight from your store dashboard.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 64,
+    "pushedAt": "2026-11-12T16:39:25Z",
+    "licenseInfo": {
+      "spdxId": "GPL-3.0",
+      "name": "GNU General Public License v3.0"
+    },
+    "defaultBranchRef": {
+      "name": "develop",
+      "target": {
+        "oid": "c184926144c19243d48e71cc5a984d68d334e41c"
+      }
+    }
+  },
+  {
+    "requestedRepo": "Czarto/ShopifyScripts",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "Czarto/ShopifyScripts",
+    "url": "https://github.com/Czarto/ShopifyScripts",
+    "description": "Various Shopify scripts to generate XML product feeds, remarketing tracking for Google Ads, and others.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 136,
+    "pushedAt": "2024-05-24T19:19:03Z",
+    "licenseInfo": {
+      "spdxId": "MIT",
+      "name": "MIT License"
+    },
+    "defaultBranchRef": {
+      "name": "master",
+      "target": {
+        "oid": "ad65693f90cd60c9782abd2b37883a2a20704f94"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/shopping-report-builder",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/shopping-report-builder",
+    "url": "https://github.com/google-marketing-solutions/shopping-report-builder",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 5,
+    "pushedAt": "2026-06-24T10:59:06Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "9cb5e3a4aac7550fecbe6a199f64e78d5945dc96"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/image-upscaler",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/image-upscaler",
+    "url": "https://github.com/google-marketing-solutions/image-upscaler",
+    "description": "Upscale GMC Images at scale",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 3,
+    "pushedAt": "2026-11-09T21:08:07Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "22e994fb7dc2859410dd1e0048f6e6c671c76ef7"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/madpmax",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/madpmax",
+    "url": "https://github.com/google-marketing-solutions/madpmax",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 22,
+    "pushedAt": "2026-11-12T11:58:46Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "b4ff39d4d0b074adb06b3d9be391a06e8cad9ca1"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/pmax-themer",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/pmax-themer",
+    "url": "https://github.com/google-marketing-solutions/pmax-themer",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 8,
+    "pushedAt": "2026-02-18T09:13:36Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "a2f64695a3a21f28b3190e42e87f8ea3a2df0278"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/app-reporting-pack",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/app-reporting-pack",
+    "url": "https://github.com/google-marketing-solutions/app-reporting-pack",
+    "description": "Comprehensive reporting for Google Ads App campaigns",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 32,
+    "pushedAt": "2026-07-22T06:41:28Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "53bac6303770e27cdfb7b152acc5c4d31dab3afb"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/asset_coverage_dashboard",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/asset_coverage_dashboard",
+    "url": "https://github.com/google-marketing-solutions/asset_coverage_dashboard",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 1,
+    "pushedAt": "2026-06-24T09:36:06Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "32e154bf0c542f4f3ab37ff9a094962d8514f147"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/copycat",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/copycat",
+    "url": "https://github.com/google-marketing-solutions/copycat",
+    "description": "Generate Google Search Ads that match your brand style.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 88,
+    "pushedAt": "2026-09-24T08:37:24Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "6c5da12374affcc7ac157f4d55cf1ebba455902a"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/copycat_on_sheets",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/copycat_on_sheets",
+    "url": "https://github.com/google-marketing-solutions/copycat_on_sheets",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 9,
+    "pushedAt": "2026-06-05T22:48:31Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "b948bc6373c03f45e9f46d71fbcaf5fe44d2daed"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/rsa-ai-generator",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/rsa-ai-generator",
+    "url": "https://github.com/google-marketing-solutions/rsa-ai-generator",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 10,
+    "pushedAt": "2026-05-22T19:14:46Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "93be4cfa32bd2e2a6d06a10878f6e9518a59031f"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/adios",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/adios",
+    "url": "https://github.com/google-marketing-solutions/adios",
+    "description": "🚀 Adios: One-stop solution for Google Ads image assets management",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 72,
+    "pushedAt": "2026-10-07T10:31:41Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "e3a795fa0555186ad35f36ee0806314ec22fc233"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/vigenair",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/vigenair",
+    "url": "https://github.com/google-marketing-solutions/vigenair",
+    "description": "Recrafting Video Ads with Generative AI",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 243,
+    "pushedAt": "2026-10-15T20:35:40Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "31096ced99c25072b120e8a93869f5f9491122f0"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/ariel",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/ariel",
+    "url": "https://github.com/google-marketing-solutions/ariel",
+    "description": "A cutting-edge AI dubbing solution designed to enhance the global reach of digital advertising.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 67,
+    "pushedAt": "2026-11-06T14:26:23Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "7af991f8b99eda95014f9fa4eef4c84f774b968a"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/scene-machine",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/scene-machine",
+    "url": "https://github.com/google-marketing-solutions/scene-machine",
+    "description": "Turn ideas into ad videos",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 45,
+    "pushedAt": "2026-11-12T02:53:20Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "6b59520989beebb964f1fb40cb56e65b1073094e"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/campaign_utm_custom_parameter",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/campaign_utm_custom_parameter",
+    "url": "https://github.com/google-marketing-solutions/campaign_utm_custom_parameter",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 12,
+    "pushedAt": "2026-02-20T22:26:29Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "465988be5fec3342592713ea5fbad90f8ffff7a2"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/ga-mp-uploader",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/ga-mp-uploader",
+    "url": "https://github.com/google-marketing-solutions/ga-mp-uploader",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 6,
+    "pushedAt": "2026-05-23T00:08:11Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "67a33e3f3f4a87386a4a8c8acf24d2e823197b7e"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/crmint",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/crmint",
+    "url": "https://github.com/google-marketing-solutions/crmint",
+    "description": "Reliable data integration & processing for advertisers",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 215,
+    "pushedAt": "2026-06-21T16:57:05Z",
+    "licenseInfo": {
+      "spdxId": "NOASSERTION",
+      "name": "Other"
+    },
+    "defaultBranchRef": {
+      "name": "master",
+      "target": {
+        "oid": "820998a6a35ba13150c2b75cc4f12713034b63f3"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/crystalvalue",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/crystalvalue",
+    "url": "https://github.com/google-marketing-solutions/crystalvalue",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 119,
+    "pushedAt": "2026-06-16T20:00:04Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "469fe17e9441749e35977bcedde31183e4151215"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/remarque",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/remarque",
+    "url": "https://github.com/google-marketing-solutions/remarque",
+    "description": "Discovering audiences for remarketing",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 26,
+    "pushedAt": "2026-07-16T12:26:45Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "7c6ea298db3f9f08ab7fa59834c3cef3e218774c"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google/meridian",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google/meridian",
+    "url": "https://github.com/google/meridian",
+    "description": "Meridian is an MMM framework that enables advertisers to set up and run their own in-house models.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 1603,
+    "pushedAt": "2026-11-12T16:04:40Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "f4ca39d406e1a86bd13d65fdf14166268044fd2d"
+      }
+    }
+  },
+  {
+    "requestedRepo": "facebookexperimental/Robyn",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "facebookexperimental/Robyn",
+    "url": "https://github.com/facebookexperimental/Robyn",
+    "description": "Robyn is an experimental, AI/ML-powered and open sourced Marketing Mix Modeling (MMM) package from Meta Marketing Science. Our mission is to democratise modeling knowledge, inspire the industry through innovation, reduce human bias in the modeling process & build a strong open source marketing science community.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 1536,
+    "pushedAt": "2026-11-10T23:13:48Z",
+    "licenseInfo": {
+      "spdxId": "MIT",
+      "name": "MIT License"
+    },
+    "defaultBranchRef": {
+      "name": "accuracy/allocator_v2_fixes",
+      "target": {
+        "oid": "aab4226ed5e40196cdbd82ff7fbbff55e91e1f58"
+      }
+    }
+  },
+  {
+    "requestedRepo": "pymc-labs/pymc-marketing",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "pymc-labs/pymc-marketing",
+    "url": "https://github.com/pymc-labs/pymc-marketing",
+    "description": "Bayesian marketing toolbox in PyMC. Media Mix (MMM), customer lifetime value (CLV), buy-till-you-die (BTYD) models and more.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 1306,
+    "pushedAt": "2026-11-12T11:49:09Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "5528f69c89ceee8ab58400bf156f3a4cfe7521b2"
+      }
+    }
+  },
+  {
+    "requestedRepo": "facebookincubator/GeoLift",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "facebookincubator/GeoLift",
+    "url": "https://github.com/facebookincubator/GeoLift",
+    "description": "GeoLift is an end-to-end geo-experimental methodology based on Synthetic Control Methods used to measure the true incremental effect (Lift) of ad campaign.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 270,
+    "pushedAt": "2026-06-30T09:54:38Z",
+    "licenseInfo": {
+      "spdxId": "MIT",
+      "name": "MIT License"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "db34ea4299ff0e28515ebac502b78c076c93c905"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google/CausalImpact",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google/CausalImpact",
+    "url": "https://github.com/google/CausalImpact",
+    "description": "An R package for causal inference in time series",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 1865,
+    "pushedAt": "2026-03-31T04:46:51Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "master",
+      "target": {
+        "oid": "0f5bf8d97cfb13321926c68b7eaeec74bb692b61"
+      }
+    }
+  },
+  {
+    "requestedRepo": "py-why/EconML",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "py-why/EconML",
+    "url": "https://github.com/py-why/EconML",
+    "description": "ALICE (Automated Learning and Intelligence for Causation and Economics) is a Microsoft Research project aimed at applying Artificial Intelligence concepts to economic decision making. One of its  goals is to build a toolkit that combines state-of-the-art machine learning techniques with econometrics in order to bring automation to complex causal inference problems. To date, the ALICE Python SDK (econml) implements orthogonal machine learning algorithms such as the double machine learning work of Chernozhukov et al. This toolkit is designed to measure the causal effect of some treatment variable(s) t on an outcome variable y, controlling for a set of features x.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 4851,
+    "pushedAt": "2026-11-09T18:59:51Z",
+    "licenseInfo": {
+      "spdxId": "NOASSERTION",
+      "name": "Other"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "0b45f8343e08ebcdb93ae859643a0efe20c21e7d"
+      }
+    }
+  },
+  {
+    "requestedRepo": "py-why/dowhy",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "py-why/dowhy",
+    "url": "https://github.com/py-why/dowhy",
+    "description": "DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks. ",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 8400,
+    "pushedAt": "2026-11-11T21:26:20Z",
+    "licenseInfo": {
+      "spdxId": "MIT",
+      "name": "MIT License"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "b5ffe4d64a6af09437a56db77797c786dff44160"
+      }
+    }
+  },
+  {
+    "requestedRepo": "growthbook/growthbook",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "growthbook/growthbook",
+    "url": "https://github.com/growthbook/growthbook",
+    "description": "Open Source Feature Flags, Experimentation, and Product Analytics",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 8587,
+    "pushedAt": "2026-11-12T16:30:00Z",
+    "licenseInfo": {
+      "spdxId": "NOASSERTION",
+      "name": "Other"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "549d9958228c6e9a231ac29c4f313e2398459daf"
+      }
+    }
+  },
+  {
+    "requestedRepo": "PostHog/posthog",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "PostHog/posthog",
+    "url": "https://github.com/PostHog/posthog",
+    "description": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 40759,
+    "pushedAt": "2026-11-12T16:40:45Z",
+    "licenseInfo": {
+      "spdxId": "NOASSERTION",
+      "name": "Other"
+    },
+    "defaultBranchRef": {
+      "name": "master",
+      "target": {
+        "oid": "367fd81648aeb2dbc578070400c2786b7ac3fa2e"
+      }
+    }
+  },
+  {
+    "requestedRepo": "matomo-org/matomo",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "matomo-org/matomo",
+    "url": "https://github.com/matomo-org/matomo",
+    "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome! ",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 22028,
+    "pushedAt": "2026-11-12T16:20:49Z",
+    "licenseInfo": {
+      "spdxId": "GPL-3.0",
+      "name": "GNU General Public License v3.0"
+    },
+    "defaultBranchRef": {
+      "name": "6.x-dev",
+      "target": {
+        "oid": "c97f0e7dccfdcc33a04babf86ae96ee2254a1f72"
+      }
+    }
+  },
+  {
+    "requestedRepo": "plausible/analytics",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "plausible/analytics",
+    "url": "https://github.com/plausible/analytics",
+    "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 29830,
+    "pushedAt": "2026-11-12T16:18:23Z",
+    "licenseInfo": {
+      "spdxId": "AGPL-3.0",
+      "name": "GNU Affero General Public License v3.0"
+    },
+    "defaultBranchRef": {
+      "name": "master",
+      "target": {
+        "oid": "a39465fe3dcc59b1de5702b417e926d0b2473016"
+      }
+    }
+  },
+  {
+    "requestedRepo": "umami-software/umami",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "umami-software/umami",
+    "url": "https://github.com/umami-software/umami",
+    "description": "Umami is a privacy-first web and product analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place. No cookies, no surveillance, self-hosted or in the cloud.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 40088,
+    "pushedAt": "2026-11-12T05:57:35Z",
+    "licenseInfo": {
+      "spdxId": "MIT",
+      "name": "MIT License"
+    },
+    "defaultBranchRef": {
+      "name": "master",
+      "target": {
+        "oid": "d3c62a805beda8643cb468924dda38617fb4c286"
+      }
+    }
+  },
+  {
+    "requestedRepo": "GoogleChrome/lighthouse",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "GoogleChrome/lighthouse",
+    "url": "https://github.com/GoogleChrome/lighthouse",
+    "description": "Automated auditing, performance metrics, and best practices for the web.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 31051,
+    "pushedAt": "2026-11-12T01:35:46Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "3e506841ae751de3ca59c1f440d67744f3afea47"
+      }
+    }
+  },
+  {
+    "requestedRepo": "GoogleChrome/web-vitals",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "GoogleChrome/web-vitals",
+    "url": "https://github.com/GoogleChrome/web-vitals",
+    "description": "Essential metrics for a healthy site.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 8675,
+    "pushedAt": "2026-11-12T03:40:47Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "94b3b4bced9d63b4ff6bfb8290bf1f505daa00bb"
+      }
+    }
+  },
+  {
+    "requestedRepo": "GoogleChrome/lighthouse-ci",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "GoogleChrome/lighthouse-ci",
+    "url": "https://github.com/GoogleChrome/lighthouse-ci",
+    "description": "Automate running Lighthouse for every commit, viewing the changes, and preventing regressions",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 7140,
+    "pushedAt": "2026-11-12T08:05:06Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "a4de124970000108a6e8f6116cc3c8fe8744162e"
+      }
+    }
+  },
+  {
+    "requestedRepo": "google-marketing-solutions/cwv_from_ga4_exports",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "google-marketing-solutions/cwv_from_ga4_exports",
+    "url": "https://github.com/google-marketing-solutions/cwv_from_ga4_exports",
+    "description": "Simple solution to make reporting on CWVs from BQ simpler to set up.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 11,
+    "pushedAt": "2026-11-03T13:55:36Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "4a5edf0833063383fb44e769d051d5536d12401a"
+      }
+    }
+  },
+  {
+    "requestedRepo": "GoogleCloudPlatform/marketing-analytics-jumpstart",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "GoogleCloudPlatform/marketing-analytics-jumpstart",
+    "url": "https://github.com/GoogleCloudPlatform/marketing-analytics-jumpstart",
+    "description": "Marketing Analytics Jumpstart consists of an easy to deploy, custom end-to-end solution that enables Marketing Technology teams to analyze and enrich marketing data, and activate to Google Ads using smart bidding to achieve X-XX% in ROAS.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 200,
+    "pushedAt": "2026-01-05T20:04:51Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "465ef4f90193b57d5b1b6923dff192baae992b29"
+      }
+    }
+  },
+  {
+    "requestedRepo": "airbytehq/airbyte",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "airbytehq/airbyte",
+    "url": "https://github.com/airbytehq/airbyte",
+    "description": "Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 22369,
+    "pushedAt": "2026-11-12T16:37:59Z",
+    "licenseInfo": {
+      "spdxId": "NOASSERTION",
+      "name": "Other"
+    },
+    "defaultBranchRef": {
+      "name": "master",
+      "target": {
+        "oid": "9511ef0389eefeff3a5f88f1643a156af1b392d1"
+      }
+    }
+  },
+  {
+    "requestedRepo": "dlt-hub/dlt",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "dlt-hub/dlt",
+    "url": "https://github.com/dlt-hub/dlt",
+    "description": "data load tool (dlt) is an open source Python library that makes data loading easy 🛠️ ",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 6084,
+    "pushedAt": "2026-11-12T14:13:45Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "devel",
+      "target": {
+        "oid": "00f21fe45e10bc77fcad53809114407c2480c851"
+      }
+    }
+  },
+  {
+    "requestedRepo": "meltano/meltano",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "meltano/meltano",
+    "url": "https://github.com/meltano/meltano",
+    "description": "Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 2679,
+    "pushedAt": "2026-11-12T10:05:26Z",
+    "licenseInfo": {
+      "spdxId": "MIT",
+      "name": "MIT License"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "3913352432f32632e16807142111455d5f64cb89"
+      }
+    }
+  },
+  {
+    "requestedRepo": "dbt-labs/dbt",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "dbt-labs/dbt",
+    "url": "https://github.com/dbt-labs/dbt",
+    "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 14156,
+    "pushedAt": "2026-11-12T15:55:21Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "d8ba5561cb997738e6b24e14eb7fb63d7c9d8df6"
+      }
+    }
+  },
+  {
+    "requestedRepo": "metabase/metabase",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "metabase/metabase",
+    "url": "https://github.com/metabase/metabase",
+    "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 50301,
+    "pushedAt": "2026-11-12T16:40:32Z",
+    "licenseInfo": {
+      "spdxId": "NOASSERTION",
+      "name": "Other"
+    },
+    "defaultBranchRef": {
+      "name": "master",
+      "target": {
+        "oid": "29358709184bb9e1f1016f5f10c5ac4bb1f77ac7"
+      }
+    }
+  },
+  {
+    "requestedRepo": "apache/superset",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 75499,
+    "pushedAt": "2026-11-12T16:34:53Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "master",
+      "target": {
+        "oid": "d7fa8b650c7d46b6a2b83f06106e70b7ff3a7d63"
+      }
+    }
+  },
+  {
+    "requestedRepo": "googleads/google-ads-php",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "googleads/google-ads-php",
+    "url": "https://github.com/googleads/google-ads-php",
+    "description": "Google Ads API Client Library for PHP",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 359,
+    "pushedAt": "2026-11-11T20:16:13Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "4dec462b038c779a2433f0faaa1630551fbacc44"
+      }
+    }
+  },
+  {
+    "requestedRepo": "googleads/google-ads-java",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "googleads/google-ads-java",
+    "url": "https://github.com/googleads/google-ads-java",
+    "description": "Google Ads API Client Library for Java",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 211,
+    "pushedAt": "2026-11-12T14:38:37Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "5685083599bbfafe575cf713dba8522f96c99b2c"
+      }
+    }
+  },
+  {
+    "requestedRepo": "googleads/google-ads-dotnet",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "googleads/google-ads-dotnet",
+    "url": "https://github.com/googleads/google-ads-dotnet",
+    "description": "This project hosts the .NET client library for the Google Ads API.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 88,
+    "pushedAt": "2026-11-11T20:23:11Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "c608bf5ca1ae9096af83fb120d2210cd4d3eb478"
+      }
+    }
+  },
+  {
+    "requestedRepo": "googleads/google-ads-ruby",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "googleads/google-ads-ruby",
+    "url": "https://github.com/googleads/google-ads-ruby",
+    "description": "Google Ads API Ruby Client Library",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 83,
+    "pushedAt": "2026-11-11T20:31:23Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "335fe151b5310e60d7132fa18a9135c80355734d"
+      }
+    }
+  },
+  {
+    "requestedRepo": "AgriciDaniel/claude-seo",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "AgriciDaniel/claude-seo",
+    "url": "https://github.com/AgriciDaniel/claude-seo",
+    "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 28538,
+    "pushedAt": "2026-11-11T16:25:46Z",
+    "licenseInfo": {
+      "spdxId": "MIT",
+      "name": "MIT License"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "cca7e4a267991aca880efade1fd12e8498caf2ce"
+      }
+    }
+  },
+  {
+    "requestedRepo": "paulbradish/awesome-digital-marketing",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "paulbradish/awesome-digital-marketing",
+    "url": "https://github.com/paulbradish/awesome-digital-marketing",
+    "description": "😎 A curated list of awesome digital marketing guides, resources, services, & more.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 324,
+    "pushedAt": "2024-07-29T15:44:32Z",
+    "licenseInfo": {
+      "spdxId": "CC0-1.0",
+      "name": "Creative Commons Zero v1.0 Universal"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "cd168faa6bf1a8800c08d377c78e92f6795fdc0f"
+      }
+    }
+  },
+  {
+    "requestedRepo": "tractiongroup/awesome-marketing-tools",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "tractiongroup/awesome-marketing-tools",
+    "url": "https://github.com/tractiongroup/awesome-marketing-tools",
+    "description": ":rocket: :moneybag: A curated list of awesome things related to marketing tools",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 35,
+    "pushedAt": "2026-11-07T17:41:04Z",
+    "licenseInfo": {
+      "spdxId": "CC0-1.0",
+      "name": "Creative Commons Zero v1.0 Universal"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "493c0e3b49951a119881417420fa86d9dbb7b349"
+      }
+    }
+  },
+  {
+    "requestedRepo": "cenoura/awesome-ads",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "cenoura/awesome-ads",
+    "url": "https://github.com/cenoura/awesome-ads",
+    "description": "A curated list of awesome advertising content, resources and libraries.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 166,
+    "pushedAt": "2023-05-20T03:26:45Z",
+    "licenseInfo": {
+      "spdxId": "CC-BY-4.0",
+      "name": "Creative Commons Attribution 4.0 International"
+    },
+    "defaultBranchRef": {
+      "name": "master",
+      "target": {
+        "oid": "f2094aba922d09e784d98286bcc6a2469b33f401"
+      }
+    }
+  },
+  {
+    "requestedRepo": "hermoso-ai/awesome-ai-ads",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "hermoso-ai/awesome-ai-ads",
+    "url": "https://github.com/hermoso-ai/awesome-ai-ads",
+    "description": "A curated list of resources for researching, making and running ads with AI: ad libraries, official ads MCP servers, agent skills, creative specs and tools.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 0,
+    "pushedAt": "2026-11-05T21:12:26Z",
+    "licenseInfo": {
+      "spdxId": "CC0-1.0",
+      "name": "Creative Commons Zero v1.0 Universal"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "47fc8d0fac8dd1ae444df1929a3500947be1324e"
+      }
+    }
+  },
+  {
+    "requestedRepo": "TMHSDigital/Awesome-Ads",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "TMHSDigital/Awesome-Ads",
+    "url": "https://github.com/TMHSDigital/Awesome-Ads",
+    "description": "A practical advertising playbook for small businesses. Open guides for digital and traditional channels, planning, compliance, and templates.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 2,
+    "pushedAt": "2026-11-07T21:42:51Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "9d7543d00cb83106c85330298f59f67a485a89c0"
+      }
+    }
+  },
+  {
+    "requestedRepo": "shakostats/Awesome-Marketing-Science",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "shakostats/Awesome-Marketing-Science",
+    "url": "https://github.com/shakostats/Awesome-Marketing-Science",
+    "description": "A curated list of awesome marketing science resources including geo incrementality testing, media mix models, multi-touch attribution, causal inference, and more from shakostats.com . Star ⭐ the repo if it helps you, and feel free to contribute your own favorite resources",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 76,
+    "pushedAt": "2026-05-06T21:40:07Z",
+    "licenseInfo": {
+      "spdxId": "MIT",
+      "name": "MIT License"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "c7ad6765937128f7122011aef3503f7ee75ff35e"
+      }
+    }
+  },
+  {
+    "requestedRepo": "tuanone123/awesome-social-commerce-mcp",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "tuanone123/awesome-social-commerce-mcp",
+    "url": "https://github.com/tuanone123/awesome-social-commerce-mcp",
+    "description": "A curated list of Model Context Protocol (MCP) servers for social media, marketing, advertising and e-commerce.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 0,
+    "pushedAt": "2026-09-07T13:18:55Z",
+    "licenseInfo": {
+      "spdxId": "CC0-1.0",
+      "name": "Creative Commons Zero v1.0 Universal"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "711bbc56fa003b270526d097329a71d994099c33"
+      }
+    }
+  },
+  {
+    "requestedRepo": "LichAmnesia/awesome-ad-video-prompts",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "LichAmnesia/awesome-ad-video-prompts",
+    "url": "https://github.com/LichAmnesia/awesome-ad-video-prompts",
+    "description": "Curated, original high-craft prompts for AI video ads (Seedance 2.0 / Veo 3 / Kling / Runway). Companion to HeyDreaming.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 83,
+    "pushedAt": "2026-06-16T04:36:23Z",
+    "licenseInfo": {
+      "spdxId": "NOASSERTION",
+      "name": "Other"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "ac5b61177a81343e958f63212c4df7f25dc4c265"
+      }
+    }
+  },
+  {
+    "requestedRepo": "canermoral5-sys/awesome-ai-advertising",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "canermoral5-sys/awesome-ai-advertising",
+    "url": "https://github.com/canermoral5-sys/awesome-ai-advertising",
+    "description": "A curated list of tools, models, and resources for creating and optimizing ads with AI.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 3,
+    "pushedAt": "2026-07-16T13:34:53Z",
+    "licenseInfo": {
+      "spdxId": "CC0-1.0",
+      "name": "Creative Commons Zero v1.0 Universal"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "0fe5e6292bd5cd2bb133484e31fcce2abd0238a1"
+      }
+    }
+  },
+  {
+    "requestedRepo": "facebook/facebook-python-business-sdk",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "meta/facebook-python-business-sdk",
+    "url": "https://github.com/meta/facebook-python-business-sdk",
+    "description": "Python SDK for Meta Marketing APIs",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 1624,
+    "pushedAt": "2026-11-05T19:19:02Z",
+    "licenseInfo": {
+      "spdxId": "NOASSERTION",
+      "name": "Other"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "b08e5c1d36a2adad3c4ede6578654c8eaca5f225"
+      }
+    }
+  },
+  {
+    "requestedRepo": "facebook/facebook-nodejs-business-sdk",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "meta/facebook-nodejs-business-sdk",
+    "url": "https://github.com/meta/facebook-nodejs-business-sdk",
+    "description": "Node.js SDK for Meta Marketing APIs",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 626,
+    "pushedAt": "2026-11-04T05:28:23Z",
+    "licenseInfo": {
+      "spdxId": "NOASSERTION",
+      "name": "Other"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "246c937eb5c1272ed743db41a944900bee449be9"
+      }
+    }
+  },
+  {
+    "requestedRepo": "BingAds/BingAds-Python-SDK",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "BingAds/BingAds-Python-SDK",
+    "url": "https://github.com/BingAds/BingAds-Python-SDK",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 129,
+    "pushedAt": "2026-11-11T20:27:06Z",
+    "licenseInfo": {
+      "spdxId": "NOASSERTION",
+      "name": "Other"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "c465f551530a93601307de7ee196b6befe813d08"
+      }
+    }
+  },
+  {
+    "requestedRepo": "BingAds/BingAds-Java-SDK",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "BingAds/BingAds-Java-SDK",
+    "url": "https://github.com/BingAds/BingAds-Java-SDK",
+    "description": null,
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 51,
+    "pushedAt": "2026-11-11T19:40:05Z",
+    "licenseInfo": {
+      "spdxId": "NOASSERTION",
+      "name": "Other"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "53675b4f7d0c78ac03f7dd1652b03700d55887c3"
+      }
+    }
+  },
+  {
+    "requestedRepo": "tiktok/tiktok-business-api-sdk",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "tiktok/tiktok-business-api-sdk",
+    "url": "https://github.com/tiktok/tiktok-business-api-sdk",
+    "description": "An SDK built to facilitate application development to integrate with TikTok Business API.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 232,
+    "pushedAt": "2026-03-09T06:18:55Z",
+    "licenseInfo": {
+      "spdxId": "MIT",
+      "name": "MIT License"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "f809c396520df2d7b201a9ccc5378d822b728ed3"
+      }
+    }
+  },
+  {
+    "requestedRepo": "linkedin-developers/linkedin-api-python-client",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "linkedin-developers/linkedin-api-python-client",
+    "url": "https://github.com/linkedin-developers/linkedin-api-python-client",
+    "description": "Official Python client library for LinkedIn APIs",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 273,
+    "pushedAt": "2024-04-21T06:48:24Z",
+    "licenseInfo": {
+      "spdxId": "NOASSERTION",
+      "name": "Other"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "6331e52f5ea59b326447efa67a9bf925ed2d9ec7"
+      }
+    }
+  },
+  {
+    "requestedRepo": "pinterest/pinterest-python-sdk",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "pinterest/pinterest-python-sdk",
+    "url": "https://github.com/pinterest/pinterest-python-sdk",
+    "description": "An SDK that makes it quick and easy to build applications with Pinterest API.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 87,
+    "pushedAt": "2026-11-03T10:13:48Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "7daaa25e018e46ac960187655e8bed6680f6c8cf"
+      }
+    }
+  },
+  {
+    "requestedRepo": "pinterest/api-description",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "pinterest/api-description",
+    "url": "https://github.com/pinterest/api-description",
+    "description": "OpenAPI descriptions for Pinterest's REST API",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 29,
+    "pushedAt": "2026-06-05T19:08:34Z",
+    "licenseInfo": {
+      "spdxId": "MIT",
+      "name": "MIT License"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "51aca009f10a90283ccdf3956d509fc995ebac23"
+      }
+    }
+  },
+  {
+    "requestedRepo": "twitterdev/twitter-python-ads-sdk",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "xdevplatform/twitter-python-ads-sdk",
+    "url": "https://github.com/xdevplatform/twitter-python-ads-sdk",
+    "description": "A Twitter supported and maintained Ads API SDK for Python.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 203,
+    "pushedAt": "2022-05-27T22:48:53Z",
+    "licenseInfo": {
+      "spdxId": "MIT",
+      "name": "MIT License"
+    },
+    "defaultBranchRef": {
+      "name": "master",
+      "target": {
+        "oid": "a3dd5819341e77aa469d0b4b3399f0bcd028c80c"
+      }
+    }
+  },
+  {
+    "requestedRepo": "prebid/Prebid.js",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "prebid/Prebid.js",
+    "url": "https://github.com/prebid/Prebid.js",
+    "description": "Setup and manage header bidding advertising partners without writing code or confusing line items. Prebid.js is open source and free.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 1617,
+    "pushedAt": "2026-11-12T15:43:11Z",
+    "licenseInfo": {
+      "spdxId": "Apache-2.0",
+      "name": "Apache License 2.0"
+    },
+    "defaultBranchRef": {
+      "name": "master",
+      "target": {
+        "oid": "cfe677e2ddb557678e56d06b3d24f65aea7e8265"
+      }
+    }
+  },
+  {
+    "requestedRepo": "InteractiveAdvertisingBureau/openrtb2.x",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "InteractiveAdvertisingBureau/openrtb2.x",
+    "url": "https://github.com/InteractiveAdvertisingBureau/openrtb2.x",
+    "description": "OpenRTB 2.x specification, from 2.6 onward",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 186,
+    "pushedAt": "2026-10-29T18:47:49Z",
+    "licenseInfo": null,
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "1debba8001f40eb14597102dec3205afddf811d4"
+      }
+    }
+  },
+  {
+    "requestedRepo": "type-dot-com/type-google-meta-ads-skills",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "type-dot-com/type-google-meta-ads-skills",
+    "url": "https://github.com/type-dot-com/type-google-meta-ads-skills",
+    "description": "Google and Meta Ads skills to connect to a Type AI teammate",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 0,
+    "pushedAt": "2026-05-27T18:01:30Z",
+    "licenseInfo": {
+      "spdxId": "MIT",
+      "name": "MIT License"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "8644aa74229312535017cfc2b505a4ba1652f14d"
+      }
+    }
+  },
+  {
+    "requestedRepo": "demandsense-labs/linkedin-ads-skills",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "demandsense-labs/linkedin-ads-skills",
+    "url": "https://github.com/demandsense-labs/linkedin-ads-skills",
+    "description": "LinkedIn Ads skills for Claude Code and AI agents: reporting, account audits, creative, budget, targeting and ABM. Written and tested by LinkedIn Ads practitioners as part of The B2B AI Standard. Read-only.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 9,
+    "pushedAt": "2026-11-12T11:32:55Z",
+    "licenseInfo": {
+      "spdxId": "CC-BY-4.0",
+      "name": "Creative Commons Attribution 4.0 International"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "27f21d373c5a0477ff76f9835bca1aa1255d83ff"
+      }
+    }
+  },
+  {
+    "requestedRepo": "adkit/ads-skills",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "adkit/ads-skills",
+    "url": "https://github.com/adkit/ads-skills",
+    "description": "Claude skills to run ads: advertising & marketing strategy, campaign structure, targeting, creative, and budgets for Google Ads, Meta Ads, TikTok & more.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 39,
+    "pushedAt": "2026-08-03T02:43:25Z",
+    "licenseInfo": {
+      "spdxId": "NOASSERTION",
+      "name": "Other"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "9bb3f878a73e01c65a1fc105010985ba32b9afa7"
+      }
+    }
+  },
+  {
+    "requestedRepo": "adaptyteam/apple-ads-cli",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "adaptyteam/apple-ads-cli",
+    "url": "https://github.com/adaptyteam/apple-ads-cli",
+    "description": "Apple Ads agent skills, playbooks, and vertical guides powered by Adapty CLI.",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 1,
+    "pushedAt": "2026-11-12T16:13:28Z",
+    "licenseInfo": {
+      "spdxId": "MIT",
+      "name": "MIT License"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "240838b7149e550abbd982ac99271412fa4010ea"
+      }
+    }
+  },
+  {
+    "requestedRepo": "popjam-io/skills",
+    "checkedAt": "2026-11-12T16:42:24.334Z",
+    "nameWithOwner": "popjam-io/skills",
+    "url": "https://github.com/popjam-io/skills",
+    "description": "Free agent skills for marketing, ads & creatives by POPJAM.IO — npx skills add popjam-io/skills",
+    "isArchived": false,
+    "isFork": false,
+    "stargazerCount": 5,
+    "pushedAt": "2026-11-12T14:11:12Z",
+    "licenseInfo": {
+      "spdxId": "MIT",
+      "name": "MIT License"
+    },
+    "defaultBranchRef": {
+      "name": "main",
+      "target": {
+        "oid": "4d9c83264cf9403d47511d604142d474bb760c58"
+      }
+    }
+  }
+]
