@@ -8,7 +8,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 11339,
     "sha256": "a6f820026dfc991de7917d8906b9a52bbf1f55b7af663976903d8e5a722b234a",
-    "localFile": "vendor/google/skills/skills/ads/data-manager-api-audience-ingestion/SKILL.md"
+    "localFile": "docs/vendor/google/skills/skills/ads/data-manager-api-audience-ingestion/SKILL.md"
   },
   {
     "repo": "google/skills",
@@ -19,7 +19,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 39588,
     "sha256": "fe9cd5ae56ead163f8b36066c4f179632b9f6296068bbf439f6ff06ad95820bd",
-    "localFile": "vendor/google/skills/skills/ads/google-mobile-ads-android-migrate-to-next-gen/SKILL.md"
+    "localFile": "docs/vendor/google/skills/skills/ads/google-mobile-ads-android-migrate-to-next-gen/SKILL.md"
   },
   {
     "repo": "google/skills",
@@ -30,7 +30,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 1805,
     "sha256": "75dcfb5350c3feb1af57480f01518f4385d5c646593c194229888d37a7e45acb",
-    "localFile": "vendor/google/skills/skills/ads/google-mobile-ads-banner/SKILL.md"
+    "localFile": "docs/vendor/google/skills/skills/ads/google-mobile-ads-banner/SKILL.md"
   },
   {
     "repo": "google/skills",
@@ -41,7 +41,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 1063,
     "sha256": "f78293f37128fbabaf986ebcc1e2faa8bb8f341c7443af356ed2812035c536d4",
-    "localFile": "vendor/google/skills/skills/ads/google-mobile-ads-get-started/SKILL.md"
+    "localFile": "docs/vendor/google/skills/skills/ads/google-mobile-ads-get-started/SKILL.md"
   },
   {
     "repo": "google/skills",
@@ -52,7 +52,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 1120,
     "sha256": "35d1686cd69024b7cb132c7b30da5454aca80761cdc3ab7b7494f40e7ee9bbdc",
-    "localFile": "vendor/google/skills/skills/ads/google-mobile-ads-interstitial/SKILL.md"
+    "localFile": "docs/vendor/google/skills/skills/ads/google-mobile-ads-interstitial/SKILL.md"
   },
   {
     "repo": "google/skills",
@@ -63,7 +63,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 1134,
     "sha256": "11d6117b4545acba7dd0dcdf0bbe02dc86fc029032eefaa4c85971e77b0ea5f5",
-    "localFile": "vendor/google/skills/skills/ads/google-mobile-ads-rewarded/SKILL.md"
+    "localFile": "docs/vendor/google/skills/skills/ads/google-mobile-ads-rewarded/SKILL.md"
   },
   {
     "repo": "google/skills",
@@ -74,7 +74,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 2410,
     "sha256": "050a4431c19f91dbf5df01bd0dff2d5828867d9edfb2a64df79b2a15f4ce27ef",
-    "localFile": "vendor/google/skills/skills/ads/google-mobile-ads-validate/SKILL.md"
+    "localFile": "docs/vendor/google/skills/skills/ads/google-mobile-ads-validate/SKILL.md"
   },
   {
     "repo": "google/skills",
@@ -85,7 +85,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 1987,
     "sha256": "be916bf1758c7b0fd68c742831ccaa45d274bb7c1458e59f52ab2f0bba0e55d6",
-    "localFile": "vendor/google/skills/skills/ads/ima-dai-sdk/SKILL.md"
+    "localFile": "docs/vendor/google/skills/skills/ads/ima-dai-sdk/SKILL.md"
   },
   {
     "repo": "google/skills",
@@ -96,7 +96,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 2189,
     "sha256": "ff6523c5b4cab60367b48be183198a29e1e00862310045896f8d30ae037ef9af",
-    "localFile": "vendor/google/skills/skills/ads/ima-sdk-client-side/SKILL.md"
+    "localFile": "docs/vendor/google/skills/skills/ads/ima-sdk-client-side/SKILL.md"
   },
   {
     "repo": "google/skills",
@@ -107,7 +107,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 7736,
     "sha256": "e925587b9be8c40e449a3236de0f296719fda77c72b7b01dd8b336147a6ee33f",
-    "localFile": "vendor/google/skills/skills/analytics/google-analytics-admin-api-basics/SKILL.md"
+    "localFile": "docs/vendor/google/skills/skills/analytics/google-analytics-admin-api-basics/SKILL.md"
   },
   {
     "repo": "AgriciDaniel/claude-ads",
@@ -118,7 +118,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 19831,
     "sha256": "72fecd78dbe7610d943fc29fbf55c11f951d67f61a9bd53efa30ab6a72d99b40",
-    "localFile": "vendor/AgriciDaniel/claude-ads/ads/SKILL.md"
+    "localFile": "docs/vendor/AgriciDaniel/claude-ads/ads/SKILL.md"
   },
   {
     "repo": "AgriciDaniel/claude-ads",
@@ -129,7 +129,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 2257,
     "sha256": "e1890c0cb3938472a426bb9e50e1740457d094ab5257d591a4804f0a5980bfc5",
-    "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-amazon/SKILL.md"
+    "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-amazon/SKILL.md"
   },
   {
     "repo": "AgriciDaniel/claude-ads",
@@ -140,7 +140,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 2260,
     "sha256": "fbd3a496ccd0e1a58a0e84c741d328e6c5aad51e7b0f19dda4637bdc558f0393",
-    "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-apple/SKILL.md"
+    "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-apple/SKILL.md"
   },
   {
     "repo": "AgriciDaniel/claude-ads",
@@ -151,7 +151,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 1114,
     "sha256": "99d62bffb751501af4b1ed58d58fb605e8778e9e493515a86f809eb72800d805",
-    "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-dna/SKILL.md"
+    "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-dna/SKILL.md"
   },
   {
     "repo": "AgriciDaniel/claude-ads",
@@ -162,7 +162,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 1608,
     "sha256": "c7bf32613cd6a3f161115d9330785a005ebcb46939c711c261e6b05f9cd93849",
-    "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-generate/SKILL.md"
+    "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-generate/SKILL.md"
   },
   {
     "repo": "AgriciDaniel/claude-ads",
@@ -173,7 +173,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 2174,
     "sha256": "45cd90060dbd0470a6624d687bc4b4b661cef13b50045a3302bdc9f37679b1df",
-    "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-linkedin/SKILL.md"
+    "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-linkedin/SKILL.md"
   },
   {
     "repo": "AgriciDaniel/claude-ads",
@@ -184,7 +184,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 3831,
     "sha256": "1e06b50f7d0a16cfd76371b752d9ad0ede7c6b59a0da7da66f8b48425c015ecf",
-    "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-meta/SKILL.md"
+    "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-meta/SKILL.md"
   },
   {
     "repo": "AgriciDaniel/claude-ads",
@@ -195,7 +195,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 2913,
     "sha256": "ffa46fc0720d97cf55b447928ae6d61b5867965190f7812e6324707ba8d60798",
-    "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-microsoft/SKILL.md"
+    "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-microsoft/SKILL.md"
   },
   {
     "repo": "AgriciDaniel/claude-ads",
@@ -206,7 +206,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 1316,
     "sha256": "ac42a9c63510e3ba734b0e162736535b3f6143f98375606793752438f4bf9ef0",
-    "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-photoshoot/SKILL.md"
+    "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-photoshoot/SKILL.md"
   },
   {
     "repo": "AgriciDaniel/claude-ads",
@@ -217,7 +217,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 1859,
     "sha256": "ab8be1dc5a6d10cd9f5de71fd595fa705d1cf47a925f1acb83638f59a445a792",
-    "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-pinterest/SKILL.md"
+    "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-pinterest/SKILL.md"
   },
   {
     "repo": "AgriciDaniel/claude-ads",
@@ -228,7 +228,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 1828,
     "sha256": "5eaf0e578137c6daceb2fb8e2b2a8ba32d9591f669615e0edbf5c981e321a79e",
-    "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-reddit/SKILL.md"
+    "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-reddit/SKILL.md"
   },
   {
     "repo": "AgriciDaniel/claude-ads",
@@ -239,7 +239,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 1851,
     "sha256": "189aff1955477c6b173963ae2a3f711b7a73a1d7590a02a8db9d93216b44dfe7",
-    "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-snapchat/SKILL.md"
+    "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-snapchat/SKILL.md"
   },
   {
     "repo": "AgriciDaniel/claude-ads",
@@ -250,7 +250,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 2227,
     "sha256": "6f50b45e98deb81e6ab897ed6b64fef2b774a93b23d1e465692697b209918d75",
-    "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-tiktok/SKILL.md"
+    "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-tiktok/SKILL.md"
   },
   {
     "repo": "AgriciDaniel/claude-ads",
@@ -261,7 +261,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 1819,
     "sha256": "10b342e81a76cbc08184029b3795735b065a1d09c33a977a1a3bf3dc1ed31245",
-    "localFile": "vendor/AgriciDaniel/claude-ads/skills/ads-x/SKILL.md"
+    "localFile": "docs/vendor/AgriciDaniel/claude-ads/skills/ads-x/SKILL.md"
   },
   {
     "repo": "coreyhaines31/marketingskills",
@@ -272,7 +272,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 17390,
     "sha256": "b043f61ce62b1202352d69e19e8561a0b65faa6ded4750ffc037eb6bfbae0cb0",
-    "localFile": "vendor/coreyhaines31/marketingskills/skills/competitor-profiling/SKILL.md"
+    "localFile": "docs/vendor/coreyhaines31/marketingskills/skills/competitor-profiling/SKILL.md"
   },
   {
     "repo": "coreyhaines31/marketingskills",
@@ -283,7 +283,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 11993,
     "sha256": "527ae7ff801abc03b7dec7ab70132a1a70909988271f6deb3938b27d113484e1",
-    "localFile": "vendor/coreyhaines31/marketingskills/skills/marketing-council/SKILL.md"
+    "localFile": "docs/vendor/coreyhaines31/marketingskills/skills/marketing-council/SKILL.md"
   },
   {
     "repo": "coreyhaines31/marketingskills",
@@ -294,7 +294,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 5670,
     "sha256": "b64d0d8125d272cc87ac25f5df4f0ea3c5dd5a58c3496007cb1ce3924f14cc7d",
-    "localFile": "vendor/coreyhaines31/marketingskills/skills/marketing-ideas/SKILL.md"
+    "localFile": "docs/vendor/coreyhaines31/marketingskills/skills/marketing-ideas/SKILL.md"
   },
   {
     "repo": "coreyhaines31/marketingskills",
@@ -305,7 +305,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 9589,
     "sha256": "24053cb714b16849937a3f0f94299d3ce97f01ae06efc3d765ae2544f43cc0cb",
-    "localFile": "vendor/coreyhaines31/marketingskills/skills/marketing-loops/SKILL.md"
+    "localFile": "docs/vendor/coreyhaines31/marketingskills/skills/marketing-loops/SKILL.md"
   },
   {
     "repo": "coreyhaines31/marketingskills",
@@ -316,7 +316,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 24813,
     "sha256": "76d879a32f2dd24e0c6236125f15e2b1e29808b6424242affcf790bdd294c44f",
-    "localFile": "vendor/coreyhaines31/marketingskills/skills/marketing-plan/SKILL.md"
+    "localFile": "docs/vendor/coreyhaines31/marketingskills/skills/marketing-plan/SKILL.md"
   },
   {
     "repo": "coreyhaines31/marketingskills",
@@ -327,7 +327,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 21597,
     "sha256": "755efd52954ecbbddc6fd0fe07cfa4999b63544bf716f2b5587a50c6f26228c0",
-    "localFile": "vendor/coreyhaines31/marketingskills/skills/marketing-psychology/SKILL.md"
+    "localFile": "docs/vendor/coreyhaines31/marketingskills/skills/marketing-psychology/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -338,7 +338,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 13938,
     "sha256": "f9c9d99b39db3fb0952cb5ab92ce3deef4d4c92ed1d579036b9269e1eb67aba6",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/amazon-ads-agentic-and-mcp/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/amazon-ads-agentic-and-mcp/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -349,7 +349,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 15492,
     "sha256": "b3aeafa5572a2b32651ae5c9338934268c34cd14bc53442a1fb01c6a68317cad",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/amazon-dsp-account-structure/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/amazon-dsp-account-structure/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -360,7 +360,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 19462,
     "sha256": "f18cb6f2da24ac10b426dbc08438c19e88827fb84bda0f17974ed68c0b6a306d",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/amazon-dsp-api-and-automation/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/amazon-dsp-api-and-automation/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -371,7 +371,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 14174,
     "sha256": "736b48da61ddc78e1c02af4657f27b63e869a25546be051ca11222e4e5d331c6",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/amazon-dsp-audiences/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/amazon-dsp-audiences/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -382,7 +382,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 15802,
     "sha256": "ca074a6e3172be5c0734cb66aea667566fb2daf32b7141eb3eb55754b88aa091",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/amazon-dsp-bidding-and-optimization/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/amazon-dsp-bidding-and-optimization/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -393,7 +393,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 13759,
     "sha256": "7e3a25626825cc9eae7d9d029cdd0579ed40813ac483b48f4dbaae70047cf681",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/amazon-dsp-campaign-setup/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/amazon-dsp-campaign-setup/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -404,7 +404,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 14419,
     "sha256": "87ba78eff8702efaacc48bc278ab30b7a8b4fd9bd5b4e7aa67580cb4dbe96a42",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/amazon-dsp-creative-and-formats/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/amazon-dsp-creative-and-formats/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -415,7 +415,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 12101,
     "sha256": "78561dde5c2a868ce6e1d647a2d8df62c5ac2a7da2cc2876ecd746e0428bc3fa",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/amazon-dsp-inventory-and-supply/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/amazon-dsp-inventory-and-supply/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -426,7 +426,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 16681,
     "sha256": "9c9119d2fc9f2afd27f9b6678fc81e3612fc3b8a3ca85c9379da161222063302",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/amazon-dsp-measurement-and-reporting/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/amazon-dsp-measurement-and-reporting/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -437,7 +437,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 17137,
     "sha256": "a89d3413052a3b757923535b74eec869b7133929ed5667fcd027783c3514a44d",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/amazon-marketing-cloud/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/amazon-marketing-cloud/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -448,7 +448,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 17299,
     "sha256": "bb2a9d64045ac6f1267f393417bcc9f023fdd96a479d88f0039c4e505cafe9c8",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/approval-and-escalation-governance/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/approval-and-escalation-governance/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -459,7 +459,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 14791,
     "sha256": "824687728127449c7ec696d71da84f2639cda4430557511b133a6dd326825e69",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/bid-landscape-and-win-rate/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/bid-landscape-and-win-rate/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -470,7 +470,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 16328,
     "sha256": "41198bc542b68a7168ddeb54b5b8eb919e4fca6f9f50e4300b6fba70c7470433",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/brand-safety-and-suitability/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/brand-safety-and-suitability/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -481,7 +481,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 5559,
     "sha256": "62aa6ea650e3eadeb1233e747fe573c764284250f570a0ba371e4480362225f3",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/bulk-change-governance-and-rollback/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/bulk-change-governance-and-rollback/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -492,7 +492,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 14802,
     "sha256": "9e0f00d06938a48be3c9c7b0da13f96b44760242453217305fb54c47a4752f44",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/change-management-and-incident-response/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/change-management-and-incident-response/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -503,7 +503,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 10181,
     "sha256": "50b89d9dbc77bde028bba97a473fbacafbfc3cbe9191cf8a5f45f03a6faf0e8e",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/client-deliverable-templates/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/client-deliverable-templates/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -514,7 +514,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 15156,
     "sha256": "a68bd034ee1cacaefdafe0fb3dc7fc2eb29eb2857a2e9bd8a8c1518426a75d9f",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/cm360-data-transfer-and-attribution/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/cm360-data-transfer-and-attribution/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -525,7 +525,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 16850,
     "sha256": "ee1390cbc2392c3548e6aa6912be418574e44a50060e84ea2fb55a76dcc0ddd7",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/cm360-floodlight-and-conversions/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/cm360-floodlight-and-conversions/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -536,7 +536,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 19882,
     "sha256": "43a67ee3b85b4423c726050683df3982ac8170a5cf68c22c0c3e0ba8865051ea",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/cm360-reporting-and-trafficking-api/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/cm360-reporting-and-trafficking-api/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -547,7 +547,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 16931,
     "sha256": "3e31e95d2d30fbd835887ef65dae0209406415bc4ba3153c600213ec3e204a7b",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/cm360-trafficking-and-ad-tags/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/cm360-trafficking-and-ad-tags/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -558,7 +558,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 17674,
     "sha256": "a044ac8820f23c58892a07a1f9a95d864a5269fa0add67ce20c78cbeeb4ff189",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/cm360-verification-and-active-view/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/cm360-verification-and-active-view/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -569,7 +569,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 15516,
     "sha256": "57d628d5c2ef12d3758e6487fb6dad447fdaa1a1bf382c7980e494f89dc1e0ea",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/consent-signal-verification-and-decode/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/consent-signal-verification-and-decode/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -580,7 +580,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 5334,
     "sha256": "ce64619208d7104ff184ee27dc03f6c42c456cd1658e2fe21922a02a164c2375",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/creative-review-and-approval-queue/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/creative-review-and-approval-queue/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -591,7 +591,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 5802,
     "sha256": "a34d737db64b92cbb023a1f01e658d4f3c8547f70265c5785c768b09d442bd28",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/cross-platform-launch-qa/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/cross-platform-launch-qa/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -602,7 +602,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 5281,
     "sha256": "598ed7afccbf704fb87e5a7addbbaf7d4ed44bfa84eecc6742ae5997a78d09b8",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/cross-platform-taxonomy-governance/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/cross-platform-taxonomy-governance/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -613,7 +613,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 15292,
     "sha256": "f6d1038383abd92b1db9cbb3680556973e5742f97535c69014556c7a9e2cab85",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/ctv-measurement-currencies/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ctv-measurement-currencies/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -624,7 +624,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 15696,
     "sha256": "b925947e10378b389a2dc9a442a7bb1753530be465fb1b6bfa90c8a40416348b",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/ctv-supply-and-ad-pods/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ctv-supply-and-ad-pods/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -635,7 +635,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 16624,
     "sha256": "0420766e77b7999d96351b53706f4b723616c7f2a84525bd30df58a8d79edc51",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/curation-and-curated-marketplaces/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/curation-and-curated-marketplaces/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -646,7 +646,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 13277,
     "sha256": "9fa6b9dd68b95739c3bb95b673ae0ecb64fbfca2fa4c74f3422aa9f512f64237",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/curation-and-supply-path-optimization/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/curation-and-supply-path-optimization/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -657,7 +657,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 21068,
     "sha256": "00b2106400f61d78885e01c2313fbac79fee6cc6b4634ffbd204521aaedb6319",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/data-quality-and-reconciliation/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/data-quality-and-reconciliation/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -668,7 +668,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 18762,
     "sha256": "e57d96aba9789d3426802f13bdd912daf5bd5b091b0287b58c8c979c11e6169d",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/data-subject-rights-and-subprocessor-governance/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/data-subject-rights-and-subprocessor-governance/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -679,7 +679,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 11030,
     "sha256": "1d1f2e702b69079e330f836ccb3583d264e035cc83ad8aef6e7335400b433350",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/direct-response-creative-testing/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/direct-response-creative-testing/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -690,7 +690,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 14241,
     "sha256": "9f3229ab83ff7b8a5755a22884906b36484171c10f0ab67d17802d2c2b35c8b0",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/discrepancy-and-reconciliation/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/discrepancy-and-reconciliation/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -701,7 +701,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 21015,
     "sha256": "163e5c8a973590038f84117a5d01f065e9edb65fd51ea64bdc0445e45f3d5971",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/dsp-selection/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dsp-selection/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -712,7 +712,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 12761,
     "sha256": "d5efcfc8637ed20b67ec76c77dbcdb9a27f91e16eb8adcfdac75cb47f2504412",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-account-setup-and-taxonomy/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-account-setup-and-taxonomy/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -723,7 +723,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 15056,
     "sha256": "2e8239e260cd291647f85f5396cc14f22462c890162e32702ec4c3f00e2d0ddc",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-advanced-analytics-adh/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-advanced-analytics-adh/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -734,7 +734,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 15220,
     "sha256": "f1463ea92ca4bdaad5a4038aff7ce7d5514e35bc28bb8f81e98b2bcc5090d245",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-api-and-sdf-automation/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-api-and-sdf-automation/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -745,7 +745,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 10040,
     "sha256": "9dd2be4cecd08c321b316d585d52811895a9eefc8f1543ac86aed68fc31954fc",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-bid-strategy/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-bid-strategy/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -756,7 +756,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 11080,
     "sha256": "3d7f66e4608ac7965ec6a5ef778f943a4054b6f88f75f976cebd29f30eef7e1d",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-campaign-architecture/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-campaign-architecture/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -767,7 +767,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 19276,
     "sha256": "f7de2bbb604dde26c17b72909c0d81d7c097a0f29d8b5bbd9700873e38ba854d",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-creative-trafficking/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-creative-trafficking/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -778,7 +778,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 13415,
     "sha256": "e26193e798da51d97dd48ff7de36b93174be63d30448157311c94e3c8f52409d",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-custom-bidding/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-custom-bidding/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -789,7 +789,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 14635,
     "sha256": "c1be3d388235dff85772dcb03c8e58c646ceea98a0dc707eee8c3ba8e29a7fc9",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-deals-and-inventory/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-deals-and-inventory/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -800,7 +800,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 13021,
     "sha256": "686ddcba3a9e946d0ede553eaf01c182f010b8cbb7679fda293db64dbd456311",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-frequency-and-brand-safety/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-frequency-and-brand-safety/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -811,7 +811,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 8798,
     "sha256": "e098927cb522de62c55b8f594552606c279ec67af311fae8b0f5e10b0a6b732b",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-launch-qa/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-launch-qa/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -822,7 +822,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 12789,
     "sha256": "969ca0ef7bf4aac3c36dae4b9311c1a853650e02b656356645c5ba2231e7d5b8",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-measurement-and-attribution/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-measurement-and-attribution/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -833,7 +833,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 12106,
     "sha256": "c0aeeace2b9199e9016dea110c3c7fa62fdf4e808f4d19b4d9e3c4c0de9ab058",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-pacing-and-optimization/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-pacing-and-optimization/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -844,7 +844,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 12206,
     "sha256": "4da84f2a67c7e9e347dd231a2e31a4653aa784886bbadfa0771d70d0c9caf677",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-reporting/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-reporting/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -855,7 +855,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 14367,
     "sha256": "665eea5c2ca2f5df722928df4e9b36e2bd8ab2e108a0e44ce8a42792f40fbc9f",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-targeting-and-audiences/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-targeting-and-audiences/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -866,7 +866,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 11749,
     "sha256": "d95c5f1018ef9aeb5a671053b6d05c9aef09b3c4caace256ebec58b115dacf15",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-troubleshooting/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-troubleshooting/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -877,7 +877,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 9414,
     "sha256": "1a07235217338a2a45612981326cb9f03b2f21b3ebaa871eaa33713813b2f67d",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-video-creative-specs/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-video-creative-specs/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -888,7 +888,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 17401,
     "sha256": "0051ce67043d831cce7899daba18f77b5dec4072d50c132d3f0f06569944ac4b",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/dv360-youtube-and-video/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/dv360-youtube-and-video/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -899,7 +899,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 13984,
     "sha256": "4b268eb57a86b4ff463b5da8973e5a24d73dd95782efe026d3f4341ae9e348d5",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/ga4-explorations-and-reporting/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ga4-explorations-and-reporting/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -910,7 +910,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 17016,
     "sha256": "9597141b272774d3863b3a4ffc47e6d894943c286e8d92479e9db49ab905275b",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/ga4-property-and-data-stream-setup/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ga4-property-and-data-stream-setup/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -921,7 +921,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 16299,
     "sha256": "25d54c79e5b705b477c2747774f9bed9eccf659fa8e9a428f1e9abfb0e6f3aac",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/gmp-integration-floodlight-ga4-linking/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/gmp-integration-floodlight-ga4-linking/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -932,7 +932,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 16791,
     "sha256": "5795e74f0bfebff4a2910df5f080b16be0dae323ae630fc8266ce2a00ffb056c",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/google-ads-account-structure/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/google-ads-account-structure/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -943,7 +943,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 15179,
     "sha256": "1fcf25f35f54a89df6864013729ef2ac70f81ef15dda42fc200b05e3319a963c",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/google-ads-bidding/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/google-ads-bidding/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -954,7 +954,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 14357,
     "sha256": "67dc03dc26630a9f5b7bf81b54043695ea64819a114ea446bb45dcce333ebccb",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/google-ads-budgets-and-pacing/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/google-ads-budgets-and-pacing/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -965,7 +965,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 14526,
     "sha256": "5b900df4bb8f968ee7f45d29f826c6018be937fc44f2f14781f30157d256d783",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/google-ads-campaign-types/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/google-ads-campaign-types/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -976,7 +976,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 18338,
     "sha256": "9b969f49749358d169b04ab3437160116307d22aad8526abef79ca43fa34f92a",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/google-ads-conversion-tracking-and-attribution/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/google-ads-conversion-tracking-and-attribution/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -987,7 +987,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 12656,
     "sha256": "0d71cccd03c4edbb22da77b777ad8f591f1971f0866a5279171748d45c4a4f46",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/google-ads-keywords-and-match-types/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/google-ads-keywords-and-match-types/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -998,7 +998,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 15879,
     "sha256": "a6b97c754b0f3ed92b57439e9f3c9cec2d0b0a9401347a40a8ae03795b89e175",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/google-ads-optimization-and-troubleshooting/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/google-ads-optimization-and-troubleshooting/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1009,7 +1009,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 19256,
     "sha256": "315e8252b1225454b8509fe672ae575f04e7db81883c65dd3378ffcd5dfe0512",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/google-ads-performance-max/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/google-ads-performance-max/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1020,7 +1020,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 15924,
     "sha256": "1dce75758a19117f2ee03362927f3e4edc04ce8ef22364801abac9ed5e57b14e",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/gtm-consent-mode-v2/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/gtm-consent-mode-v2/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1031,7 +1031,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 17602,
     "sha256": "0cc58fe09abad057118255b3911040b1e29b6b25158476b92ddcd8d3c254ce78",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/gtm-qa-versioning-and-api/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/gtm-qa-versioning-and-api/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1042,7 +1042,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 14240,
     "sha256": "35cb9c2e04bbc424eb45ca1eccfc976c83fb424177cf24668626916d21115a74",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/gtm-server-side-tagging/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/gtm-server-side-tagging/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1053,7 +1053,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 14665,
     "sha256": "e23ad320a8618c0b2e13d410b136748e9f99ff805d0d4ccdf4868424f3f72605",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/gtm-tags-triggers-variables/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/gtm-tags-triggers-variables/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1064,7 +1064,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 13489,
     "sha256": "1b0f17f11dec961ea85e0c77aee59e828d03a42dc77286f10fed2362a4bc4e06",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/gtm-web-container-and-datalayer/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/gtm-web-container-and-datalayer/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1075,7 +1075,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 18371,
     "sha256": "1c473145887130311e858fe713fff96c397b7a024dbeb29cea801428693b2a2c",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/marketing-analytics-warehouse-and-dashboards/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/marketing-analytics-warehouse-and-dashboards/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1086,7 +1086,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 15027,
     "sha256": "98bc7ea7fbe3862285ad9a0374f67df7bbc985a5acccd28607df775149e49bff",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/meta-advantage-plus-campaigns/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/meta-advantage-plus-campaigns/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1097,7 +1097,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 9190,
     "sha256": "4c8030680cd246de6ec372bec706427adafc07b2ef3f21fd588a0cda30f9f4b5",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/meta-campaign-setup-and-optimization/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/meta-campaign-setup-and-optimization/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1108,7 +1108,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 14800,
     "sha256": "780828b0c0ed74f239f59c7a5d13945aa1840770822f117b51cfbd307228eee2",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/meta-conversions-api-and-datasets/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/meta-conversions-api-and-datasets/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1119,7 +1119,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 8965,
     "sha256": "f83652676dd130619a0c639d7da6015baf699fb9c3029163ec0dcd50f3ffcfe8",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/microsoft-campaign-setup-and-optimization/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/microsoft-campaign-setup-and-optimization/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1130,7 +1130,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 19104,
     "sha256": "464d51d022c6f3ecc559a6f075df8787b161bf1924e33fc39b2446064dbdce04",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/microsoft-performance-max-and-shopping/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/microsoft-performance-max-and-shopping/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1141,7 +1141,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 15445,
     "sha256": "3911746cbb99b2d73e7c051dff51abfc1e41b0a8ee66a812a36ecd565987d08d",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/microsoft-uet-and-conversions-api/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/microsoft-uet-and-conversions-api/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1152,7 +1152,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 5944,
     "sha256": "5814282e422877f3aa129d7ed26ba62467d46cd034464992ead2eb3a7f725686",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/ops-ticket-intake-and-triage/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ops-ticket-intake-and-triage/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1163,7 +1163,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 14937,
     "sha256": "44e8064040a9843833958fd60838b3e1805d54671a2a53414573660b19fc71a2",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/partner-and-advertiser-onboarding/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/partner-and-advertiser-onboarding/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1174,7 +1174,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 16023,
     "sha256": "4be9a8a41723b7b99cb15a91b91179041d4c1354529fd63184deb96a3ae38e95",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/pipeline-orchestration-and-data-quality/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/pipeline-orchestration-and-data-quality/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1185,7 +1185,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 4839,
     "sha256": "6541cc7a405d2dc1dd251bb41b4ed103e6c4172bd6118f77f9b5e2946a8458e1",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/platform-access-and-permissions-governance/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/platform-access-and-permissions-governance/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1196,7 +1196,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 5871,
     "sha256": "141b2466f56f88e2c8eeb5d0c42faff81af66c884f883a7d001cee51e07567f8",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/platform-support-escalation/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/platform-support-escalation/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1207,7 +1207,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 17486,
     "sha256": "512685f6dbfcf75589e8e3c704d7d6d16bc234adcea647f4f0b3f18069fef664",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/privacy-and-consent/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/privacy-and-consent/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1218,7 +1218,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 15118,
     "sha256": "4e0d1e7087e8b44e1237b2baaaa3e6f9e7a033b1a6e92dfe79e0bcf0ef862473",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/privacy-sandbox-and-signal-loss-2026/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/privacy-sandbox-and-signal-loss-2026/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1229,7 +1229,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 13133,
     "sha256": "dbea0bc9db02d39c061c476f51804e8d6d061b6ebb109911e4f6a912539840c5",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/programmatic-foundations/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/programmatic-foundations/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1240,7 +1240,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 5355,
     "sha256": "897de5d29373224041f29547c13c85f03dd5210ba9151c65b4f9a8c0f637af71",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/programmatic-month-end-close/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/programmatic-month-end-close/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1251,7 +1251,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 6433,
     "sha256": "bc857572617c42031fabd05d6aced2d49f42c662e51d08003d700a07b039c760",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/programmatic-ops-control-center/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/programmatic-ops-control-center/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1262,7 +1262,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 19348,
     "sha256": "8da4fa52f64f56dfadac412432fadac4f9e8789f878c4458cc87465caf9cc205",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/reach-and-frequency-planning/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/reach-and-frequency-planning/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1273,7 +1273,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 19697,
     "sha256": "db7605bae65ab646bd0825690673e147c770acc88e3d0026685aacd36cef41b8",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/reporting-by-campaign-goal/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/reporting-by-campaign-goal/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1284,7 +1284,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 15931,
     "sha256": "2b25db5a49e6cc3ac7c07ed61fc91c8018dec8519611fb50d60308ffbe7b6855",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/retailmedia-foundations-and-networks/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/retailmedia-foundations-and-networks/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1295,7 +1295,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 15607,
     "sha256": "8339f12799774f5f374664bd921ad7b99e4f00639ff8e3d4f90b7d830249b149",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/retailmedia-onsite-sponsored-products/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/retailmedia-onsite-sponsored-products/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1306,7 +1306,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 12774,
     "sha256": "667c2446448b3d7ccb6e0464737dbf406f089d8ec23c1a3df3b4481e6d8d388a",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/sa360-account-structure-and-engines/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/sa360-account-structure-and-engines/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1317,7 +1317,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 14313,
     "sha256": "693344187860a4d6ee2357b173b0e9a1901c74140ab3487ae5dc90224ec82c13",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/sa360-bidding-and-budget-management/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/sa360-bidding-and-budget-management/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1328,7 +1328,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 16662,
     "sha256": "10f2dc465f50d96b5d751ec5296c68a89f66ebb449bf7c2cd85ae76afd4c9691",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/sa360-conversions-and-reporting-api/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/sa360-conversions-and-reporting-api/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1339,7 +1339,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 13298,
     "sha256": "d2e7e4363285172c35b2fedc03844e44c81d33fef2bb87392a8e5c03557e4202",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/stackadapt-account-structure/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/stackadapt-account-structure/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1350,7 +1350,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 13744,
     "sha256": "c3e4ed61967002453ae58a64d05251fb7c51ba0df97287e103bed756cde624a8",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/stackadapt-api-and-automation/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/stackadapt-api-and-automation/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1361,7 +1361,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 11865,
     "sha256": "b5cc463edf22142a29a5396bba82dcb67d191a29dc27ee4fa8125c6964a56a0d",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/stackadapt-bidding-and-budgets/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/stackadapt-bidding-and-budgets/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1372,7 +1372,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 13568,
     "sha256": "25eaa1442bbd971f7db0e08ce1dffad11951c854a42621718702fb032b2414a8",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/stackadapt-campaign-setup/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/stackadapt-campaign-setup/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1383,7 +1383,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 8652,
     "sha256": "fb966c0b31c9bc2470ae5b8ce25c78c55743a86ed1e09abd955fac553145cec7",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/stackadapt-creative-and-formats/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/stackadapt-creative-and-formats/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1394,7 +1394,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 13517,
     "sha256": "6ef29612a9d3eb30cb1bf6a85b6a7fb5a66ff4980595a39e4580446e2f666455",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/stackadapt-inventory-and-brand-safety/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/stackadapt-inventory-and-brand-safety/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1405,7 +1405,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 16203,
     "sha256": "deb45bec26f5ec4c8c94689943bc3f066b27deb4f0dbaab63253636feaf5fd09",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/stackadapt-optimization-and-troubleshooting/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/stackadapt-optimization-and-troubleshooting/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1416,7 +1416,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 12642,
     "sha256": "229c342ecdf9ea02d75992bc395943357a35f60184a61b40febf5158a23ed2e9",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/stackadapt-reporting-and-attribution/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/stackadapt-reporting-and-attribution/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1427,7 +1427,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 13884,
     "sha256": "f2e41f31cd76eeee20b8d6db3f346bf1326550a3328d3727dae2af512a6b178c",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/stackadapt-targeting-and-audiences/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/stackadapt-targeting-and-audiences/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1438,7 +1438,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 16968,
     "sha256": "8a9d40a882710a8f4ad0ff644e2d0f9db014d89bd11f78f0ba09861460ab022c",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/supply-chain-transparency-adstxt-sellersjson/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/supply-chain-transparency-adstxt-sellersjson/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1449,7 +1449,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 22730,
     "sha256": "68382bae7ce5893bbeee34b729c548d3be48f6b7f59276bcc32d315491171a2a",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/tag-and-pixel-governance/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/tag-and-pixel-governance/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1460,7 +1460,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 8703,
     "sha256": "2d353a89db886496e2687c06130f8f96cff58601fd861652138b4f1972eb8e38",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/tiktok-creative-and-catalog-optimization/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/tiktok-creative-and-catalog-optimization/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1471,7 +1471,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 14584,
     "sha256": "dab4cb1cbbf0d30277fb7cf54d7135eb34145dc2b73a192165a610493c7d6fdd",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/tiktok-events-api-server-side/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/tiktok-events-api-server-side/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1482,7 +1482,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 14517,
     "sha256": "6378af2c40198e1b2136c897e76a0b2f609ab1808e0e00329b3da1b4d9995e61",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/tiktok-smart-plus-and-campaigns/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/tiktok-smart-plus-and-campaigns/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1493,7 +1493,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 17534,
     "sha256": "7e205b9911ed01de9c53f178e600a3574193c7c0d1593438a031d6594fdbd211",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/trader-onboarding/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/trader-onboarding/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1504,7 +1504,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 14383,
     "sha256": "e3fc8da4e6fef8a216eade562d81713c891f0ca3670bdbcb869e196c7f51ddf0",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/ttd-api-and-automation/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ttd-api-and-automation/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1515,7 +1515,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 12547,
     "sha256": "140f5db154e5b9fcc17f19904860cca648d6d05fe4012a373aa65e24ccdc446d",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/ttd-bidding-and-optimization/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ttd-bidding-and-optimization/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1526,7 +1526,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 12830,
     "sha256": "5c4482598e3fe44c18b5d45bcbe7a0e6c93cf77d1dc3612046503377207066e1",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/ttd-campaign-structure/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ttd-campaign-structure/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1537,7 +1537,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 8519,
     "sha256": "24922dd0bb4b71e48bd6645d1aa59c589c79e6dc1a11fdb4a502718a2138e465",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/ttd-creative-and-formats/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ttd-creative-and-formats/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1548,7 +1548,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 17846,
     "sha256": "f873d959722aeacb6794aa1dc15d5aa15b7f8cd323f377ecce6e15b23e180255",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/ttd-ctv-and-video-buying/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ttd-ctv-and-video-buying/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1559,7 +1559,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 18215,
     "sha256": "94aadfc4b16b57bf7685569180153a740ace3d37bc2f64ad99d4c2a9660ed8d5",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/ttd-identity-and-uid2/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ttd-identity-and-uid2/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1570,7 +1570,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 15513,
     "sha256": "cd0988c47c1091c6f8f6c37820c7baafec02b0a718f78cafafab9c97a34e93f4",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/ttd-inventory-and-deals/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ttd-inventory-and-deals/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1581,7 +1581,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 15535,
     "sha256": "1bb861104efa4f2387970515de246694f65f03976d3b759284cc57501ac0e7b7",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/ttd-measurement-and-reporting/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ttd-measurement-and-reporting/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1592,7 +1592,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 19579,
     "sha256": "ba88e9e419d616420f0e4d454b08e0e7552b86de0a2e29c8605d40e437dade6e",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/ttd-platform-overview/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ttd-platform-overview/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1603,7 +1603,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 12263,
     "sha256": "3fd6abb98bb2165c3a04ac02cce4926b5a4e86be0c63ac2c51c977a6b3031f16",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/ttd-targeting-and-audiences/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/ttd-targeting-and-audiences/SKILL.md"
   },
   {
     "repo": "scumunna/programmatic-skills",
@@ -1614,7 +1614,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 18439,
     "sha256": "158b8f8d5461b9d7492b97f063c04131b65d100670c5c01200dde17dfa120e92",
-    "localFile": "vendor/scumunna/programmatic-skills/skills/value-based-bidding/SKILL.md"
+    "localFile": "docs/vendor/scumunna/programmatic-skills/skills/value-based-bidding/SKILL.md"
   },
   {
     "repo": "mardab96/landing-pages-claude-skills",
@@ -1625,7 +1625,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 7759,
     "sha256": "cb4e63b828d18b4d033a3203b007ed3b6d5e95ac454db06491fb217984334424",
-    "localFile": "vendor/mardab96/landing-pages-claude-skills/accessibility-conversion-blocker-check/SKILL.md"
+    "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/accessibility-conversion-blocker-check/SKILL.md"
   },
   {
     "repo": "mardab96/landing-pages-claude-skills",
@@ -1636,7 +1636,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 5609,
     "sha256": "8ae964b3ce95a972bd88b956dc8cc1746d8331e8e5a4391e52521ee36cc8bde9",
-    "localFile": "vendor/mardab96/landing-pages-claude-skills/comparison-page-positioning-review/SKILL.md"
+    "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/comparison-page-positioning-review/SKILL.md"
   },
   {
     "repo": "mardab96/landing-pages-claude-skills",
@@ -1647,7 +1647,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 5344,
     "sha256": "2fc89e49539769b4f3ff1368b82142b53337ae0e337f82b2bdcc09e51f2291c0",
-    "localFile": "vendor/mardab96/landing-pages-claude-skills/conversion-leak-finder/SKILL.md"
+    "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/conversion-leak-finder/SKILL.md"
   },
   {
     "repo": "mardab96/landing-pages-claude-skills",
@@ -1658,7 +1658,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 5519,
     "sha256": "a9afd1542fcccd28f67d41eb350eae0fab49cac11c8d8f7bc440e340f3d17e5a",
-    "localFile": "vendor/mardab96/landing-pages-claude-skills/cta-clarity-check/SKILL.md"
+    "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/cta-clarity-check/SKILL.md"
   },
   {
     "repo": "mardab96/landing-pages-claude-skills",
@@ -1669,7 +1669,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 4693,
     "sha256": "855f2de86febe410078a341480021242ac6a0a8610803a4e797820591359a354",
-    "localFile": "vendor/mardab96/landing-pages-claude-skills/hero-section-diagnosis/SKILL.md"
+    "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/hero-section-diagnosis/SKILL.md"
   },
   {
     "repo": "mardab96/landing-pages-claude-skills",
@@ -1680,7 +1680,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 6423,
     "sha256": "760bbe215f72a07692c40fd3aea538ea975fb79d36a95e6cdef728db0d5723a5",
-    "localFile": "vendor/mardab96/landing-pages-claude-skills/landing-page-copy-readability-pass/SKILL.md"
+    "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/landing-page-copy-readability-pass/SKILL.md"
   },
   {
     "repo": "mardab96/landing-pages-claude-skills",
@@ -1691,7 +1691,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 8796,
     "sha256": "673b460a209ca312a9c4a77c809a104bb392a3f9fd06027093ec6e169ffcdd30",
-    "localFile": "vendor/mardab96/landing-pages-claude-skills/landing-page-triage/SKILL.md"
+    "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/landing-page-triage/SKILL.md"
   },
   {
     "repo": "mardab96/landing-pages-claude-skills",
@@ -1702,7 +1702,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 6107,
     "sha256": "78b5cbcf45e59900d2ca2627afd63a65165b14929243996ea9afdb1376bf365d",
-    "localFile": "vendor/mardab96/landing-pages-claude-skills/objection-map-builder/SKILL.md"
+    "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/objection-map-builder/SKILL.md"
   },
   {
     "repo": "mardab96/landing-pages-claude-skills",
@@ -1713,7 +1713,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 6519,
     "sha256": "1d11750302ee63b498985d490af2557e1392d445696ec895ce9271c0bc9eb8b6",
-    "localFile": "vendor/mardab96/landing-pages-claude-skills/page-length-fit-check/SKILL.md"
+    "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/page-length-fit-check/SKILL.md"
   },
   {
     "repo": "mardab96/landing-pages-claude-skills",
@@ -1724,7 +1724,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 5894,
     "sha256": "a905102ac1dbd06dd4991128314b8cc7fe9d400d1230c6031718b0e3eebe147a",
-    "localFile": "vendor/mardab96/landing-pages-claude-skills/page-speed-impact-review/SKILL.md"
+    "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/page-speed-impact-review/SKILL.md"
   },
   {
     "repo": "mardab96/landing-pages-claude-skills",
@@ -1735,7 +1735,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 6629,
     "sha256": "49da27d2786abd8307d590238dc00d10f9b5dcaeec498ffb972debbcf2b882c7",
-    "localFile": "vendor/mardab96/landing-pages-claude-skills/popup-and-overlay-timing-review/SKILL.md"
+    "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/popup-and-overlay-timing-review/SKILL.md"
   },
   {
     "repo": "mardab96/landing-pages-claude-skills",
@@ -1746,7 +1746,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 6419,
     "sha256": "1f707d60a5dcc5120c51a6e916b370a1c29a557240c556367467513659b529ee",
-    "localFile": "vendor/mardab96/landing-pages-claude-skills/pricing-page-clarity-review/SKILL.md"
+    "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/pricing-page-clarity-review/SKILL.md"
   },
   {
     "repo": "mardab96/landing-pages-claude-skills",
@@ -1757,7 +1757,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 4992,
     "sha256": "9a3dcae4a3ba6f7e1996804ee8731e2027ab6aad3061732ee6e0faebeb0846f6",
-    "localFile": "vendor/mardab96/landing-pages-claude-skills/thank-you-page-opportunity-audit/SKILL.md"
+    "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/thank-you-page-opportunity-audit/SKILL.md"
   },
   {
     "repo": "mardab96/landing-pages-claude-skills",
@@ -1768,7 +1768,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 7535,
     "sha256": "e5b46c3ffce3cad2ae101d0a1e6d0a180ed512384e08c71aebc33d4424630d27",
-    "localFile": "vendor/mardab96/landing-pages-claude-skills/traffic-temperature-match-review/SKILL.md"
+    "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/traffic-temperature-match-review/SKILL.md"
   },
   {
     "repo": "mardab96/landing-pages-claude-skills",
@@ -1779,7 +1779,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 6299,
     "sha256": "752cfc333fdaf575150b9d213503a5f82344270981e6c6e1162bc39d6eb0990a",
-    "localFile": "vendor/mardab96/landing-pages-claude-skills/trial-vs-demo-path-decision/SKILL.md"
+    "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/trial-vs-demo-path-decision/SKILL.md"
   },
   {
     "repo": "mardab96/landing-pages-claude-skills",
@@ -1790,7 +1790,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 5071,
     "sha256": "6b5379f4608c47c75c8f78e44706630bf3b0af7240692f44a6ae1bbb5bcfc36f",
-    "localFile": "vendor/mardab96/landing-pages-claude-skills/trust-signal-audit/SKILL.md"
+    "localFile": "docs/vendor/mardab96/landing-pages-claude-skills/trust-signal-audit/SKILL.md"
   },
   {
     "repo": "TheMattBerman/google-ads-copilot",
@@ -1801,7 +1801,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 16342,
     "sha256": "900aa156e0a49a23bf267ecbef1c0478f49b0b652f2d6b8028f4213d86ae75d6",
-    "localFile": "vendor/TheMattBerman/google-ads-copilot/google-ads/SKILL.md"
+    "localFile": "docs/vendor/TheMattBerman/google-ads-copilot/google-ads/SKILL.md"
   },
   {
     "repo": "TheMattBerman/google-ads-copilot",
@@ -1812,7 +1812,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 11284,
     "sha256": "85a7f347291ddd492aa93819c99bddd57d0964a857c11cd1ff8cf00f62efbd91",
-    "localFile": "vendor/TheMattBerman/google-ads-copilot/skills/google-ads-apply/SKILL.md"
+    "localFile": "docs/vendor/TheMattBerman/google-ads-copilot/skills/google-ads-apply/SKILL.md"
   },
   {
     "repo": "TheMattBerman/google-ads-copilot",
@@ -1823,7 +1823,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 10987,
     "sha256": "1094ba7f54d57592fb46930d582163fc2f7f07d9ffc7373f945e7fb2895ceff4",
-    "localFile": "vendor/TheMattBerman/google-ads-copilot/skills/google-ads-audit/SKILL.md"
+    "localFile": "docs/vendor/TheMattBerman/google-ads-copilot/skills/google-ads-audit/SKILL.md"
   },
   {
     "repo": "TheMattBerman/google-ads-copilot",
@@ -1834,7 +1834,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 8822,
     "sha256": "4097641a78a94844d54017e206dce3ef9504a03d2631ba302e0df6e0402ca3f6",
-    "localFile": "vendor/TheMattBerman/google-ads-copilot/skills/google-ads-connect/SKILL.md"
+    "localFile": "docs/vendor/TheMattBerman/google-ads-copilot/skills/google-ads-connect/SKILL.md"
   },
   {
     "repo": "TheMattBerman/google-ads-copilot",
@@ -1845,7 +1845,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 4875,
     "sha256": "65053e521cee6f6ace21ccb030ef6b1d457af0d264b390d62c777882ad2206bf",
-    "localFile": "vendor/TheMattBerman/google-ads-copilot/skills/google-ads-daily/SKILL.md"
+    "localFile": "docs/vendor/TheMattBerman/google-ads-copilot/skills/google-ads-daily/SKILL.md"
   },
   {
     "repo": "TheMattBerman/google-ads-copilot",
@@ -1856,7 +1856,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 16339,
     "sha256": "6e4b8866f6d23200d4e9aeda07505bb5f100572153c6a6cf0a3e036e24264265",
-    "localFile": "vendor/TheMattBerman/google-ads-copilot/skills/google-ads-landing-review/SKILL.md"
+    "localFile": "docs/vendor/TheMattBerman/google-ads-copilot/skills/google-ads-landing-review/SKILL.md"
   },
   {
     "repo": "TheMattBerman/google-ads-copilot",
@@ -1867,7 +1867,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 3858,
     "sha256": "fa20b40c88f55ca19aa0816d0eced61881d1a2adfad31b404a0ef8b3e5c143f7",
-    "localFile": "vendor/TheMattBerman/google-ads-copilot/skills/google-ads-plan/SKILL.md"
+    "localFile": "docs/vendor/TheMattBerman/google-ads-copilot/skills/google-ads-plan/SKILL.md"
   },
   {
     "repo": "TheMattBerman/google-ads-copilot",
@@ -1878,7 +1878,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 7227,
     "sha256": "93b5cbf1efafd5ec3a86bc5332326992564c5fdda94fc3e07dd1091e0d5ce4ec",
-    "localFile": "vendor/TheMattBerman/google-ads-copilot/skills/google-ads-tracking/SKILL.md"
+    "localFile": "docs/vendor/TheMattBerman/google-ads-copilot/skills/google-ads-tracking/SKILL.md"
   },
   {
     "repo": "aaron-he-zhu/aaron-marketing-skills",
@@ -1889,7 +1889,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 9104,
     "sha256": "5d88c328f84739b220cd3afd500c27ab2c3e831ccc99870d6d0690bb5656a484",
-    "localFile": "vendor/aaron-he-zhu/aaron-marketing-skills/ad/activate/ad-account-auditor/SKILL.md"
+    "localFile": "docs/vendor/aaron-he-zhu/aaron-marketing-skills/ad/activate/ad-account-auditor/SKILL.md"
   },
   {
     "repo": "aaron-he-zhu/aaron-marketing-skills",
@@ -1900,7 +1900,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 9776,
     "sha256": "c4fea20f8984e9203ceddf397e2cd7070d2a64a215e48e694616908fec6d3615",
-    "localFile": "vendor/aaron-he-zhu/aaron-marketing-skills/ad/activate/conversion-signal-qa/SKILL.md"
+    "localFile": "docs/vendor/aaron-he-zhu/aaron-marketing-skills/ad/activate/conversion-signal-qa/SKILL.md"
   },
   {
     "repo": "aaron-he-zhu/aaron-marketing-skills",
@@ -1911,7 +1911,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 8911,
     "sha256": "1dbb3c3d7fa9cf2fd21e4d65d02ab562f94af6cba422b7790ad34c9ffcab5beb",
-    "localFile": "vendor/aaron-he-zhu/aaron-marketing-skills/ad/orchestrate/ad-creative-builder/SKILL.md"
+    "localFile": "docs/vendor/aaron-he-zhu/aaron-marketing-skills/ad/orchestrate/ad-creative-builder/SKILL.md"
   },
   {
     "repo": "aaron-he-zhu/aaron-marketing-skills",
@@ -1922,7 +1922,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 11176,
     "sha256": "89059a07dfc0bbf067f3fea0d3d35dee59dd455124f595448cb83c23e62573ab",
-    "localFile": "vendor/aaron-he-zhu/aaron-marketing-skills/ad/orchestrate/ad-test-designer/SKILL.md"
+    "localFile": "docs/vendor/aaron-he-zhu/aaron-marketing-skills/ad/orchestrate/ad-test-designer/SKILL.md"
   },
   {
     "repo": "aaron-he-zhu/aaron-marketing-skills",
@@ -1933,7 +1933,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 10403,
     "sha256": "a0af16eb0d6e192da14b980ff1dc80e1c22d3430175b139f981269ef2a55b7d4",
-    "localFile": "vendor/aaron-he-zhu/aaron-marketing-skills/ad/orchestrate/bid-strategy-planner/SKILL.md"
+    "localFile": "docs/vendor/aaron-he-zhu/aaron-marketing-skills/ad/orchestrate/bid-strategy-planner/SKILL.md"
   },
   {
     "repo": "aaron-he-zhu/aaron-marketing-skills",
@@ -1944,7 +1944,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 10280,
     "sha256": "46a1d782f89649a90cf88eda27011badf0d2097330eb426a133b5b9774fc6fc7",
-    "localFile": "vendor/aaron-he-zhu/aaron-marketing-skills/ad/orchestrate/landing-experience-checker/SKILL.md"
+    "localFile": "docs/vendor/aaron-he-zhu/aaron-marketing-skills/ad/orchestrate/landing-experience-checker/SKILL.md"
   },
   {
     "repo": "aaron-he-zhu/aaron-marketing-skills",
@@ -1955,7 +1955,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 9058,
     "sha256": "57f7899439cfa2790993a02e843d155fae508ef867402bc7ccca1dfad1fbdbe9",
-    "localFile": "vendor/aaron-he-zhu/aaron-marketing-skills/ad/research/audience-segment-builder/SKILL.md"
+    "localFile": "docs/vendor/aaron-he-zhu/aaron-marketing-skills/ad/research/audience-segment-builder/SKILL.md"
   },
   {
     "repo": "aaron-he-zhu/aaron-marketing-skills",
@@ -1966,7 +1966,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 9126,
     "sha256": "b8823b556caa2222f2c849984fd5463ca684950e6bedd856cc64064d7e42ed05",
-    "localFile": "vendor/aaron-he-zhu/aaron-marketing-skills/ad/research/campaign-architect/SKILL.md"
+    "localFile": "docs/vendor/aaron-he-zhu/aaron-marketing-skills/ad/research/campaign-architect/SKILL.md"
   },
   {
     "repo": "aaron-he-zhu/aaron-marketing-skills",
@@ -1977,7 +1977,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 8665,
     "sha256": "395d670374c69654b85c44ff3a8172c1a2da5cad93cbd8f0f6810b6a0cabe95b",
-    "localFile": "vendor/aaron-he-zhu/aaron-marketing-skills/ad/research/search-term-miner/SKILL.md"
+    "localFile": "docs/vendor/aaron-he-zhu/aaron-marketing-skills/ad/research/search-term-miner/SKILL.md"
   },
   {
     "repo": "aaron-he-zhu/aaron-marketing-skills",
@@ -1988,7 +1988,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 11944,
     "sha256": "eca7a8dc56a1ac8f7d5ddf72144babb6629402d982b7efd51791e43672e6ac96",
-    "localFile": "vendor/aaron-he-zhu/aaron-marketing-skills/ad/scale/attribution-reconciler/SKILL.md"
+    "localFile": "docs/vendor/aaron-he-zhu/aaron-marketing-skills/ad/scale/attribution-reconciler/SKILL.md"
   },
   {
     "repo": "type-dot-com/type-google-meta-ads-skills",
@@ -1999,7 +1999,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 2732,
     "sha256": "5e8af48b66d67d7e7fb0e5f8fdc8b31506415fb3934fd0bc14b5ba666e1acb2d",
-    "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/ad-copy-performance/SKILL.md"
+    "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/ad-copy-performance/SKILL.md"
   },
   {
     "repo": "type-dot-com/type-google-meta-ads-skills",
@@ -2010,7 +2010,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 3138,
     "sha256": "ddaa93985511efadb5b60961344905925383868c9453d695ecf8a16975d81e73",
-    "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/campaign-monitor/SKILL.md"
+    "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/campaign-monitor/SKILL.md"
   },
   {
     "repo": "type-dot-com/type-google-meta-ads-skills",
@@ -2021,7 +2021,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 3052,
     "sha256": "6d4c0ba19965ae803b8bacf2c62a6e1f3d18e0f217b020b9d04e94f2f60ae90d",
-    "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/competitive-intelligence/SKILL.md"
+    "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/competitive-intelligence/SKILL.md"
   },
   {
     "repo": "type-dot-com/type-google-meta-ads-skills",
@@ -2032,7 +2032,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 2949,
     "sha256": "6c281770bdc1a6586271e12fc0af6c521c5eaa73324b7e72762e694bfe93202d",
-    "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/geo-device-schedule/SKILL.md"
+    "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/geo-device-schedule/SKILL.md"
   },
   {
     "repo": "type-dot-com/type-google-meta-ads-skills",
@@ -2043,7 +2043,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 5776,
     "sha256": "21b0022579475ce6bdbc9a707a1f3f36d76eba65e4b0472c8f4203e61288cc23",
-    "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/google-ads-command-center/SKILL.md"
+    "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/google-ads-command-center/SKILL.md"
   },
   {
     "repo": "type-dot-com/type-google-meta-ads-skills",
@@ -2054,7 +2054,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 2913,
     "sha256": "126afb09d131d23436c79e9cd37b82acc0af380561623a1560c167cd9624f317",
-    "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/keyword-health/SKILL.md"
+    "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/keyword-health/SKILL.md"
   },
   {
     "repo": "type-dot-com/type-google-meta-ads-skills",
@@ -2065,7 +2065,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 3350,
     "sha256": "1b8c5d2491c8ae3bb5dda794c07bf24156ddb0139102530183693531b15bd184",
-    "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/meta-account-audit/SKILL.md"
+    "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/meta-account-audit/SKILL.md"
   },
   {
     "repo": "type-dot-com/type-google-meta-ads-skills",
@@ -2076,7 +2076,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 6002,
     "sha256": "a6380eb90853a746af8a7cc3a766a93314327d63bcb3d908755f5f0a271368f1",
-    "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/meta-ads-command-center/SKILL.md"
+    "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/meta-ads-command-center/SKILL.md"
   },
   {
     "repo": "type-dot-com/type-google-meta-ads-skills",
@@ -2087,7 +2087,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 3033,
     "sha256": "e60f85c97ee499561d38a660d06c7d1c52569117ae666460d6d4194e2744a5de",
-    "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/meta-audience-delivery/SKILL.md"
+    "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/meta-audience-delivery/SKILL.md"
   },
   {
     "repo": "type-dot-com/type-google-meta-ads-skills",
@@ -2098,7 +2098,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 3218,
     "sha256": "a0adf2ab517c09ccb9bd0b0023a7c410e02ea3425b424c521318fd3b5528efcf",
-    "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/meta-budget-scaling/SKILL.md"
+    "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/meta-budget-scaling/SKILL.md"
   },
   {
     "repo": "type-dot-com/type-google-meta-ads-skills",
@@ -2109,7 +2109,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 3181,
     "sha256": "b44d4d0bbf25ebab9bce8cfbba5132b7959717d7df5a647777377ac1302911b0",
-    "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/meta-creative-fatigue/SKILL.md"
+    "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/meta-creative-fatigue/SKILL.md"
   },
   {
     "repo": "type-dot-com/type-google-meta-ads-skills",
@@ -2120,7 +2120,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 3397,
     "sha256": "672c6394f67cc55213239dc51a83b76779bdc6abecf9544b71615a6ccac6a485",
-    "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/meta-performance-monitor/SKILL.md"
+    "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/meta-performance-monitor/SKILL.md"
   },
   {
     "repo": "type-dot-com/type-google-meta-ads-skills",
@@ -2131,7 +2131,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 3424,
     "sha256": "1a3cf66d0049bdd5b03faec4a3fc903548b5b9c477dd2dd283f012834dbd5f9e",
-    "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/meta-revenue-attribution/SKILL.md"
+    "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/meta-revenue-attribution/SKILL.md"
   },
   {
     "repo": "type-dot-com/type-google-meta-ads-skills",
@@ -2142,7 +2142,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 2960,
     "sha256": "bce595a66a642ff7ee6108292fe16f49b6f356001d06257d14b8bedd5ac96ac8",
-    "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/monthly-executive-summary/SKILL.md"
+    "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/monthly-executive-summary/SKILL.md"
   },
   {
     "repo": "type-dot-com/type-google-meta-ads-skills",
@@ -2153,7 +2153,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 2865,
     "sha256": "a605ca54c7f6b1fe80c724b5b42af2f3a3f1d1b34940506fe0af244cf06c00d2",
-    "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/pipeline-report/SKILL.md"
+    "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/pipeline-report/SKILL.md"
   },
   {
     "repo": "type-dot-com/type-google-meta-ads-skills",
@@ -2164,7 +2164,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 3044,
     "sha256": "3c6747002801aae1e01135cd2a0cda656ef2cd25e829cde17a0af0eaca0a6d6f",
-    "localFile": "vendor/type-dot-com/type-google-meta-ads-skills/skills/search-term-intelligence/SKILL.md"
+    "localFile": "docs/vendor/type-dot-com/type-google-meta-ads-skills/skills/search-term-intelligence/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2175,7 +2175,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 22992,
     "sha256": "737d9514f9edfd8ef8a75b31e4df9fa031aec5392ffa54f610bbbce797eb3b0d",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/account-audit-by-cadence/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/account-audit-by-cadence/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2186,7 +2186,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 11753,
     "sha256": "cf93472b2775040926985479404878d8f0e7bfe2ff353b81b26e0f51d84c3f32",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/account-engagement/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/account-engagement/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2197,7 +2197,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 8024,
     "sha256": "8ab94cd0d7e074ca862c773145651f03a2cfd344c17bb3475eebf57d6b738d6e",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/account-health-check/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/account-health-check/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2208,7 +2208,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 11795,
     "sha256": "7492f339f58f461b5aa676dc1709f62d027adfc5d69730c134dedb5c22d8b5af",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/ad-hoc-query/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/ad-hoc-query/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2219,7 +2219,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 18055,
     "sha256": "5d11c02a220d274ed518b203ae7479a15b451b05d938a2936e721ea4e32c5767",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/audience-fit-check/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/audience-fit-check/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2230,7 +2230,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 9950,
     "sha256": "1f568b1e4b8372954c357d89cd1da3226519b5890136fa88ee06edbffb027c8d",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/benchmark-comparison/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/benchmark-comparison/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2241,7 +2241,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 11134,
     "sha256": "d39da99804b3fb4d98ff4f0a921874230c96bb52a04d595b6c649a5c26a1d8fc",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/budget-re-allocation/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/budget-re-allocation/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2252,7 +2252,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 9325,
     "sha256": "8506658354d0abf44ed1c89ab0268144eba89c250ebdf59b667ea530b025fc1b",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/campaign-group-scoreboard/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/campaign-group-scoreboard/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2263,7 +2263,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 10691,
     "sha256": "4ef42a5f7d3a838ec538117ce3ec4bbc13c0a77b8bafc833c28aadbe220af333",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/capping-recommendation/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/capping-recommendation/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2274,7 +2274,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 18040,
     "sha256": "78e402812f2a2b6159f571f2ef6b6bdfec9cdd52b55643367e37aa24edc6ea2b",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/company-account-routing/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/company-account-routing/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2285,7 +2285,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 17269,
     "sha256": "4c2e6cb7757b29ee105eba32f4ec5cd8d3cd2644b72f1efb4d50a095af8ff8bf",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/conversion-ad-weekly-check/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/conversion-ad-weekly-check/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2296,7 +2296,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 17542,
     "sha256": "87c93296c7d5a390e286e98f8ce55fc25e1a80cec6d4e446cee909642ec0c52e",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/cost-per-retargetable-member/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/cost-per-retargetable-member/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2307,7 +2307,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 12439,
     "sha256": "3e7a382087f1f09eb74d19772278cd364214b66d29bcf51d68bcadcc190680ea",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/creative-decay-watchlist/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/creative-decay-watchlist/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2318,7 +2318,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 7565,
     "sha256": "e206ed0f1c9013bed90c4e8b9835ab9270087a1460536eefa87168f2860e57ef",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/crm-data-health-check/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/crm-data-health-check/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2329,7 +2329,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 14067,
     "sha256": "c686082f3a9329c85b8e967b3239751babab2d8b0d1560174be0667f767e3874",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/landing-page-cpc-report/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/landing-page-cpc-report/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2340,7 +2340,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 10845,
     "sha256": "016ae2147fd21118560e5e2f584e6885e6545b707b10926775829a48add9b6fc",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/linkedin-abm-account-penetration/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/linkedin-abm-account-penetration/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2351,7 +2351,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 13418,
     "sha256": "35e312f7775a3a6e4239b9649c9ed9dd1e5b72cc08ce00dda14ce121175d6ed4",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/linkedin-audience-demographics/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/linkedin-audience-demographics/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2362,7 +2362,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 10081,
     "sha256": "f8dbdc4f907d2d9797d38c2a73b0b9914d162ff053b7380c019cd5391512c7ed",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/linkedin-benchmark-context/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/linkedin-benchmark-context/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2373,7 +2373,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 29025,
     "sha256": "c5a8ce75cee04a1484c29982f2efac8d8906ce4e567c84c62de3245d3c5ac0be",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/linkedin-campaign-early-read/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/linkedin-campaign-early-read/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2384,7 +2384,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 20918,
     "sha256": "4ef053f537f0e3c130dc8b4a4d60aa14499f98eaa37226770372810f7285b11e",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/linkedin-creative-fatigue-report/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/linkedin-creative-fatigue-report/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2395,7 +2395,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 9994,
     "sha256": "b5fa69100a362ace99ba4e9cbe11ed8e5c468b647a080f40549bdc34cee035bc",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/linkedin-creative-performance/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/linkedin-creative-performance/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2406,7 +2406,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 10861,
     "sha256": "0084807f3a5a4db513bc1eeb257989dc92a3559d9df6be9a3e99e39b4d2d70c5",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/linkedin-performance-kpis/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/linkedin-performance-kpis/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2417,7 +2417,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 10472,
     "sha256": "cb7ba842721334d8dec7a3f38f920d32074f65b97cc9290df66fab3ff20c77f9",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/manager-monthly-report/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/manager-monthly-report/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2428,7 +2428,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 10128,
     "sha256": "e0173ceab1ebffe6c5d6ce8523daacf130255fb6b020cd6376d4bff455ec4396",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/market-benchmark-comparison/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/market-benchmark-comparison/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2439,7 +2439,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 22663,
     "sha256": "a965f8add7e86d0be7d482ff28b1bbd640f6d6adc13e074114bfc0f492a955fe",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/monthly-targeting-review/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/monthly-targeting-review/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2450,7 +2450,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 12728,
     "sha256": "4621b77cb3967e1db3762f6d5fcb715acf40d8006afec430ad453dca0595f309",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/multichannel-performance-rollup/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/multichannel-performance-rollup/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2461,7 +2461,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 9499,
     "sha256": "ddb2b76e60799af8af25718bd16ebff6a5716ac758bb974b2deefbf53d98a03b",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/no-deal-warm-leads-finder/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/no-deal-warm-leads-finder/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2472,7 +2472,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 9025,
     "sha256": "527b55374461b6baf0a56633002cb27bea5ce47cc12cfff4d71f91202ad6ac6f",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/pacing-check-against-schedule/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/pacing-check-against-schedule/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2483,7 +2483,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 9806,
     "sha256": "97e5d5406e1c8e2d2f0904c3aa38a90161031037c81a2c02e4c77c11f32117a5",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/pausing-low-performing-ads/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/pausing-low-performing-ads/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2494,7 +2494,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 31197,
     "sha256": "382c4a2f0e9af49735a6be5c04b346b6e5459704e9403fe60eb2ab121e2c0bca",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/signal-list-routine/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/signal-list-routine/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2505,7 +2505,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 8352,
     "sha256": "306c27722f16d738f87f914061c9f28b4f4fafd433b8bd7980ecc490d778b874",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/silent-watchers-finder/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/silent-watchers-finder/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2516,7 +2516,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 15421,
     "sha256": "7673376b791691e40399e9c20a861f570b4442032f531325642f3b9ff863702b",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/social-signals-to-pipeline/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/social-signals-to-pipeline/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2527,7 +2527,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 13609,
     "sha256": "86a1fc90157753acd2886884b5334712de1e32fff74d5a4f6a8126d6bbb94102",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/traffic-analysis/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/traffic-analysis/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2538,7 +2538,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 10648,
     "sha256": "80fc185d3aaafdc8f9960d547bdb94cf5bf81192a1ee32bbf1db49be75c21967",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/video-quality-check/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/video-quality-check/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2549,7 +2549,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 33770,
     "sha256": "0580b93a3f3875ea1f719b3d7d37b37772d4599c4b6cb93727d314f239ef28e2",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/warm-lead-handoff/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/warm-lead-handoff/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2560,7 +2560,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 9325,
     "sha256": "93e5f9ac0dd121024a827883bc4601991cb5284751bcf346698cff83e5594ebf",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/waste-budget-detection/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/waste-budget-detection/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2571,7 +2571,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 9426,
     "sha256": "6bfe462dc4688c51e6872aeb6d77673532d0f0bf9a7eb0ce6a93d760345ec99c",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/weekly-reporting/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/weekly-reporting/SKILL.md"
   },
   {
     "repo": "demandsense-labs/linkedin-ads-skills",
@@ -2582,7 +2582,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 8361,
     "sha256": "4b6a88dbab69d6a7546c61de9c21ede671ac9b4bdceb9223a066094bbe8b86a7",
-    "localFile": "vendor/demandsense-labs/linkedin-ads-skills/whos-looking-at-your-buying-pages/SKILL.md"
+    "localFile": "docs/vendor/demandsense-labs/linkedin-ads-skills/whos-looking-at-your-buying-pages/SKILL.md"
   },
   {
     "repo": "adkit/ads-skills",
@@ -2626,7 +2626,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 12649,
     "sha256": "37429c5eb82e6cd59d6186da95ae0bdbe4d1f701c6bcaf68820fb75294a7f86f",
-    "localFile": "vendor/adaptyteam/apple-ads-cli/skills/adapty-cli-setup/SKILL.md"
+    "localFile": "docs/vendor/adaptyteam/apple-ads-cli/skills/adapty-cli-setup/SKILL.md"
   },
   {
     "repo": "adaptyteam/apple-ads-cli",
@@ -2637,7 +2637,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 6906,
     "sha256": "4cd6d8a90b4f6afa2aa5bf96c3f7b2e507f29c497f3bb9d2b1bb780d48cbe5dd",
-    "localFile": "vendor/adaptyteam/apple-ads-cli/skills/apple-ads-audit/SKILL.md"
+    "localFile": "docs/vendor/adaptyteam/apple-ads-cli/skills/apple-ads-audit/SKILL.md"
   },
   {
     "repo": "adaptyteam/apple-ads-cli",
@@ -2648,7 +2648,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 5233,
     "sha256": "bc8f1fc1ebdf12cbbb93e5a0a3e6b2063ecebd19691d3a66572c9a7a329cca55",
-    "localFile": "vendor/adaptyteam/apple-ads-cli/skills/apple-ads-strategy/SKILL.md"
+    "localFile": "docs/vendor/adaptyteam/apple-ads-cli/skills/apple-ads-strategy/SKILL.md"
   },
   {
     "repo": "adaptyteam/apple-ads-cli",
@@ -2659,7 +2659,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 21673,
     "sha256": "addd7c15116cb4f1208feb68c1f0ed9bfaf61d5d47769bc57f5a703fc0db2fa8",
-    "localFile": "vendor/adaptyteam/apple-ads-cli/skills/apple-ads/SKILL.md"
+    "localFile": "docs/vendor/adaptyteam/apple-ads-cli/skills/apple-ads/SKILL.md"
   },
   {
     "repo": "popjam-io/skills",
@@ -2670,7 +2670,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 6845,
     "sha256": "c68a97e309644d3becd5fdf75fc337db395b94cfe3b5cfab165189932ced756a",
-    "localFile": "vendor/popjam-io/skills/skills/ad-platform-safe-zones/SKILL.md"
+    "localFile": "docs/vendor/popjam-io/skills/skills/ad-platform-safe-zones/SKILL.md"
   },
   {
     "repo": "popjam-io/skills",
@@ -2681,7 +2681,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 12825,
     "sha256": "f9509fe99f760375a74eef21c70cdc71e8476581f3e950042a2598c2f872cd70",
-    "localFile": "vendor/popjam-io/skills/skills/art-motion/SKILL.md"
+    "localFile": "docs/vendor/popjam-io/skills/skills/art-motion/SKILL.md"
   },
   {
     "repo": "popjam-io/skills",
@@ -2692,7 +2692,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 16332,
     "sha256": "6e820b49f210a53c29d53c515ffa0b62669df764e3aaf0746ed4e9cf7eb8c31e",
-    "localFile": "vendor/popjam-io/skills/skills/award-landing-page/SKILL.md"
+    "localFile": "docs/vendor/popjam-io/skills/skills/award-landing-page/SKILL.md"
   },
   {
     "repo": "popjam-io/skills",
@@ -2703,7 +2703,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 9680,
     "sha256": "c68babca2771aa3ab51ff895e9365bf7749ebbaf488d46b6d1cd01dfcfd2963a",
-    "localFile": "vendor/popjam-io/skills/skills/brand-guideline-extraction/SKILL.md"
+    "localFile": "docs/vendor/popjam-io/skills/skills/brand-guideline-extraction/SKILL.md"
   },
   {
     "repo": "popjam-io/skills",
@@ -2714,7 +2714,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 7796,
     "sha256": "7ad18c022e28c8978b82268b0d90c9724b458b1564a9d13181d8d7473ed830a7",
-    "localFile": "vendor/popjam-io/skills/skills/popjam-growth-engine/SKILL.md"
+    "localFile": "docs/vendor/popjam-io/skills/skills/popjam-growth-engine/SKILL.md"
   },
   {
     "repo": "popjam-io/skills",
@@ -2725,7 +2725,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 17850,
     "sha256": "eaeae6e5d01c29f3c425255ee942c4a14f261fd9aae9609f36e8535e06f55496",
-    "localFile": "vendor/popjam-io/skills/skills/remotion-render-pitfalls/SKILL.md"
+    "localFile": "docs/vendor/popjam-io/skills/skills/remotion-render-pitfalls/SKILL.md"
   },
   {
     "repo": "popjam-io/skills",
@@ -2736,7 +2736,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 7947,
     "sha256": "55ecae0a91f7351057783225003d36a3b4c2d8a71b5b2c3e774311c3ad6d3087",
-    "localFile": "vendor/popjam-io/skills/skills/writing-style-extraction/SKILL.md"
+    "localFile": "docs/vendor/popjam-io/skills/skills/writing-style-extraction/SKILL.md"
   },
   {
     "repo": "mardab96/paid-ads-claude-skills",
@@ -2747,7 +2747,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 4193,
     "sha256": "edee01faf9862765fd13ee47ce795e8f60669f19e395c6c4cb4b18da1d25bd7a",
-    "localFile": "vendor/mardab96/paid-ads-claude-skills/advantage-plus-control-review-paid-ads/SKILL.md"
+    "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/advantage-plus-control-review-paid-ads/SKILL.md"
   },
   {
     "repo": "mardab96/paid-ads-claude-skills",
@@ -2758,7 +2758,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 4588,
     "sha256": "c523c564daf0732b4614b40810f53cc5321cdd22a78542bd51f6e021555d8f20",
-    "localFile": "vendor/mardab96/paid-ads-claude-skills/bidding-learning-sanity-check-paid-ads/SKILL.md"
+    "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/bidding-learning-sanity-check-paid-ads/SKILL.md"
   },
   {
     "repo": "mardab96/paid-ads-claude-skills",
@@ -2769,7 +2769,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 4191,
     "sha256": "551714934f022ac4f7d1c20c60960318751d4ba98a9af4f629859de4b01478c1",
-    "localFile": "vendor/mardab96/paid-ads-claude-skills/campaign-structure-debt-audit-paid-ads/SKILL.md"
+    "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/campaign-structure-debt-audit-paid-ads/SKILL.md"
   },
   {
     "repo": "mardab96/paid-ads-claude-skills",
@@ -2780,7 +2780,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 3500,
     "sha256": "8eb90857221636eb28c5e1aba99bac21fef12b1a46074af4e226b81152e81dec",
-    "localFile": "vendor/mardab96/paid-ads-claude-skills/comment-objection-miner-paid-ads/SKILL.md"
+    "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/comment-objection-miner-paid-ads/SKILL.md"
   },
   {
     "repo": "mardab96/paid-ads-claude-skills",
@@ -2791,7 +2791,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 4224,
     "sha256": "c366374d6d608217e5f5ffa7b9c33372af0eff6f47a3964ce5650b7ca6dc3221",
-    "localFile": "vendor/mardab96/paid-ads-claude-skills/competitor-auction-pressure-review-paid-ads/SKILL.md"
+    "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/competitor-auction-pressure-review-paid-ads/SKILL.md"
   },
   {
     "repo": "mardab96/paid-ads-claude-skills",
@@ -2802,7 +2802,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 5199,
     "sha256": "3bfcea5dc730298c05bfbacf1b7909c144c43545eecddc64ca9dd647967c801a",
-    "localFile": "vendor/mardab96/paid-ads-claude-skills/creative-fatigue-angle-review-paid-ads/SKILL.md"
+    "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/creative-fatigue-angle-review-paid-ads/SKILL.md"
   },
   {
     "repo": "mardab96/paid-ads-claude-skills",
@@ -2813,7 +2813,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 4824,
     "sha256": "8eaf5544b06c4f70f9135c770cf59da4a202a870986b36b2cdcb5c47dd4d39d2",
-    "localFile": "vendor/mardab96/paid-ads-claude-skills/cross-channel-budget-reallocation-paid-ads/SKILL.md"
+    "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/cross-channel-budget-reallocation-paid-ads/SKILL.md"
   },
   {
     "repo": "mardab96/paid-ads-claude-skills",
@@ -2824,7 +2824,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 4230,
     "sha256": "1ba1b555c1301f076d50bd87b86037a066fb446bb6bc7d9006448d66ae4c142e",
-    "localFile": "vendor/mardab96/paid-ads-claude-skills/experiment-readout-paid-ads/SKILL.md"
+    "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/experiment-readout-paid-ads/SKILL.md"
   },
   {
     "repo": "mardab96/paid-ads-claude-skills",
@@ -2835,7 +2835,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 4051,
     "sha256": "057f0327746541568878ef0e2f23d8dcaeca7f298eece062fcd461cbc9bfdbc5",
-    "localFile": "vendor/mardab96/paid-ads-claude-skills/landing-page-conversion-review-paid-ads/SKILL.md"
+    "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/landing-page-conversion-review-paid-ads/SKILL.md"
   },
   {
     "repo": "mardab96/paid-ads-claude-skills",
@@ -2846,7 +2846,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 4239,
     "sha256": "8716995c5ef39f33d9383479525fe4e1267623bff0ae0d7a4fcf8aee005a501d",
-    "localFile": "vendor/mardab96/paid-ads-claude-skills/lead-quality-feedback-loop-paid-ads/SKILL.md"
+    "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/lead-quality-feedback-loop-paid-ads/SKILL.md"
   },
   {
     "repo": "mardab96/paid-ads-claude-skills",
@@ -2857,7 +2857,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 3654,
     "sha256": "89d0f7d13ddbf610d09f262979ba69164f74cb1c4d0ecbe2a7ff62c1679c280a",
-    "localFile": "vendor/mardab96/paid-ads-claude-skills/offer-message-match-audit-paid-ads/SKILL.md"
+    "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/offer-message-match-audit-paid-ads/SKILL.md"
   },
   {
     "repo": "mardab96/paid-ads-claude-skills",
@@ -2868,7 +2868,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 4871,
     "sha256": "72ec7aa792c5fccf8db09577fa6cc39db3d76a54d1a1aaa360fd4823e5286419",
-    "localFile": "vendor/mardab96/paid-ads-claude-skills/paid-ads-account-triage/SKILL.md"
+    "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/paid-ads-account-triage/SKILL.md"
   },
   {
     "repo": "mardab96/paid-ads-claude-skills",
@@ -2879,7 +2879,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 4215,
     "sha256": "2a99a20c4a6126c6e335ded758b61b1fea61e1474da0bf5c2b9c386ea1026273",
-    "localFile": "vendor/mardab96/paid-ads-claude-skills/performance-anomaly-explainer-paid-ads/SKILL.md"
+    "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/performance-anomaly-explainer-paid-ads/SKILL.md"
   },
   {
     "repo": "mardab96/paid-ads-claude-skills",
@@ -2890,7 +2890,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 4124,
     "sha256": "2a35feceabdcf1a14e318527bcaa68797646f8ca6f64b5991c4a09777991751a",
-    "localFile": "vendor/mardab96/paid-ads-claude-skills/performance-max-control-review-paid-ads/SKILL.md"
+    "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/performance-max-control-review-paid-ads/SKILL.md"
   },
   {
     "repo": "mardab96/paid-ads-claude-skills",
@@ -2901,7 +2901,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 3722,
     "sha256": "0d2d0bcac239a41ae9d5ad8acd16886f9c9ad2c85afda4656ae3cee1d8c45471",
-    "localFile": "vendor/mardab96/paid-ads-claude-skills/product-feed-catalog-qa-paid-ads/SKILL.md"
+    "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/product-feed-catalog-qa-paid-ads/SKILL.md"
   },
   {
     "repo": "mardab96/paid-ads-claude-skills",
@@ -2912,7 +2912,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 4481,
     "sha256": "bccb67ed2777d03414cd89ec97f25db7a57c7879f963d6b33a91cf206e396266",
-    "localFile": "vendor/mardab96/paid-ads-claude-skills/scale-readiness-check-paid-ads/SKILL.md"
+    "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/scale-readiness-check-paid-ads/SKILL.md"
   },
   {
     "repo": "mardab96/paid-ads-claude-skills",
@@ -2923,7 +2923,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 4240,
     "sha256": "5fc4b0e2d5ac73953d1e43364b8cee4a6d96e4a5694922efc3523422dcaa7000",
-    "localFile": "vendor/mardab96/paid-ads-claude-skills/search-terms-intent-hygiene-paid-ads/SKILL.md"
+    "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/search-terms-intent-hygiene-paid-ads/SKILL.md"
   },
   {
     "repo": "mardab96/paid-ads-claude-skills",
@@ -2934,7 +2934,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 5642,
     "sha256": "96c65379cd16748e385faf680bc506ad0dabbbe97721ddbdc18b0128e63a3bee",
-    "localFile": "vendor/mardab96/paid-ads-claude-skills/tracking-signal-quality-audit-paid-ads/SKILL.md"
+    "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/tracking-signal-quality-audit-paid-ads/SKILL.md"
   },
   {
     "repo": "mardab96/paid-ads-claude-skills",
@@ -2945,7 +2945,7 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 4202,
     "sha256": "40263f23366a27201f29bdcccaef767b121396ea8bc40e3fd79f5a204cb4e372",
-    "localFile": "vendor/mardab96/paid-ads-claude-skills/wasted-spend-finder-paid-ads/SKILL.md"
+    "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/wasted-spend-finder-paid-ads/SKILL.md"
   },
   {
     "repo": "mardab96/paid-ads-claude-skills",
@@ -2956,6 +2956,6 @@
     "checkedAt": "2026-11-12T16:42:24.334Z",
     "bytes": 3595,
     "sha256": "c71b48f5abbaa9991803277b4a16e82ee758d2080a7157e8e127fc1c2b733cd5",
-    "localFile": "vendor/mardab96/paid-ads-claude-skills/weekly-paid-ads-operator-readout/SKILL.md"
+    "localFile": "docs/vendor/mardab96/paid-ads-claude-skills/weekly-paid-ads-operator-readout/SKILL.md"
   }
 ]

@@ -22,6 +22,8 @@ for(const e of data.entries){
  }
 }
 assert(data.entries.length===545&&bundled===366,'catalog or bundled skill loss');
+const index=JSON.parse(readFileSync(join(root,'docs/evidence/skill-index.json'),'utf8')) as Array<{localFile?:string;sha256?:string}>;
+for(const e of index)if(e.localFile)assert(e.localFile.startsWith('docs/vendor/')&&existsSync(resolve(root,e.localFile))&&createHash('sha256').update(readFileSync(resolve(root,e.localFile))).digest('hex')===e.sha256,'skill evidence path or hash');
 assert(data.platforms.every(p=>p.runtime==='reference_only'),'public catalog has no account runtime');
 const provenance=JSON.parse(readFileSync(join(root,'docs/evidence/hero.provenance.json'),'utf8')) as {sha256:string};
 const image=readFileSync(join(root,'assets/hero.png'));
@@ -48,6 +50,8 @@ const readme=readFileSync(join(root,'README.md'),'utf8');
 const listed=[...readme.matchAll(/<!-- entry:([^ ]+) -->/g)].map(m=>m[1]!);
 assert(listed.length===ids.size&&new Set(listed).size===ids.size&&listed.every(id=>ids.has(id)),'README must list every entry once');
 assert(!readme.includes('<details')&&Buffer.byteLength(readme)<500_000,'catalog must render directly on GitHub');
+const german=readFileSync(join(root,'Languages/README.de.md'),'utf8');
+assert([...german.matchAll(/<!-- entry:([^ ]+) -->/g)].length===ids.size,'German README must contain the full catalog');
 const allowedRoot=['.github','.gitignore','Languages','README.md','assets','docs'];
 const actualRoot=readdirSync(root).filter(f=>f!=='.git');
 assert(actualRoot.length===allowedRoot.length&&actualRoot.every(f=>allowedRoot.includes(f)),'compact root invariant');

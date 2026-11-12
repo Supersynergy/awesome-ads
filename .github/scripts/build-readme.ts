@@ -48,7 +48,7 @@ for(const section of sections){
  const entries=data.entries.filter(e=>section.kinds.includes(e.kind));
  const groups=section.kinds.includes('skill')?data.platforms.map(p=>({label:p.name,items:entries.filter(e=>e.platforms[0]===p.id)})):[{label:'',items:entries}];
  for(const group of groups){if(!group.items.length)continue;if(group.label)lines.push(`### ${group.label}`,'');
-  for(const e of group.items){const labels=e.platforms.map(p=>platformNames.get(p)??p).join(', ');lines.push(`- [${md(e.name)}](${e.sourceUrl}) — ${description(e)} *${labels}.*${e.localFile?` [Pinned skill](${e.localFile}).`:''} <!-- entry:${e.id} -->`);}
+  for(const e of group.items){const labels=e.platforms.map(p=>platformNames.get(p)??p).join(', ');lines.push(`- [${md(e.name)}](${e.sourceUrl}): ${description(e)} *${labels}.*${e.localFile?` [Pinned skill](${e.localFile}).`:''} <!-- entry:${e.id} -->`);}
   lines.push('');
  }
 }
@@ -57,5 +57,26 @@ lines.push('## Method, licenses and contributions','',
  'Research channels: GHMax, Superweb Mega, Gitstars, Metacode, GitHub and YouTube. [Research method](docs/research.md) · [Platform coverage and gaps](docs/platforms.md) · [Third-party notices](docs/notice.md) · [Contributing](.github/CONTRIBUTING.md).','',
  'Download or clone this repository and open `docs/catalog/index.html` to search offline. No package installation is needed. The private account assistant, customer data and credentials are excluded.','',
  'Maintainers: `bun .github/scripts/build-readme.ts` regenerates this list; `bun .github/scripts/verify.ts` checks its completeness, paths, content hashes and repository boundary.','');
-writeFileSync(resolve(root,'README.md'),lines.join('\n'));
+const english=lines.join('\n');
+writeFileSync(resolve(root,'README.md'),english);
+const german=english
+ .replace('Advertising tools, agent skills, ad libraries and measurement resources — the complete collection is listed on this page.','Werbetools, Agent-Skills, Anzeigenbibliotheken und Messverfahren. Die vollständige Sammlung steht direkt auf dieser Seite.')
+ .replace('[Deutsch](Languages/README.de.md)','[English](README.md)')
+ .replace('**Start with:**','**Startpunkt:**')
+ .replace('## Repositories','## Repositories')
+ .replace('## Awesome lists','## Awesome-Listen')
+ .replace('## Agent skills','## Agent-Skills')
+ .replace('## Official documentation','## Offizielle Dokumentation')
+ .replace('## Ad libraries and competitor research','## Anzeigenbibliotheken und Mitbewerberanalyse')
+ .replace('## YouTube references','## YouTube-Quellen')
+ .replace('## Research tools','## Recherchewerkzeuge')
+ .replace('## Method, licenses and contributions','## Methode, Lizenzen und Beiträge')
+ .replaceAll('](#awesome-lists)','](#awesome-listen)')
+ .replaceAll('](#official-documentation)','](#offizielle-dokumentation)')
+ .replaceAll('](#ad-libraries-and-competitor-research)','](#anzeigenbibliotheken-und-mitbewerberanalyse)')
+ .replaceAll('](#youtube-references)','](#youtube-quellen)')
+ .replaceAll('](#research-tools)','](#recherchewerkzeuge)')
+ .replace(/\]\((?!https?:|mailto:|#)([^)]+)\)/g,'](../$1)')
+ .replace('src="assets/hero.png"','src="../assets/hero.png"');
+writeFileSync(resolve(root,'Languages/README.de.md'),german);
 console.log(JSON.stringify({readmeEntries:data.entries.length,bytes:Buffer.byteLength(lines.join('\n'))}));

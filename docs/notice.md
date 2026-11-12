@@ -1,6 +1,6 @@
 # Third-party references and attribution
 
-Catalog entries link to their source repositories and pinned commits. Bundled skill files are preserved as reference documents; their original notices and licenses remain applicable. Files under `vendor/licenses/` preserve licenses for the earlier pins. `vendor/<owner>/<repo>/LICENSE.upstream` preserves notices for additional indexed files.
+Catalog entries link to their source repositories and pinned commits. Bundled skill files are preserved as reference documents; their original notices and licenses remain applicable. Files under `docs/vendor/licenses/` preserve licenses for the earlier pins. `docs/vendor/<owner>/<repo>/LICENSE.upstream` preserves notices for additional indexed files.
 
 The catalog is not a blanket license grant for the linked projects or copied skill files. Follow the license at the relevant source and commit before reusing or executing material. Three indexed skill entries have no local text because a suitable redistribution license was not confirmed.
 
