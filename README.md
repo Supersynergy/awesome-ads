@@ -1,4 +1,6 @@
-<img src="assets/hero.png" alt="Awesome Ads" width="300" align="right">
+<p align="center">
+  <img src="assets/hero.png" alt="Awesome Ads" width="960">
+</p>
 
 # Awesome Ads
 
